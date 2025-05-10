@@ -92,7 +92,7 @@ def find_ambi(ref):
 
     for sleep_time in sleep_times:
       try:
-        outputs = call_api(text, image)
+        outputs = call_api(text,system_prompt2)
         break  # 成功调用时跳出循环
       except Exception as e:
         last_error = e  # 记录最后一次错误
