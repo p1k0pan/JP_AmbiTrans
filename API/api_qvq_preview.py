@@ -94,7 +94,7 @@ def find_ambi(ref):
     item["qvq_output"]=outputs
     result.append(item)
 
-  output_path = os.path. join(root, f"{model_name}_{os.path. basename(ref)}")
+  output_path = os.path.join(root, f"{model_name}_{os.path.basename(ref)}")
   print(f"Saving results to: {output_path}")
   json.dump(result, open(output_path, 'w'), ensure_ascii=False, indent=4)
   # json.dump(result, open(root+f"{model_name}_{ref}", 'w'), ensure_ascii=False, indent=4)
