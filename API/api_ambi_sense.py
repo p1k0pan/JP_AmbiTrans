@@ -25,12 +25,10 @@ def call_api(text,system_prompt):
         # model="模型",
         model = model_name, # 图文
         messages=[
-                {
+            {'role': 'system', 'content': system_prompt},
+            {
                 "role": "user",
-                "content": [
-                    {'role': 'system', 'content': system_prompt},
-                    {"type": "text", "text": text},
-                ],
+                "content": text
             }
         ],
     )
@@ -77,94 +75,94 @@ Output format:
 user_input = "en: {en}\ntrans_zh: {zh}\nzh_resolved_ambi: {zh_resolved_ambi}\nagree_ambi: {agree_ambi}"
 
 def find_ambi(ref):
-  data = json.load(open(ref, 'r'))
-  sleep_times = [5, 10, 20, 40, 60]
-  result = []
+    data = json.load(open(ref, 'r'))
+    sleep_times = [5, 10, 20, 40, 60]
+    result = []
 
-  for item in tqdm.tqdm(data):
-    ambi = json.dumps(item["agree_ambi"], ensure_ascii=False, indent=2)
-    text = user_input.format(en=item["en"],zh=item["standard_zh"], zh_resolved_ambi=item["standard_resolved_ambiguity"],agree_ambi=ambi)
+    for item in tqdm.tqdm(data):
+        ambi = json.dumps(item["agree_ambi"], ensure_ascii=False, indent=2)
+        text = user_input.format(en=item["en"],zh=item["standard_zh"], zh_resolved_ambi=item["standard_resolved_ambiguity"],agree_ambi=ambi)
 
-    idx = item["idx"]
-    image = image_folder + item["image"]
+        idx = item["idx"]
+        image = image_folder + item["image"]
 
-    last_error = None  # 用于存储最后一次尝试的错误
+        last_error = None  # 用于存储最后一次尝试的错误
 
-    for sleep_time in sleep_times:
-      try:
-        outputs = call_api(text,system_prompt2)
-        break  # 成功调用时跳出循环
-      except Exception as e:
-        last_error = e  # 记录最后一次错误
-        print(f"Error on {idx}: {e}. Retry after sleeping {sleep_time} sec...")
-        if "Error code: 400" in str(e) or "Error code: 429" in str(e):
-          time.sleep(sleep_time)
+        for sleep_time in sleep_times:
+            try:
+                outputs = call_api(text,system_prompt2)
+                break  # 成功调用时跳出循环
+            except Exception as e:
+                last_error = e  # 记录最后一次错误
+                print(f"Error on {idx}: {e}. Retry after sleeping {sleep_time} sec...")
+                if "Error code: 400" in str(e) or "Error code: 429" in str(e):
+                    time.sleep(sleep_time)
+                else:
+                    item["error"]=str(e)
+                    outputs = ""
+                    break
         else:
-            item["error"]=str(e)
-            outputs = ""
-            break
-    else:
-      # 如果达到最大重试次数仍然失败，记录空结果, break不会进入else
-      print(f"Skipping {idx}")
-      outputs
-      if last_error:  # 确保 last_error 不是 None
-        item["error"]=str(last_error)
-    item["sense"]=outputs
-    result.append(item)
+            # 如果达到最大重试次数仍然失败，记录空结果, break不会进入else
+            print(f"Skipping {idx}")
+            outputs
+            if last_error:  # 确保 last_error 不是 None
+                item["error"]=str(last_error)
+        item["sense"]=outputs
+        result.append(item)
 
-  output_path = os.path.join(root, f"{model_name}_{os.path.basename(ref)}")
-  print(f"Saving results to: {output_path}")
-  json.dump(result, open(output_path, 'w'), ensure_ascii=False, indent=4)
+    output_path = os.path.join(root, f"{model_name}_{os.path.basename(ref)}")
+    print(f"Saving results to: {output_path}")
+    json.dump(result, open(output_path, 'w'), ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":
-  model_name = "gpt-4o-2024-11-20"
-  print(model_name)
-  parser = argparse.ArgumentParser()
-  parser.add_argument(
-    '--terminal', 
-    type=int, 
-    required=True,  # 如果一定要提供terminal参数
-    choices=list(range(1, 7)),  # 限定可选值为 1~6
-    help="Specify which terminal block (1 to 6) to run"
-)
-    
-  # 解析命令行参数
-  args = parser.parse_args()
-  terminal = args.terminal
+    model_name = "gpt-4o-2024-11-20"
+    print(model_name)
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        '--terminal', 
+        type=int, 
+        required=True,  # 如果一定要提供terminal参数
+        choices=list(range(1, 7)),  # 限定可选值为 1~6
+        help="Specify which terminal block (1 to 6) to run"
+    )
+        
+    # 解析命令行参数
+    args = parser.parse_args()
+    terminal = args.terminal
 
-  today=datetime.date.today()
+    today=datetime.date.today()
 
-  root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/gpt4o找歧义sense-{today}/"
-  Path(root).mkdir(parents=True, exist_ok=True)
-  image_folder = "/mnt/workspace/xintong/ambi_plus/3am_images/"
+    root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/gpt4o找歧义sense-{today}/"
+    Path(root).mkdir(parents=True, exist_ok=True)
+    image_folder = "/mnt/workspace/xintong/ambi_plus/3am_images/"
 
-  """第一个terminal"""
-  if terminal == 1:
-    file = "../data/final_clean_2000_v1.6_part1.json"
-    print("file ", file)
-    find_ambi(file)
+    """第一个terminal"""
+    if terminal == 1:
+        file = "../data/final_clean_2000_v1.6_part1.json"
+        print("file ", file)
+        find_ambi(file)
 
-  """第二个terminal"""
-  if terminal == 2:
-    file = "../data/final_clean_2000_v1.6_part2.json"
-    print("file ", file)
-    find_ambi(file)
+    """第二个terminal"""
+    if terminal == 2:
+        file = "../data/final_clean_2000_v1.6_part2.json"
+        print("file ", file)
+        find_ambi(file)
 
-  """第3个terminal"""
-  if terminal == 3:
-    file = "../data/final_clean_2000_v1.6_part3.json"
-    print("file ", file)
-    find_ambi(file)
+    """第3个terminal"""
+    if terminal == 3:
+        file = "../data/final_clean_2000_v1.6_part3.json"
+        print("file ", file)
+        find_ambi(file)
 
-  """第4个terminal"""
-  if terminal == 4:
-    file = "../data/final_clean_2000_v1.6_part4.json"
-    print("file ", file)
-    find_ambi(file)
+    """第4个terminal"""
+    if terminal == 4:
+        file = "../data/final_clean_2000_v1.6_part4.json"
+        print("file ", file)
+        find_ambi(file)
 
-  """第5个terminal"""
-  if terminal == 5: 
-    file = "../data/final_clean_2000_v1.6_part5.json"
-    print("file ", file)
-    find_ambi(file)
+    """第5个terminal"""
+    if terminal == 5: 
+        file = "../data/final_clean_2000_v1.6_part5.json"
+        print("file ", file)
+        find_ambi(file)

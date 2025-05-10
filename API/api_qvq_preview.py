@@ -48,7 +48,17 @@ def call_api(text,image):
     )
     return response.choices[0].message.content
 
-text_prompt = "You are a multimodal assistant. The user provides an image and an English text to be translated into Chinese. The text is ambiguous on its own, so first you need to analyze the ambiguities in the text, then use the visual context from the image carefully to analyze how the visual content helps clarify the meaning of the text and disambiguate. Finally, provide the most accurate translation based on the resolved meaning. Only output the final Chinese translation.\n\nCaption: {en}"
+# text_prompt = "You are a multimodal assistant. The user provides an image and an English text to be translated into Chinese. The text is ambiguous on its own, so first you need to analyze the ambiguities in the text, then use the visual context from the image carefully to analyze how the visual content helps clarify the meaning of the text and disambiguate. Finally, provide the most accurate translation based on the resolved meaning. Only output the final Chinese translation.\n\nCaption: {en}"
+
+text_prompt = """You are a multimodal assistant. The user provides an image and an English text to be translated into Chinese. The text is ambiguous on its own, so first you need to analyze the ambiguities in the text, then use the visual context from the image carefully to analyze how the visual content helps clarify the meaning of the text and disambiguate. Finally, provide the most accurate translation based on the resolved meaning. 
+
+Note:
+1. Only output the final Chinese translation for the Final Answer. 
+2. Primarily use English for reasoning, and only use Chinese for the translation. Don't translate the reasoning part into Chinese.
+3. In the Final Answer, do not include any reasoning or explanation, just the final translation.
+
+Caption: {en}
+"""
 
 def find_ambi(ref):
   data = json.load(open(ref, 'r'))
@@ -108,7 +118,7 @@ if __name__ == "__main__":
 
   today=datetime.date.today()
 
-  root = f"result/qvq推理翻译{today}/"
+  root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qvq推理翻译_v2-{today}/"
   Path(root).mkdir(parents=True, exist_ok=True)
   image_folder = "/mnt/workspace/xintong/ambi_plus/3am_images/"
 
