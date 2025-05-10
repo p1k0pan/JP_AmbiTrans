@@ -106,7 +106,10 @@ def find_ambi(ref):
     result.append(item)
 
 
-  json.dump(result, open(root+f"{model_name}_{ref}", 'w'), ensure_ascii=False, indent=4)
+  output_path = os.path. join(root, f"{model_name}_{os.path. basename(ref)}")
+  print(f"Saving results to: {output_path}")
+  json.dump(result, open(output_path, 'w'), ensure_ascii=False, indent=4)
+  # json.dump(result, open(root+f"{model_name}_{ref}", 'w'), ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":
@@ -127,7 +130,7 @@ if __name__ == "__main__":
 
   today=datetime.date.today()
 
-  root = "result/qvq推理翻译{today}/"
+  root = f"result/qvq推理翻译{today}/"
   Path(root).mkdir(parents=True, exist_ok=True)
   image_folder = "/mnt/workspace/xintong/ambi_plus/3am_images/"
 
