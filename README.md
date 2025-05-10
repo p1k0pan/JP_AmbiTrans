@@ -7,6 +7,7 @@
 ## 日志
 ### 2025年5月10日
 - [ ] cd到API目录下面，开启5个terminal，运行代码分别是 `python api_ambi_sense.py --terminal 1-5`。生成的结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/gpt4o找歧义sense-{today}/`
+- [ ] cd到API目录下面，开启5个terminal，运行代码分别是 `python api_qvq_preview.py --terminal 1-5`。生成的结果在`/mnt/workspace/xintong/pjh/All\_result/JP_AmbiTrans/qvq_preview推理翻译_v2-{today}/`
 
 ### 2025年5月9日
 - [x] 建立一个`/mnt/workspace/xintong/api_key.txt`, 第一行放API key，第二行放 base url
