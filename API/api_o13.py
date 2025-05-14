@@ -11,14 +11,14 @@ import time
 import argparse
 import datetime
 
-# with open('/mnt/workspace/xintong/api_key.txt', 'r') as f:
-#     lines = f.readlines()
+with open('/mnt/workspace/xintong/api_key.txt', 'r') as f:
+    lines = f.readlines()
 
-# API_KEY = lines[0].strip()
-# BASE_URL = lines[1].strip()
+API_KEY = lines[0].strip()
+BASE_URL = lines[1].strip()
 
-# openai.api_key = API_KEY
-# openai.base_url = BASE_URL
+openai.api_key = API_KEY
+openai.base_url = BASE_URL
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
