@@ -203,7 +203,7 @@ if __name__ == "__main__":
 
   today=datetime.date.today()
 
-  root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qvq_preview推理翻译_v2-{today}/"
+  root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qwenvl_找具体词-{today}/"
   Path(root).mkdir(parents=True, exist_ok=True)
   image_folder = "/mnt/workspace/xintong/ambi_plus/3am_images/"
   
