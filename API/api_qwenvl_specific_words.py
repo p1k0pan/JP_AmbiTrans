@@ -177,7 +177,7 @@ def find_ambi(ref):
       outputs
       if last_error:  # 确保 last_error 不是 None
         item["error"]=str(last_error)
-    item["qvq_output"]=outputs
+    item["sp_words"]=outputs
     result.append(item)
 
   output_path = os.path.join(root, f"{model_name}_{os.path.basename(ref)}")
@@ -192,7 +192,7 @@ if __name__ == "__main__":
   parser.add_argument(
     '--terminal', 
     type=int, 
-    required=True,  # 如果一定要提供terminal参数
+    required=False,  # 如果一定要提供terminal参数
     choices=list(range(1, 7)),  # 限定可选值为 1~6
     help="Specify which terminal block (1 to 6) to run"
 )

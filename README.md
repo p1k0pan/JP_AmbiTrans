@@ -6,7 +6,8 @@
 
 ## 日志
 ### 2025年5月21日
-- cd到API目录下，找具体翻译词。运行代码是`python api_qvq-max.py --terminal 1`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qwenvl_找具体词-{today}/`
+- cd到API目录下，找具体翻译词。运行代码是`python api_qwenvl_specific_words.py`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qwenvl_找具体词-{today}/`
+- cd到API目录下，找二级歧义词。运行代码是`python api_qwen_two_level.py`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qwenvl_找具体词-{today}/`
 
 ### 2025年5月13日
 - [x] cd到API目录下，只用一个terminal跑一部分数据验证`qvq-max`的推理链路。运行代码是`python api_qvq-max.py --terminal 1`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qvq-max消歧链路-{today}/`

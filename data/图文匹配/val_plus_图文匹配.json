@@ -1,0 +1,3922 @@
+[
+    {
+        "idx": 0,
+        "image": "000000204435.jpg",
+        "en": "A warning sign about the danger of a checkpoint arm.",
+        "zh": "一个关于检查站手臂的危险的警告牌。",
+        "img_match": "匹配。图片中显示的是一块警告标志，上面有文字和图形，明确指出移动臂可能造成的身体伤害或车辆损坏，并且禁止摩托车和行人通过。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 1,
+        "image": "4862877623.jpg",
+        "en": "A man on a red bike popping a wheelie.",
+        "zh": "一个骑着红色自行车的人突然出现后轮支撑车技。",
+        "img_match": "匹配。图片中确实有一个男人骑着一辆红色的自行车，并且正在做轮子动作（即前轮离地）。"
+    },
+    {
+        "idx": 2,
+        "image": "000000184929.jpg",
+        "en": "Workers at indoor area   with bunches of unripened fruit.",
+        "zh": "工作人员在室内区域拿着未成熟的水果。",
+        "img_match": "匹配。图片显示的是在一个室内区域，工人们正在处理成串的未成熟的水果（香蕉）。"
+    },
+    {
+        "idx": 3,
+        "image": "000000432503.jpg",
+        "en": "A person jumping in the air on a skateboard.",
+        "zh": "一个人在滑板上跳到空中。",
+        "img_match": "匹配。图片中确实有一个人在空中跳跃，脚下踩着滑板。"
+    },
+    {
+        "idx": 4,
+        "image": "4619640749.jpg",
+        "en": "There are two people playing a game.",
+        "zh": "有两个人在玩游戏。",
+        "img_match": "匹配。图片中有两个人正在地上玩一种棋类游戏，周围还有其他人围观。"
+    },
+    {
+        "idx": 5,
+        "image": "000000454561.jpg",
+        "en": "A long train on a narrow train track.",
+        "zh": "一辆长火车在狭窄的火车轨道上。",
+        "img_match": "匹配。图片中显示的是一列长火车在一条狭窄的铁轨上行驶，周围是绿色的植被和树木。"
+    },
+    {
+        "idx": 6,
+        "image": "cc12m_1287762797.jpg",
+        "en": "A trail marker stating which way mescal parking, devil 's bridge, and dry creek vista parking is.",
+        "zh": "一个路标标明梅斯卡尔停车场、魔鬼桥和干溪Vista停车场的方向。",
+        "img_match": "匹配。图片中显示了一个木质的路标，上面有指向“MESCAL PARKING”、“DEVIL'S BRIDGE”和“DRY CREEK VISTA”的指示牌，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 7,
+        "image": "3980506413.jpg",
+        "en": "A man is working in a mine or cavern of some sort.",
+        "zh": "一个人在某个矿洞里工作。",
+        "img_match": "匹配。图片中显示一个人在一个类似矿井或洞穴的环境中，周围是岩石结构，地面和墙壁上有灯光照明，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 8,
+        "image": "4587710350.jpg",
+        "en": "Performers showing off their instruments.",
+        "zh": "表演者展示他们的乐器。",
+        "img_match": "匹配。图片中有三个人，其中一人拿着一个大型的乐器（看起来像是一种传统的弦乐器），另一人正在弹奏手风琴，第三人在旁边观看。这表明他们可能是在展示他们的乐器和表演。"
+    },
+    {
+        "idx": 9,
+        "image": "3415287719.jpg",
+        "en": "Girls jumping high in a forest.",
+        "zh": "女孩们在森林里跳得很高。",
+        "img_match": "匹配。图片显示两个女孩在森林中跳跃，背景是树木和蓝天，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 10,
+        "image": "cc12m_987288901.jpg",
+        "en": "Two athlete runners racing to the finish line.",
+        "zh": "两名田径运动员跑向终点线。",
+        "img_match": "匹配。图片中显示了两名运动员正在跑步，看起来像是在进行比赛，可能是在向终点线冲刺。背景中有观众和赛事标志，进一步支持了这一判断。"
+    },
+    {
+        "idx": 11,
+        "image": "000000317861.jpg",
+        "en": "A jet plane flies overhead in a clear sky.",
+        "zh": "一架喷气式飞机在晴朗的天空中飞过头顶。",
+        "img_match": "匹配。图片中确实有一架喷气式飞机在晴朗的天空中飞过头顶。"
+    },
+    {
+        "idx": 12,
+        "image": "000000547280.jpg",
+        "en": "A quiet city street with overhead traffic lights.",
+        "zh": "一条安静的城市街道，头顶有红绿灯。",
+        "img_match": "匹配。图片显示了一条城市街道，交通灯悬挂在上方，街道上车辆不多，显得比较安静。"
+    },
+    {
+        "idx": 13,
+        "image": "000000110359.jpg",
+        "en": "Commercial jet passing overhead on bright cloudless sky.",
+        "zh": "商业飞机在晴朗无云的天空中从头顶飞过。",
+        "img_match": "匹配。图片显示了一架商业喷气式飞机在晴朗无云的天空中飞过，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 14,
+        "image": "cc12m_23047793.jpg",
+        "en": "A picture of a vintage metal horse statue.",
+        "zh": "一幅老式金属马雕像的图片。",
+        "img_match": "匹配。图片中确实展示了一尊复古金属马雕像，与句子描述的内容相符。"
+    },
+    {
+        "idx": 15,
+        "image": "000000326335.jpg",
+        "en": "Two large pieces of pizza over power a paper plate.",
+        "zh": "两大块披萨装超负荷放在一个纸盘子里。",
+        "img_match": "匹配。图片中显示了两块大披萨放在一个纸盘上，与句子描述的内容相符。"
+    },
+    {
+        "idx": 16,
+        "image": "000000036228.jpg",
+        "en": "A woman is putting a dish into the oven.",
+        "zh": "一位女士正在把一道菜放进烤箱。",
+        "img_match": "匹配。图片中显示一位女士正将一个盘子放入烤箱内，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 17,
+        "image": "cc12m_1686792219.jpg",
+        "en": "A day of death - defying surf at jaws.",
+        "zh": "死亡挑战日—在“大白鲨”冲浪。",
+        "img_match": "匹配。图片显示了一位冲浪者在巨大的海浪中进行极限冲浪，这与句子描述的“死亡挑战般的冲浪日”相符合。Jaws是一个著名的大型海浪冲浪地点，图片中的场景也与此相符。"
+    },
+    {
+        "idx": 18,
+        "image": "cc12m_2495409682.jpg",
+        "en": "A number of the points made about chemical carcinogenesis are also true for radiation - induced carcinogenesis.",
+        "zh": "关于化学致癌的一些观点同样适用于辐射诱发的致癌。",
+        "img_match": "匹配"
+    },
+    {
+        "idx": 19,
+        "image": "000000241319.jpg",
+        "en": "A sink surrounded by lots of tooth brushes and glasses.",
+        "zh": "水槽周围有很多牙刷和玻璃杯。",
+        "img_match": "匹配。图片中显示了一个水槽，周围有许多牙刷和玻璃杯。"
+    },
+    {
+        "idx": 20,
+        "image": "cc12m_2057639014.jpg",
+        "en": "A woman walks along a city canal as new office and apartment buildings rise over a slum in jakarta,.",
+        "zh": "一名妇女沿着城市运河行走，雅加达贫民窟后方的新办公楼和公寓楼拔地而起，。",
+        "img_match": "匹配。图片中可以看到一名女性沿着一条城市运河行走，背景中有新的办公和公寓大楼正在建设中，而前景则是一片贫民窟。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 21,
+        "image": "000000185158.jpg",
+        "en": "A living room with a sofa, ottoman, and lamp.",
+        "zh": "一间有沙发、搁脚凳和台灯的客厅。",
+        "img_match": "匹配。图片中确实有一个客厅，里面有一张沙发、一个脚凳（ottoman）和一盏台灯。"
+    },
+    {
+        "idx": 22,
+        "image": "000000148815.jpg",
+        "en": "A horse sticks his head over the fence.",
+        "zh": "一匹马把头伸过栅栏。",
+        "img_match": "匹配。图片中确实有一匹马将头伸出围栏，与句子描述的内容相符。"
+    },
+    {
+        "idx": 23,
+        "image": "000000335395.jpg",
+        "en": "A person with shorts and checkered slip on sneakers standing on a skateboard.",
+        "zh": "一个穿着短裤和格纹编织运动鞋的人站在滑板上。",
+        "img_match": "匹配。图片中的人穿着短裤和格子图案的无带运动鞋，站在滑板上。"
+    },
+    {
+        "idx": 24,
+        "image": "433379122.jpg",
+        "en": "There is more then one bike.",
+        "zh": "那里不止有一辆自行车。",
+        "img_match": "匹配。图片中可以看到多辆自行车停放在街道一侧。"
+    },
+    {
+        "idx": 25,
+        "image": "cc12m_4181007779.jpg",
+        "en": "A syringe injecting a sick earth with medicine representing healing for the ills of the planet. earth image courtesy of nasa.",
+        "zh": "一个注射器向生病的地球注射药物象征治愈地球疾病。地球图片来自美国宇航局。",
+        "img_match": "匹配。图片显示了一个类似注射器的物体插入地球，这与句子中描述的“一个注射器正在给生病的地球注射药物，象征着治愈地球的病痛”相吻合。此外，句子提到的“地球图像由NASA提供”也与图片内容相符，因为图片中的地球看起来像是基于NASA提供的地球图像制作的。因此，这个句子与图片内容是匹配的。"
+    },
+    {
+        "idx": 26,
+        "image": "000000287748.jpg",
+        "en": "An equestrian jumping their horse over a white jump.",
+        "zh": "一名马术运动员骑马跳过白色障碍。",
+        "img_match": "匹配。图片中显示了一位骑手正在骑马跳跃过一个白色的障碍物，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 27,
+        "image": "000000485234.jpg",
+        "en": "A sliced loaf of lemon almond tea cake.",
+        "zh": "一片柠檬杏仁茶蛋糕。",
+        "img_match": "匹配。图片中显示的是一块切开的柠檬杏仁茶蛋糕，与句子描述的内容相符。"
+    },
+    {
+        "idx": 28,
+        "image": "000000020794.jpg",
+        "en": "Two men stand in a room, playing a game on the wii system.",
+        "zh": "两个男人站在一个房间里，用Wii系统玩游戏。",
+        "img_match": "匹配。图片中有两个人站在一个房间里，他们手中都拿着类似Wii遥控器的物体，看起来像是在玩Wii游戏系统。"
+    },
+    {
+        "idx": 29,
+        "image": "000000483889.jpg",
+        "en": "A living room scene with two couches.",
+        "zh": "有两张沙发的客厅场景。",
+        "img_match": "匹配。图片显示的是一个客厅场景，里面有两张沙发。"
+    },
+    {
+        "idx": 30,
+        "image": "cc12m_4285482483.jpg",
+        "en": "A barren landscape is accentuated by burn scars.",
+        "zh": "一片贫瘠的土地因烧伤疤痕而更加突出。",
+        "img_match": "匹配。图片显示的是一片荒芜的土地，地面上有明显的烧痕和残骸，与句子描述的“一片荒芜的景观因烧伤疤痕而更加突出”相符合。"
+    },
+    {
+        "idx": 31,
+        "image": "3259991972.jpg",
+        "en": "A man is putting on a performance by balancing himself on his head on a sidewalk.",
+        "zh": "一个男人在人行道上表演用头来保持平衡。",
+        "img_match": "匹配。图片中确实有一个男人在人行道上表演，他正用头倒立平衡自己。"
+    },
+    {
+        "idx": 32,
+        "image": "000000347829.jpg",
+        "en": "Two tan double decker busses on road next to bridge.",
+        "zh": "桥旁边的道路上有两辆黄褐色的双层巴士。",
+        "img_match": "匹配。图片中确实有两辆米色的双层巴士在桥旁边的路上行驶。"
+    },
+    {
+        "idx": 33,
+        "image": "cc12m_3243611891.jpg",
+        "en": "A seminole neighborhood saw a number of trees knocked down during the storm friday.",
+        "zh": "星期五，塞米诺尔的一个社区看到许多树木在风暴中倒下。",
+        "img_match": "匹配。图片显示了风暴过后，一棵大树倒在了围栏和房屋上，这与句子描述的“在周五的风暴中，塞米诺尔社区有许多树木被吹倒”相符。"
+    },
+    {
+        "idx": 34,
+        "image": "7808530252.jpg",
+        "en": "Runners sprint toward the finish in a track meet.",
+        "zh": "在田径比赛中，选手们向终点冲刺。",
+        "img_match": "匹配。图片显示了一群跑步者在草地上奔跑，他们穿着比赛服装和运动鞋，这与句子描述的“Runners sprint toward the finish in a track meet”（跑步者在田径比赛中冲刺向终点）相符。虽然背景不是标准的跑道，但场景确实描绘了跑步比赛的一部分。"
+    },
+    {
+        "idx": 35,
+        "image": "cc12m_774215454.jpg",
+        "en": "A blue and white helicopter flied above burning bushland.",
+        "zh": "一架蓝白相间的直升机在燃烧的丛林上空飞行。",
+        "img_match": "匹配。图片中显示了一架蓝白相间的直升机在燃烧的灌木丛上方飞行，与句子描述的内容相符。"
+    },
+    {
+        "idx": 36,
+        "image": "cc12m_904511145.jpg",
+        "en": "A woman who is blushing and loving someone with hearts.",
+        "zh": "一个脸红的女人，用真心爱着一个人。",
+        "img_match": "匹配。图片中描绘了一位女性，她的脸颊泛红，似乎在害羞或脸红，周围有心形图案，这通常表示爱意或喜欢的情感。因此，这个句子与图片内容是相匹配的。"
+    },
+    {
+        "idx": 37,
+        "image": "000000068163.jpg",
+        "en": "A busy market with many motor cycles and many people.",
+        "zh": "有许多摩托车和许多人的繁忙市场。",
+        "img_match": "匹配。图片显示了一个繁忙的市场，有许多摩托车和许多人。"
+    },
+    {
+        "idx": 38,
+        "image": "4154120779.jpg",
+        "en": "A dark - haired latino boy in jeans running past a wall covered with graffiti.",
+        "zh": "一个穿着牛仔裤的黑发拉丁裔男孩从满是涂鸦的墙边跑过。",
+        "img_match": "匹配。图片中确实有一个黑发的男孩穿着牛仔裤，正在一面涂满涂鸦的墙前奔跑。"
+    },
+    {
+        "idx": 39,
+        "image": "000000529303.jpg",
+        "en": "Two people with tennis rackets on a hard surface tennis court with a building behind the courts.",
+        "zh": "两个人拿着网球拍在一个硬表面网球场上，球场后面有一座建筑物。",
+        "img_match": "匹配。图片中确实有两个人拿着网球拍在硬地网球场上，背景中有一座建筑物。"
+    },
+    {
+        "idx": 40,
+        "image": "7171741452.jpg",
+        "en": "The man is swimming in the pool.",
+        "zh": "那个人在游泳池里游泳。",
+        "img_match": "匹配。图片中显示一个人在游泳池里游泳，因此这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 41,
+        "image": "000000525721.jpg",
+        "en": "Two birds are on an outdoor dining table.",
+        "zh": "两只鸟在户外餐桌上。",
+        "img_match": "匹配。图片中确实有两只鸟在户外的餐桌上，一只站在桌子上，另一只似乎正在飞向桌子。"
+    },
+    {
+        "idx": 42,
+        "image": "000000100627.jpg",
+        "en": "A pizza on a board with a pizza cutter.",
+        "zh": "用披萨刀在木板上切披萨",
+        "img_match": "匹配。图片中显示了一块披萨放在一个板子上，并且旁边有一个披萨切割器。"
+    },
+    {
+        "idx": 43,
+        "image": "cc12m_3381066233.jpg",
+        "en": "A photo of the lincoln memorial with a sign stating that all national parks are closed due to the government shutdown.",
+        "zh": "一张林肯纪念馆的照片，上面有一个标志，表明由于政府关门，所有国家公园都关闭了。",
+        "img_match": "匹配。图片显示的是林肯纪念堂，前面有一个标志牌，上面写着由于联邦政府关闭，所有国家公园都已关闭。这与句子描述的内容一致。"
+    },
+    {
+        "idx": 44,
+        "image": "000000425899.jpg",
+        "en": "A computer monitor is showing a picture of the room.",
+        "zh": "电脑显示器正在显示房间的照片。",
+        "img_match": "匹配。图片中的电脑显示器显示的内容与房间的实际布局和物品摆放一致，包括桌上的设备、墙上的吉他等，这表明显示器上确实显示的是该房间的照片。"
+    },
+    {
+        "idx": 45,
+        "image": "cc12m_3573325234.jpg",
+        "en": "A presentation of a text in a condensed form ; the student wrote a summary of the chapter 's content.",
+        "zh": "以浓缩的形式介绍一篇文章；学生写了一章内容的摘要。",
+        "img_match": "匹配。图片中的文字确实包含了句子“A presentation of a text in a condensed form; the student wrote a summary of the chapter's content.”的内容，这与句子描述的内容相匹配。"
+    },
+    {
+        "idx": 46,
+        "image": "sbu_2807661831.jpg",
+        "en": "A paper promotion book for a linen paper line called classic linen. the book comes in a linen slipcover.",
+        "zh": "一本名为《经典亚麻》的亚麻纸系列的宣传书。这本书有一个亚麻布的滑套。",
+        "img_match": "匹配。图片显示了一本装在亚麻布套中的书，书的封面上有“CLASSIC”字样，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 47,
+        "image": "cc12m_897699362.jpg",
+        "en": "Two of the largest carillon bells.",
+        "zh": "两个最大的卡隆钟",
+        "img_match": "匹配。图片显示了两个大型的钟，它们看起来像是卡里翁（carillon）的一部分，卡里翁是一种由多个调谐好的钟组成的乐器。这两个钟是图片中可见的最大的两个，因此可以合理地认为这是对“两个最大的卡里翁钟”的描述。"
+    },
+    {
+        "idx": 48,
+        "image": "cc12m_2867923048.jpg",
+        "en": "A lot of rolls of toilet paper.",
+        "zh": "很多卫生纸卷，库存照片。",
+        "img_match": "匹配。图片中显示了许多卷卫生纸，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 49,
+        "image": "sbu_2322132331.jpg",
+        "en": "A set of six 14 mm round beads in black glass with silvered blue scroll pattern.",
+        "zh": "一套6颗14毫米的黑色玻璃圆珠，带有银色的蓝色卷轴图案。",
+        "img_match": "匹配。图片显示的是一串由六个圆形珠子组成的项链，这些珠子看起来是黑色玻璃材质，并且有银蓝色的卷曲图案。珠子的大小看起来大约是14毫米，与句子描述的内容一致。"
+    },
+    {
+        "idx": 50,
+        "image": "cc12m_1616087283.jpg",
+        "en": "A screenshot of the totesport sign up form.",
+        "zh": "Totesport注册表的屏幕截图。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 51,
+        "image": "000000230614.jpg",
+        "en": "A woman with her arms above her head holding into strings for a kite shaped like a hamburger.",
+        "zh": "一个女人，双臂举在头顶，用绳子绑着一只形状像汉堡包的风筝。",
+        "img_match": "匹配。图片中确实有一个女人，她的手臂举过头顶，手里拉着一根线，这根线连接着一个形状像汉堡包的风筝。"
+    },
+    {
+        "idx": 52,
+        "image": "4693817690.jpg",
+        "en": "A mural has a bunch of colors.",
+        "zh": "有一堆的颜色的壁画。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 53,
+        "image": "000000266383.jpg",
+        "en": "A bald man in a suite reclines in a chair near a bookshelf.",
+        "zh": "套房里的一个秃顶男子靠在书架旁的椅子上。",
+        "img_match": "匹配。图片中确实显示了一个秃顶的男子穿着西装，坐在椅子上，旁边是一个书架。"
+    },
+    {
+        "idx": 54,
+        "image": "cc12m_3012414211.jpg",
+        "en": "A municipality worker sweeps autumn leaves on the street in front of number 10 downing street in central london on november 6 2019.",
+        "zh": "2019年11月6日，伦敦市中心唐宁街10号前，一名市政工人在街上扫落叶。",
+        "img_match": "匹配。图片中确实有一位穿着反光背心的工人正在清扫街道上的落叶，背景是唐宁街10号的大门，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 55,
+        "image": "cc12m_1073680722.jpg",
+        "en": "A rainbow appeared over great falls monday night after a thunderstorm rolled through town.",
+        "zh": "一道彩虹出现在大瀑布的上空，周一晚上，雷雨滚滚，穿过小镇。",
+        "img_match": "匹配。图片中确实显示了一道彩虹，背景是多云的天空，这与句子描述的在雷暴过后出现彩虹的情况相符。虽然无法确定具体地点和时间，但视觉上与句子描述的情景一致。"
+    },
+    {
+        "idx": 56,
+        "image": "cc12m_4168066563.jpg",
+        "en": "A north korean propaganda poster reads, ' death to invaders ! '.",
+        "zh": "朝鲜的一张宣传海报上写着“侵略者去死吧！”。",
+        "img_match": "匹配。图片中的朝鲜宣传海报上确实有“침략자들에게 죽음을！”的文字，翻译成英文就是“Death to invaders!”。"
+    },
+    {
+        "idx": 57,
+        "image": "000000121876.jpg",
+        "en": "A polar bear standing next to an orange disc.",
+        "zh": "站在橙色圆盘旁的北极熊。",
+        "img_match": "匹配。图片中显示一只北极熊站在一个橙色的圆盘旁边，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 58,
+        "image": "000000094485.jpg",
+        "en": "The yellow bathroom has a tilted ceiling and a television.",
+        "zh": "黄色的浴室有倾斜的天花板和电视。",
+        "img_match": "匹配。图片中的浴室墙壁是黄色的，天花板确实有倾斜的设计，并且在天花板上安装了一台电视机。"
+    },
+    {
+        "idx": 59,
+        "image": "000000085483.jpg",
+        "en": "A mouse for a computer with a red bottom.",
+        "zh": "红色底部的电脑鼠标。",
+        "img_match": "匹配。图片中的电脑鼠标底部有红色的灯光，与句子描述的内容相符。"
+    },
+    {
+        "idx": 60,
+        "image": "49102426.jpg",
+        "en": "Stuffed animals are available for sale.",
+        "zh": "填充动物可供出售。",
+        "img_match": "匹配。图片中显示了许多毛绒玩具，它们被摆放在架子上，看起来像是在出售。因此，句子“Stuffed animals are available for sale.”与图片事实相匹配。"
+    },
+    {
+        "idx": 61,
+        "image": "000000330554.jpg",
+        "en": "Blender with portions of its contents spilled around it.",
+        "zh": "搅拌器里面的部分搅拌物喷洒在其周围。",
+        "img_match": "匹配。图片中显示了一个搅拌机，其周围有明显的液体洒落痕迹，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 62,
+        "image": "000000362117.jpg",
+        "en": "A den with a couch, ottoman, chairs, television and a fireplace.",
+        "zh": "一个带沙发、脚凳、椅子、电视和壁炉的房间。",
+        "img_match": "匹配。图片中显示的是一个客厅，里面有沙发、脚凳、椅子、电视和壁炉。这些元素与句子描述的内容相符。"
+    },
+    {
+        "idx": 63,
+        "image": "000000345005.jpg",
+        "en": "A man wearing glasses brushing his teeth up close to the camera.",
+        "zh": "一个戴眼镜的男人正在贴近照相机刷牙。",
+        "img_match": "匹配。图片中确实显示了一位戴着眼镜的男子正在刷牙，而且他非常靠近镜头。"
+    },
+    {
+        "idx": 64,
+        "image": "1877935642.jpg",
+        "en": "An older asian man stands next to a large tub of rice.",
+        "zh": "一位年长的亚洲人站在一大桶大米旁。",
+        "img_match": "匹配。图片中确实有一位年长的亚洲男子站在一个装满米的大桶旁边。"
+    },
+    {
+        "idx": 65,
+        "image": "463478807.jpg",
+        "en": "A crowded sidewalk with people on it separated from the street by metal barriers.",
+        "zh": "一条拥挤的人行道，上面的人被金属栅栏与街道隔开。",
+        "img_match": "匹配。图片显示了一个拥挤的人行道，上面有许多行人，人行道与街道之间有金属护栏隔开。"
+    },
+    {
+        "idx": 66,
+        "image": "cc12m_406962391.jpg",
+        "en": "A pink throw pillow with a tie - dye look.",
+        "zh": "一个扎染的粉红色抱枕。",
+        "img_match": "匹配。图片显示的是一个带有扎染效果的粉色抱枕，与句子描述的内容相符。"
+    },
+    {
+        "idx": 67,
+        "image": "cc12m_2376647138.jpg",
+        "en": "A pile of cardboard boxes representing a mountain of ecommerce returns.",
+        "zh": "一堆纸箱代表着堆积如山的电商退货。",
+        "img_match": "匹配。图片显示了一堆纸板箱，这可以被解释为电子商务退货的象征。虽然图片本身没有提供关于这些箱子是否确实是退货的信息，但它们的数量和堆放方式确实可以让人联想到大量的退货包裹。因此，这个句子与图片内容是相匹配的。"
+    },
+    {
+        "idx": 68,
+        "image": "cc12m_1770955727.jpg",
+        "en": "A girl with a blonde, art deco bob and pearls, smiling. another girl with pink hair and a smile.",
+        "zh": "一个金发女孩，梳着装饰艺术风格的短发，戴着珍珠，微笑着。另一个有着粉红色头发和微笑的女孩。",
+        "img_match": "匹配。图片中确实有一个女孩有着金色的、艺术装饰风格的波波头，并且佩戴着珍珠项链，她面带微笑。另一个女孩有粉红色的头发，也带着微笑。这些细节与句子描述的内容相符。"
+    },
+    {
+        "idx": 69,
+        "image": "1315116409.jpg",
+        "en": "There are people riding the roller coaster.",
+        "zh": "有人在坐过山车。",
+        "img_match": "匹配。图片中可以看到人们正在乘坐过山车，他们的表情和姿势表明他们正在享受这个刺激的游乐设施。"
+    },
+    {
+        "idx": 70,
+        "image": "cc12m_1140551244.jpg",
+        "en": "A woman wearing kickboxing gear stands in a ring with other people flashing a thumb 's up.",
+        "zh": "一个穿着自由搏击装备的女人站在一个圈里，其他人都竖起大拇指。",
+        "img_match": "匹配。图片中确实有一位穿着踢拳装备的女性站在一个类似拳击场的地方，周围还有其他人竖起了大拇指。"
+    },
+    {
+        "idx": 71,
+        "image": "cc12m_225967798.jpg",
+        "en": "A lineman works at the top of a telephone pole.",
+        "zh": "电线工人在电线杆顶部工作。",
+        "img_match": "匹配。图片中显示了一位工人在电话杆的顶部工作，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 72,
+        "image": "000000540436.jpg",
+        "en": "A dish of food with a fork and drink on a table.",
+        "zh": "餐桌上的一盘带有叉子的食物和饮料。",
+        "img_match": "匹配。图片中显示了一盘食物，旁边有一把叉子和一杯饮料，这些都放在一张桌子上。"
+    },
+    {
+        "idx": 73,
+        "image": "000000544588.jpg",
+        "en": "A little kitty laying on part of a keyboard.",
+        "zh": "一只小猫咪躺在键盘上。",
+        "img_match": "匹配。图片中确实有一只小猫躺在键盘的一部分上。"
+    },
+    {
+        "idx": 74,
+        "image": "cc12m_1352661828.jpg",
+        "en": "A hill rising above the kuskokwim river.",
+        "zh": "耸立在Kuskokwim河边的一座山丘",
+        "img_match": "匹配。图片中可以看到一条河流，河的对岸有一座小山丘，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 75,
+        "image": "cc12m_1702344951.jpg",
+        "en": "A huge rock balancing vertically on another rock.",
+        "zh": "一块巨大的岩石在另一块岩石上保持垂直平衡。",
+        "img_match": "匹配。图片中显示了一块巨大的岩石垂直地平衡在另一块岩石上，这与句子的描述相符。"
+    },
+    {
+        "idx": 76,
+        "image": "3043908909.jpg",
+        "en": "A teacher is standing in front of a small class while being filmed.",
+        "zh": "在被拍摄时，一位老师站在一个小班的前面。",
+        "img_match": "匹配。图片中显示一位女性站在白板前，似乎在向坐着的小组讲解内容，而前景中有一台摄像机正在拍摄这一场景，这与句子描述的情况相符。"
+    },
+    {
+        "idx": 77,
+        "image": "540721368.jpg",
+        "en": "A little girl with a yellow dress blows the whistle.",
+        "zh": "一个穿着黄色衣服的小女孩吹响了哨子。",
+        "img_match": "匹配。图片中确实有一个穿着黄色连衣裙的小女孩，她正在吹哨子。"
+    },
+    {
+        "idx": 78,
+        "image": "000000028917.jpg",
+        "en": "A reflection of a stop sign in a window.",
+        "zh": "窗户上停车标志的倒影",
+        "img_match": "匹配。图片中确实显示了一个停标志的反射在窗户上。"
+    },
+    {
+        "idx": 79,
+        "image": "000000117040.jpg",
+        "en": "A lady that is on some kind of clay tennis court.",
+        "zh": "一位在某个红土网球场上的女士。",
+        "img_match": "匹配。图片中显示的是一位女士在打网球，场地看起来像是红土（clay）网球场地。"
+    },
+    {
+        "idx": 80,
+        "image": "cc12m_1822565302.jpg",
+        "en": "Two books, lives of the presidents of the united states and conflict with oblivion.",
+        "zh": "两本书，《美国历届总统的生活》和《与遗忘的冲突》。",
+        "img_match": "匹配。图片中显示了两本书的书脊，一本是“LIVES OF THE PRESIDENTS OF THE UNITED STATES”，另一本是“CONFLICTS WITH OBLIVION”。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 81,
+        "image": "462663804.jpg",
+        "en": "Many people are in an open space.",
+        "zh": "许多人在一个露天场所。",
+        "img_match": "匹配。图片显示了许多人在一个开阔的草地上活动，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 82,
+        "image": "14377317.jpg",
+        "en": "A young boy is playing tee - ball.",
+        "zh": "一个小男孩正在玩软式垒球。",
+        "img_match": "匹配。图片中显示一个年轻男孩正在打棒球，他站在本垒板前，用球棒击打放在T型支架上的球，这正是tee-ball（T型球）的典型场景。"
+    },
+    {
+        "idx": 83,
+        "image": "4768270751.jpg",
+        "en": "A woman painting on the sidewalk of a busy street as people walk by her.",
+        "zh": "一个女人在繁忙街道的人行道上绘画，人们从她身边走过。",
+        "img_match": "匹配。图片中确实有一位女性正在繁忙街道的人行道上作画，周围有行人经过。"
+    },
+    {
+        "idx": 84,
+        "image": "cc12m_3771748653.jpg",
+        "en": "A photo shows empty surroundings of faisal mosque after preventive measures against the coronavirus were taken in islamabad pakistan on april 01 2020.",
+        "zh": "2020年4月1日，巴基斯坦伊斯兰堡，在采取预防冠状病毒的措施后，一张照片显示了费萨尔清真寺的空旷环境。",
+        "img_match": "匹配。图片显示了巴基斯坦伊斯兰堡法伊萨尔清真寺周围的空旷环境，这与句子中提到的在采取预防冠状病毒措施后的情况相符。"
+    },
+    {
+        "idx": 85,
+        "image": "437327595.jpg",
+        "en": "A batter swinging at a pitch with a catcher preparing to receive the pitch.",
+        "zh": "击球手在球场上挥杆，接球手准备接球。",
+        "img_match": "匹配。图片中显示一名击球手正在挥棒击打投球，而捕手则准备接住可能未被击中的球。这与句子描述的内容一致。"
+    },
+    {
+        "idx": 86,
+        "image": "sbu_2321862625.jpg",
+        "en": "A young girl walks past a book vendor in old havana.",
+        "zh": "一个年轻的女孩走过哈瓦那老城的一个书摊。",
+        "img_match": "匹配。图片中显示一个年轻女孩正在走过一个书摊，书摊上摆放着各种书籍，这与句子描述的内容相符。虽然无法确定具体地点是否为古巴哈瓦那的老城区，但场景和描述基本一致。"
+    },
+    {
+        "idx": 87,
+        "image": "3438142614.jpg",
+        "en": "Two people ride past a sign that talks about communism.",
+        "zh": "两个人骑车经过一个谈论共产主义的标志。",
+        "img_match": "匹配。图片中有两个人骑着摩托车经过一个带有共产主义标语的标志，标语上写着“ĐẢY MẠNH CÔNG NGHIỆP HÓA, DÂN GIÀU, NƯỚC MẠNH, XÃ HỘI”等字样，这些内容与共产主义相关。"
+    },
+    {
+        "idx": 88,
+        "image": "cc12m_1991305669.jpg",
+        "en": "A reception desk with a service bell and a key card.",
+        "zh": "一张带有服务铃和钥匙卡的接待台。",
+        "img_match": "匹配。图片中显示了一个标有“RECEPTION”的牌子，一个服务铃和一张钥匙卡，这些都与句子描述的内容相符。"
+    },
+    {
+        "idx": 89,
+        "image": "cc12m_4138469400.jpg",
+        "en": "A baby laid out on a milestone mat.",
+        "zh": "一个婴儿躺在一个里程碑式的垫子上。",
+        "img_match": "匹配。图片中确实有一个婴儿躺在一个里程碑垫子上，这个垫子上有数字和文字，用于记录婴儿的成长阶段。"
+    },
+    {
+        "idx": 90,
+        "image": "cc12m_612698141.jpg",
+        "en": "A groundsman sweeps snow away from the goal line at craven cottage london before a fa cup tie replay between fulham and everton.",
+        "zh": "在富勒姆和埃弗顿之间的足总杯重赛前，一名场地管理员在伦敦克拉文山庄扫除门线上的雪。",
+        "img_match": "匹配。图片显示了两名工作人员在雪地中清理场地，背景中可以看到足球门网和看台，这与句子描述的场景相符。虽然无法从图片中确认具体的地点和比赛信息，但整体情境与句子描述一致。"
+    },
+    {
+        "idx": 91,
+        "image": "5071819265.jpg",
+        "en": "A rider on a dirt bike is doing a maneuver in midair over a dirt mound.",
+        "zh": "一个骑着越野车的人在半空中做了一个土堆上的花样动作。",
+        "img_match": "匹配。图片中确实有一个骑手在空中进行特技动作，他骑着一辆山地自行车（看起来像是一辆特技自行车），而不是一辆越野摩托车。不过，这个描述中的“dirt bike”可能是指任何类型的泥土或越野车辆，因此可以认为是匹配的。骑手正在一个土堆上空飞行，这与句子描述的内容一致。"
+    },
+    {
+        "idx": 92,
+        "image": "cc12m_3785770204.jpg",
+        "en": "A plane wing in the clouds at sunset.",
+        "zh": "夕阳下，云中的机翼。",
+        "img_match": "匹配。图片显示了一架飞机的机翼在云层之上，背景是日落时分的天空，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 93,
+        "image": "000000579101.jpg",
+        "en": "Some luggage is sitting by a conveyor belt.",
+        "zh": "一些行李被放在传送带上。",
+        "img_match": "匹配。图片中可以看到一些行李放在传送带旁边，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 94,
+        "image": "7835294722.jpg",
+        "en": "A woman is trying to show off her skills.",
+        "zh": "一个女人正试图展示她的技能。",
+        "img_match": "匹配。图片中显示了一位女性在空中丝绸上进行表演，这通常需要高超的技巧和训练。她的姿势和动作表明她正在展示自己的技能。"
+    },
+    {
+        "idx": 95,
+        "image": "cc12m_3959124202.jpg",
+        "en": "A family of technologies that provide internet access by transmitting digital data over the wires of a local telephone network.",
+        "zh": "通过在本地电话网络的电线上传输数字数据来提供互联网接入的一系列技术。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 96,
+        "image": "cc12m_3504750485.jpg",
+        "en": "A stack of three perfect buttermilk caramel cupcakes with caramel frosting.",
+        "zh": "三个堆叠起来的焦糖糖霜完美酪乳焦糖纸杯蛋糕。",
+        "img_match": "匹配。图片显示了三个堆叠在一起的杯子蛋糕，它们看起来像是用奶油和焦糖制成的，并且顶部有焦糖糖霜。这些细节与句子描述的内容相符。"
+    },
+    {
+        "idx": 97,
+        "image": "cc12m_87150265.jpg",
+        "en": "A look back at vintage double - feature combo posters.",
+        "zh": "复古双功能组合海报回顾。",
+        "img_match": "匹配。图片展示的是《星球大战》和《帝国反击战》的复古双片组合海报，符合句子描述的内容。"
+    },
+    {
+        "idx": 98,
+        "image": "cc12m_1396479714.jpg",
+        "en": "A missile being launched during the military drill. pic : iranian navy.",
+        "zh": "在军事演习中发射的导弹。图：伊朗海军。",
+        "img_match": "匹配。图片显示了一枚导弹在海上被发射的场景，背景是海洋和舰船的一部分，这与句子描述的“在军事演习中发射导弹”相符合。虽然图片来源没有明确标注为伊朗海军，但根据提供的信息和图片内容，可以合理推断这是在一次军事演习中拍摄的导弹发射场景。"
+    },
+    {
+        "idx": 99,
+        "image": "cc12m_2960444896.jpg",
+        "en": "A full house for the town hall.",
+        "zh": "市政厅座无虚席。",
+        "img_match": "匹配。图片显示了一个会议室或礼堂，里面坐满了人，看起来像是在参加一个会议或讨论会。虽然不能确定是否是“town hall”（市政厅会议），但确实是一个满座的场合。"
+    },
+    {
+        "idx": 100,
+        "image": "000000368321.jpg",
+        "en": "A living area with sofa, ottoman and a painting on wall.",
+        "zh": "客厅里有沙发、脚凳和墙上的画。",
+        "img_match": "匹配。图片中确实展示了一个起居区域，包含一张沙发、一个脚凳（ottoman）和墙上挂着的一幅画。"
+    },
+    {
+        "idx": 101,
+        "image": "cc12m_1219979657.jpg",
+        "en": "A close - up view of the a380 flight deck, including the fly - by - wire flight controls and interactive cockpit displays.",
+        "zh": "A380飞行甲板的近景，包括电传飞行控制和交互式驾驶舱显示器",
+        "img_match": "匹配。图片显示的是一个飞机驾驶舱的内部，具有现代化的飞行控制和交互式显示屏，这些特征与A380的飞行甲板一致。\"Fly-by-wire\"（电传操纵）系统通常在现代商用飞机中使用，包括A380，它通过电子信号而不是机械连杆来控制飞机。此外，图片中的显示屏和控制面板设计也符合A380的特征。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 102,
+        "image": "4617745058.jpg",
+        "en": "There is a person hanging from the beam of a basketball hoop.",
+        "zh": "有一个人挂在篮球筐的横梁上。",
+        "img_match": "匹配。图片中确实有一个人挂在篮球架的横梁上。"
+    },
+    {
+        "idx": 103,
+        "image": "350938953.jpg",
+        "en": "A man in a green shirt is shaving with a straight razor.",
+        "zh": "一个穿着绿色衬衫的男人正在用剃刀刮胡子。",
+        "img_match": "匹配。图片中显示一个穿着绿色衬衫的男人正在用直剃刀刮胡子。"
+    },
+    {
+        "idx": 104,
+        "image": "cc12m_3298898432.jpg",
+        "en": "Three veterans salute the flag.",
+        "zh": "三名老兵向国旗致敬。",
+        "img_match": "匹配。图片中有三位老兵在向国旗敬礼。"
+    },
+    {
+        "idx": 105,
+        "image": "000000373015.jpg",
+        "en": "A pot next to a tree on a beach.",
+        "zh": "海滩上一棵树旁的陶罐。",
+        "img_match": "匹配。图片中确实有一个盆子（pot）放在一棵树旁边，背景是海滩和海洋。"
+    },
+    {
+        "idx": 106,
+        "image": "000000245733.jpg",
+        "en": "A blue cake decorated with characters from angry birds.",
+        "zh": "一个蓝色蛋糕，上面装饰着愤怒的小鸟的角色。",
+        "img_match": "匹配。图片中展示的是一个蓝色的蛋糕，上面装饰有《愤怒的小鸟》中的角色。"
+    },
+    {
+        "idx": 107,
+        "image": "000000273323.jpg",
+        "en": "A harbor with a blue boat as the focus.",
+        "zh": "以蓝色小船为焦点的港口。",
+        "img_match": "匹配。图片显示的是一个港口，其中有一艘蓝色的船作为焦点。"
+    },
+    {
+        "idx": 108,
+        "image": "cc12m_2277939539.jpg",
+        "en": "Three crosses on a hill. hope everyone is having a great sunday and getting ready for the week ahead !.",
+        "zh": "山上的三个十字架。希望每个人都有一个美好的星期天，为接下来的一周做好准备！",
+        "img_match": "匹配。图片中确实有三座十字架位于一座山丘上，与句子描述的内容相符。至于“希望每个人都有一个美好的星期天，并为新的一周做好准备！”这句话，虽然它是一个祝福语，但并不直接与图片内容相关，因此不影响对图片内容的判断。"
+    },
+    {
+        "idx": 109,
+        "image": "000000168858.jpg",
+        "en": "A large kitchen with a metallic refrigerator and an automatic dish washer.",
+        "zh": "一个带金属冰箱和自动洗碗机的大厨房。",
+        "img_match": "匹配。图片显示的是一个大厨房，里面有一台金属冰箱和一台自动洗碗机。"
+    },
+    {
+        "idx": 110,
+        "image": "sbu_3799934602.jpg",
+        "en": "A kick - ass building we saw from a side street while wandering around shinjuku.",
+        "zh": "我们在新宿闲逛时，在一条小街上看到了一座漂亮的建筑。",
+        "img_match": "匹配。图片显示的是一座独特的建筑，具有非常现代和前卫的设计风格，位于狭窄的街道之间，这与句子中描述的在新宿（Shinjuku）的一条小巷中看到的“酷炫”建筑相吻合。新宿是东京的一个著名区域，以其繁忙的街道、现代化的建筑和多样化的文化而闻名，因此这个场景很可能是新宿的一部分。"
+    },
+    {
+        "idx": 111,
+        "image": "000000116004.jpg",
+        "en": "A crowd gathers around a parade route while a float passes through.",
+        "zh": "一辆花车经过时，人群聚集在游行路线周围。",
+        "img_match": "匹配。图片中可以看到一群人聚集在街道上，似乎是在观看游行。有一辆装饰着圣诞装饰的消防车正在通过，这可以被视为游行中的一个花车（float）。因此，这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 112,
+        "image": "cc12m_907483072.jpg",
+        "en": "A true taste of spanish cuisine. eat it by itself. it 's that good.",
+        "zh": "真实品味西班牙菜肴。单独吃。就是这么好。",
+        "img_match": "匹配。\n\n图片显示的是一块西班牙火腿（Jamón），这是一种著名的西班牙美食。根据描述，它确实可以单独食用，并且非常美味，这与句子中的描述相符。因此，这个句子与图片内容是匹配的。"
+    },
+    {
+        "idx": 113,
+        "image": "cc12m_434348080.jpg",
+        "en": "A brief snow shower on the way back.",
+        "zh": "回来的路上有一场短暂的阵雪。",
+        "img_match": "匹配。图片显示的是一个被雪覆盖的山谷，天空中似乎有雪花飘落，这与句子“A brief snow shower on the way back”（在回来的路上有一场短暂的雪阵）描述的内容相符。"
+    },
+    {
+        "idx": 114,
+        "image": "cc12m_4110140082.jpg",
+        "en": "A macro shot of the flower buds of a bleeding heart plant.",
+        "zh": "一颗荷包牡丹花蕾的微距镜头。",
+        "img_match": "匹配。图片显示的是一个特写镜头，聚焦于一种植物的花蕾，这些花蕾呈现出典型的“心形”结构，类似于“bleeding heart”（出血的心）植物的特征。背景模糊，突出了前景中的花蕾，这与句子中描述的“macro shot”（微距拍摄）相符合。因此，这个句子准确地描述了图片的内容。"
+    },
+    {
+        "idx": 115,
+        "image": "cc12m_3399040918.jpg",
+        "en": "A square pizza with pepperoni on a round table with a red and white checked tablecloth.",
+        "zh": "铺着红白格子桌布的圆桌上放着配意大利辣香肠的方形披萨。",
+        "img_match": "匹配。图片中显示的是一块方形披萨，上面有意大利辣香肠（pepperoni），放在一个圆形桌子上，桌子铺着红白格子桌布。这与句子描述的内容完全一致。"
+    },
+    {
+        "idx": 116,
+        "image": "000000139871.jpg",
+        "en": "A small plane with the cockpit open and landing gear down.",
+        "zh": "驾驶舱打开，起落架放下的小型飞机。",
+        "img_match": "匹配。图片中显示的是一架小型飞机，其座舱盖是打开的，并且起落架已经放下。"
+    },
+    {
+        "idx": 117,
+        "image": "sbu_1635056274.jpg",
+        "en": "A dash of black and white in the midst of green.",
+        "zh": "绿色中夹杂着的一抹黑白。",
+        "img_match": "匹配。图片中有一只黑白相间的蝴蝶，它停在绿色的植物上，这与句子“A dash of black and white in the midst of green”描述的内容相符。"
+    },
+    {
+        "idx": 118,
+        "image": "sbu_678642042.jpg",
+        "en": "A boy in sichibeya, zambia, holds a soccer ball made from scraps and string.",
+        "zh": "赞比亚Sichibeya的一个男孩拿着一个用碎片和绳子做成的足球。",
+        "img_match": "匹配。图片中显示一个男孩手里拿着一个用碎布和线制成的球，这与描述中的“soccer ball made from scraps and string”相符。虽然无法从图片中确定具体的地点是赞比亚的Sichibeya，但根据描述和图片内容，可以判断这个句子与图片事实基本匹配。"
+    },
+    {
+        "idx": 119,
+        "image": "cc12m_1268428932.jpg",
+        "en": "A rule base containing a number of fuzzy if- then rules.",
+        "zh": "一个包含若干模糊的if-then规则的规则库。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 120,
+        "image": "sbu_2521558442.jpg",
+        "en": "A handful of eldon fans take seats in the home section.",
+        "zh": "少数埃尔顿球迷在主场区就座。",
+        "img_match": "匹配。图片中可以看到一些穿着印有“ELDON”字样的衣服的观众，他们坐在看台上，这表明他们是Eldon队的球迷，并且正在观看比赛。"
+    },
+    {
+        "idx": 121,
+        "image": "5549756426.jpg",
+        "en": "The man has long flowing hair.",
+        "zh": "这个男人有一头飘逸的长发。",
+        "img_match": "匹配。图片中的男子确实有长而飘逸的头发。"
+    },
+    {
+        "idx": 122,
+        "image": "cc12m_2964097382.jpg",
+        "en": "A text is language that is functional, that is to say.......",
+        "zh": "文本是功能性的语言，也就是说……",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 123,
+        "image": "000000091644.jpg",
+        "en": "A window with some type of wings or bird.",
+        "zh": "一扇有某种异形章或鸟的窗户",
+        "img_match": "匹配。图片显示了一扇窗户，窗户上有一个类似翅膀或鸟的图案。这个图案可能是由某种物质在玻璃上形成的，看起来像是羽毛或翅膀的形状。因此，句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 124,
+        "image": "4889455765.jpg",
+        "en": "A military marching band of soldiers in formal uniform with red coats and fuzzy black hats march by, led by the saxophonist.",
+        "zh": "在萨克斯手的带领下，一个由穿着红色大衣、戴着模糊的黑色帽子的正规军人组成的军乐队走过。",
+        "img_match": "匹配。图片中显示了一支穿着正式制服、红色外套和黑色毛茸茸帽子的军事行进乐队，由一位萨克斯手带领。这与句子描述的内容一致。"
+    },
+    {
+        "idx": 125,
+        "image": "000000018885.jpg",
+        "en": "A large masked character is carried by a group of people in a parade.",
+        "zh": "在游行队伍中，一群人抬着一个巨大的面具人物。",
+        "img_match": "匹配。图片中显示了一个大型的面具角色，它被一群人抬着参加游行。这个面具非常显眼，具有复杂的装饰和鲜艳的颜色，周围有许多观众，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 126,
+        "image": "cc12m_3614020028.jpg",
+        "en": "A variety of small chocolates spilling out of a martini glass.",
+        "zh": "各种各样的小巧克力从马提尼杯中溢出的照片",
+        "img_match": "匹配。图片显示了一种小巧克力从一个类似马提尼酒杯的玻璃容器中倾倒出来，与句子描述的内容相符。"
+    },
+    {
+        "idx": 127,
+        "image": "000000199739.jpg",
+        "en": "Retro picture of a beautiful women at bat.",
+        "zh": "复古的图片，一个美丽的女人在打棒球。",
+        "img_match": "匹配。图片显示了一位女性在棒球场景中，她穿着复古风格的服装，似乎正在准备击球。背景和她的装扮都符合“复古照片”的描述。"
+    },
+    {
+        "idx": 128,
+        "image": "4717658442.jpg",
+        "en": "People in a street sharing their opinions on oil.",
+        "zh": "街道上的人们在分享他们对石油的看法。",
+        "img_match": "匹配。图片中的人们在街上举着标语，表达他们对石油的看法和担忧，如“你希望石油如何影响你的生计？”、“你听说过亚特兰蒂斯吗？”、“石油让我的鳞片脱落！”等，这表明他们在分享自己对石油的意见。"
+    },
+    {
+        "idx": 129,
+        "image": "cc12m_30952412.jpg",
+        "en": "A turkey, pilgrim, and pumpkin patch made of felt cutout pieces.",
+        "zh": "火鸡、朝圣者和南瓜地由毛毡剪裁而成",
+        "img_match": "匹配。图片中展示了一个由毛毡剪裁件制成的火鸡、朝圣者和南瓜地。这些元素与句子描述的内容一致。"
+    },
+    {
+        "idx": 130,
+        "image": "cc12m_4209223121.jpg",
+        "en": "A male patron lies on his back, pulling on resistance bands.",
+        "zh": "一位男性顾客仰卧在地上，拉着阻力带。",
+        "img_match": "匹配。图片中确实有一位男性躺在地上，双手握着阻力带进行锻炼。"
+    },
+    {
+        "idx": 131,
+        "image": "4669211425.jpg",
+        "en": "A man wearing a tie is walking past another man with a jacket slung over his shoulder.",
+        "zh": "一个打着领带的男人从另一个肩膀上挂着外套的男人身边走过。",
+        "img_match": "匹配。图片中可以看到一个穿着西装和领带的男人正在走过，而另一个男人则将夹克搭在肩上。"
+    },
+    {
+        "idx": 132,
+        "image": "1500576335.jpg",
+        "en": "The passer is under pressure.",
+        "zh": "传球手压力很大。",
+        "img_match": "匹配。图片中，传球者（穿着白色球衣的球员）似乎正受到穿红色球衣的防守球员的压力，这表明他确实是在压力下传球。"
+    },
+    {
+        "idx": 133,
+        "image": "cc12m_2627596516.jpg",
+        "en": "A saloon table, second half of the 19th century.",
+        "zh": "一张19世纪下半叶的沙龙桌子。",
+        "img_match": "匹配。图片中的桌子具有19世纪下半叶沙龙桌的典型特征，包括复杂的雕刻、弯曲的腿和装饰性的细节。这些元素与描述中提到的时间段相符。"
+    },
+    {
+        "idx": 134,
+        "image": "000000277637.jpg",
+        "en": "Tin foil with some food on top of it.",
+        "zh": "锡纸上放着一些食物。",
+        "img_match": "匹配。图片显示的是一个用锡纸包裹的食物，食物上有一些配料，如洋葱和番茄酱等。因此，句子“Tin foil with some food on top of it.”与图片内容相符。"
+    },
+    {
+        "idx": 135,
+        "image": "cc12m_3832116340.jpg",
+        "en": "A phillipsburg cheerleader performs during the game as the phillipsburg girls volleyball team hosts easton, sept. 30, 2019.",
+        "zh": "2019年9月30日，菲利普斯堡女子排球队主场迎战伊斯顿，一名啦啦队员在比赛中表演。",
+        "img_match": "匹配。图片中显示了一位穿着带有“PHS”字样的制服的啦啦队员在进行表演，这与句子中提到的Phillipsburg啦啦队员在比赛中表演的情景相符。虽然图片中没有直接显示排球队或具体日期，但根据制服上的标识和啦啦队员的动作，可以合理推断这是在Phillipsburg女子排球队对阵Easton的比赛期间发生的场景。"
+    },
+    {
+        "idx": 136,
+        "image": "cc12m_1804941397.jpg",
+        "en": "A close up of a woman 's face with combination skin.",
+        "zh": "一张有着混合性皮肤的女人的脸部特写照片。",
+        "img_match": "匹配。图片显示的是一个女性脸部的特写，她的皮肤看起来是混合型的，既有油光的部分也有干燥的部分。"
+    },
+    {
+        "idx": 137,
+        "image": "cc12m_3840028978.jpg",
+        "en": "A close up of blue gloves and goggles.",
+        "zh": "一个蓝色手套和护目镜的特写",
+        "img_match": "匹配。图片中显示了一副蓝色的手套和一副护目镜，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 138,
+        "image": "000000473085.jpg",
+        "en": "A large, clean bathroom in the daylight.",
+        "zh": "沐浴在日光中的干净大浴室。",
+        "img_match": "匹配。图片显示的是一个宽敞、干净的浴室，自然光线透过窗户照进来，符合句子描述的内容。"
+    },
+    {
+        "idx": 139,
+        "image": "cc12m_217727470.jpg",
+        "en": "A section of retired women staff of tnstc staging a protest in coimbatore.",
+        "zh": "TNSTC的一部分退休女性员工在哥印拜陀举行抗议活动。",
+        "img_match": "匹配。图片显示了一群女性在进行抗议活动，她们举着标语牌，背景中可以看到警察和其他人群。根据描述，这与“一群退休的TNSTC（泰米尔纳德邦州运输公司）女员工在科伊姆巴托尔进行抗议”的情况相符。"
+    },
+    {
+        "idx": 140,
+        "image": "000000141682.jpg",
+        "en": "There are people in chairs watching a projection screen.",
+        "zh": "有人坐在椅子上看投影屏幕。",
+        "img_match": "匹配。图片中可以看到几个人坐在椅子上，面向一个投影屏幕，屏幕上显示的是Wii游戏的主菜单界面。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 141,
+        "image": "4198839235.jpg",
+        "en": "A girl has an oxygen tube to breathe.",
+        "zh": "女孩靠氧气管呼吸。",
+        "img_match": "匹配。图片中的女孩确实有一个氧气管，这通常用于帮助呼吸。"
+    },
+    {
+        "idx": 142,
+        "image": "cc12m_4194214033.jpg",
+        "en": "Two impact craters surrounded by an unusual ejecta blanket dominate this high resolution image of the surface of jupiter 's moon ganymede galileo.",
+        "zh": "这张木星卫星木卫三伽利略表面的高分辨率图像中，两个被异常喷泄物覆盖的撞击坑在图片中央。",
+        "img_match": "匹配。\n\n图片显示了木星的卫星甘尼米德表面的两个撞击坑，周围有不寻常的喷射物毯。这与句子描述的内容一致。"
+    },
+    {
+        "idx": 143,
+        "image": "cc12m_2971422458.jpg",
+        "en": "A glow in the dark constellation map.",
+        "zh": "黑夜星座图中的一道亮光。",
+        "img_match": "匹配。图片显示的是一张星座图，背景为深蓝色，星星和星座线条以发光的形式呈现，给人一种在黑暗中发光的感觉。因此，描述“A glow in the dark constellation map”与图片内容相符。"
+    },
+    {
+        "idx": 144,
+        "image": "cc12m_3772121560.jpg",
+        "en": "A lavender blossom floats atop a gold filigree ring encrusted with lavender rhinestones.",
+        "zh": "一朵薰衣草花点缀在镶有淡紫色水钻的金丝戒指上。",
+        "img_match": "匹配。图片中的戒指确实有一个淡紫色的花朵装饰，花朵位于一个金色的镂空戒托上，戒托上还镶嵌有淡紫色的宝石，与句子描述的内容相符。"
+    },
+    {
+        "idx": 145,
+        "image": "141755290.jpg",
+        "en": "The lady is selling freshly squeezed lemonade.",
+        "zh": "这位女士正在售卖鲜榨柠檬水。",
+        "img_match": "匹配。图片中的女士正在操作一台榨汁机，旁边有杯子和吸管等物品，这表明她可能在售卖新鲜榨制的柠檬水。"
+    },
+    {
+        "idx": 146,
+        "image": "sbu_3084378750.jpg",
+        "en": "A field and mountains along the cade 's cove loop in great smoky mountains national park.",
+        "zh": "在大烟山国家公园的Cade's Cove环路上的一片田野和山脉。",
+        "img_match": "匹配。图片显示了一片开阔的田野和远处的山脉，这些山脉被薄雾笼罩，这与大烟山国家公园（Great Smoky Mountains National Park）内的Cade's Cove Loop区域的典型景观相符。Cade's Cove是一个著名的山谷，以其广阔的田野、古老的农场建筑和环绕的山脉而闻名。图片中的景象与描述中提到的田野和山脉相吻合。"
+    },
+    {
+        "idx": 147,
+        "image": "000000099902.jpg",
+        "en": "Three children have plenty of room to sleep on a wide bed.",
+        "zh": "三个孩子在一张宽大的床上有足够的空间睡觉。",
+        "img_match": "匹配。图片中显示了三个孩子在一张宽大的床上睡觉，他们之间有足够的空间，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 148,
+        "image": "cc12m_829776788.jpg",
+        "en": "A simple drawing of a girl writing. illustration of a simple drawing of a girl writing on a white background.",
+        "zh": "一副一个女孩在写作的简笔画。一个女孩在白色背景中写字的插图。免版税的插图。",
+        "img_match": "匹配。图片显示的是一个简单的线条画，描绘了一个女孩正在写字的场景。背景是白色的，这与句子描述的内容一致。"
+    },
+    {
+        "idx": 149,
+        "image": "2197275664.jpg",
+        "en": "She have red colour scooter to alert people.",
+        "zh": "她有一辆引人注目的红色滑板车。",
+        "img_match": "匹配。图片中的小女孩骑着一辆红色的滑板车，这与句子中提到的“她有一辆红色的滑板车来提醒人们”相符合。"
+    },
+    {
+        "idx": 150,
+        "image": "cc12m_2250079067.jpg",
+        "en": "A mongolian child with a golden eagle.",
+        "zh": "一个蒙古孩子和一只金鹰。",
+        "img_match": "匹配。图片中显示的是一个穿着传统蒙古服饰的孩子，旁边有一只金雕（golden eagle），这与句子描述的内容相符。"
+    },
+    {
+        "idx": 151,
+        "image": "000000484721.jpg",
+        "en": "Two microwaves are on top of each other.",
+        "zh": "两个微波炉叠放在一起。",
+        "img_match": "匹配。图片中确实显示了两个微波炉叠放在一起。"
+    },
+    {
+        "idx": 152,
+        "image": "cc12m_3597463456.jpg",
+        "en": "A recently groomed standard poodle in white with dyed hair highlights on paws head and tail.",
+        "zh": "一只最近洗梳过的标准白色贵宾犬，爪子头部和尾巴上都有染过的毛发。",
+        "img_match": "匹配。图片显示的是一只最近被修剪过的标准贵宾犬，毛色为白色，并且在爪子、头部和尾巴上有染色的高光。这与句子描述的内容完全一致。"
+    },
+    {
+        "idx": 153,
+        "image": "000000393193.jpg",
+        "en": "People shopping in a small electrical appliance store.",
+        "zh": "人们在一个小电器商店里购物。",
+        "img_match": "匹配。图片显示了三个人在一个小电器店内，周围摆放着各种小型家电，如微波炉、熨斗和搅拌机等，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 154,
+        "image": "000000249058.jpg",
+        "en": "A small bathroom taped and ready for remodeling.",
+        "zh": "一个小浴室已经贴好了胶带，准备进行改造。",
+        "img_match": "匹配。图片显示的是一个小型浴室，墙壁和瓷砖边缘都用蓝色胶带封住，显然是为了准备进行翻新工作。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 155,
+        "image": "cc12m_2311044420.jpg",
+        "en": "A crowd gathered next to rockville centre 's long island rail road station with signs to voice their opinions.",
+        "zh": "一群人聚集在罗克维尔中心的长岛铁路站旁边，举着标语表达他们的意见。",
+        "img_match": "匹配。图片显示了一群人聚集在一起，手持标语牌表达他们的观点。背景中可以看到一个标有“Ticket Vending Machine”的建筑，这表明他们可能是在一个火车站附近。因此，这个句子与图片内容是相匹配的。"
+    },
+    {
+        "idx": 156,
+        "image": "cc12m_1684583008.jpg",
+        "en": "A rare safavid revival bone - inlaid wood cabinet qajar persia, 19th century(2).",
+        "zh": "一个难得一见的萨非复兴时期骨质镶嵌木制橱柜--卡扎尔波斯，19世纪(2)。",
+        "img_match": "匹配。\n\n图片展示的是一件精美的木制柜子，表面装饰有复杂的骨质镶嵌图案，描绘了人物、动物和花卉等元素。这些特征与萨非王朝复兴风格（Safavid Revival）相符，该风格在19世纪的卡扎尔王朝（Qajar Persia）时期得到了复兴和发展。因此，句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 157,
+        "image": "000000219169.jpg",
+        "en": "A line of elephants sitting on their rears in front of a large audience.",
+        "zh": "一排大象在众多的观众面前坐在它们的尾巴上。",
+        "img_match": "匹配。图片中显示了一排大象坐在它们的后腿上，背景中可以看到一个大型观众席，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 158,
+        "image": "000000260637.jpg",
+        "en": "A small blue and white plate sitting on a small runway.",
+        "zh": "一个小型的蓝白相间的直升机停在在一个小型跑道上。",
+        "img_match": "匹配。图片中显示的是一架小型蓝白相间的飞机，停在一条小跑道上。"
+    },
+    {
+        "idx": 159,
+        "image": "cc12m_2688657526.jpg",
+        "en": "A cute young girl holding a blank sign.",
+        "zh": "一个年轻可爱的女孩举着一张白纸。",
+        "img_match": "匹配。图片中确实有一个年轻的女孩，她手里拿着一个空白的牌子。"
+    },
+    {
+        "idx": 160,
+        "image": "000000186472.jpg",
+        "en": "The nose of a high - speed train that is sitting on the tracks.",
+        "zh": "停在轨道上的高速列车的车头。",
+        "img_match": "匹配。图片显示的是一列高速列车的车头部分，它正停在轨道上。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 161,
+        "image": "cc12m_3959774349.jpg",
+        "en": "Two afl teammates pump their fists while keeping their distance after a goal for their team.",
+        "zh": "两位美国橄榄球联盟的队友在为自己的球队进球后，一边挥舞着拳头，一边保持着距离。",
+        "img_match": "匹配。图片显示两名AFL队友在庆祝时举起拳头，同时保持了一定的距离，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 162,
+        "image": "000000529544.jpg",
+        "en": "Articles for hair styling are on a bathroom counter.",
+        "zh": "浴室柜台上摆放着用于发型设计的物品。",
+        "img_match": "匹配。图片中显示的是一个吹风机和一些美发工具，它们放在一个看起来像是浴室台面上的地方。因此，这个句子的描述与图片内容是相匹配的。"
+    },
+    {
+        "idx": 163,
+        "image": "000000173882.jpg",
+        "en": "A closeup of cooked broccoli and a grain.",
+        "zh": "煮熟的西兰花和谷物的特写。",
+        "img_match": "匹配。图片显示的是煮熟的西兰花和一种谷物的特写镜头，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 164,
+        "image": "cc12m_1070433975.jpg",
+        "en": "A pregnant woman wearing a shirt and sunglasses rests her hands on her pregnant belly with a flood in the background.",
+        "zh": "一个穿着衬衫和太阳镜的孕妇将她的手放在她怀孕的肚子上，背景是洪水。",
+        "img_match": "匹配。图片中显示了一位孕妇，她穿着一件衬衫和太阳镜，双手放在她的孕肚上。背景中可以看到洪水。"
+    },
+    {
+        "idx": 165,
+        "image": "cc12m_2240008582.jpg",
+        "en": "A notebook with the formulas of organic chemistry.",
+        "zh": "一本写有有机化学公式的笔记本。",
+        "img_match": "匹配。图片中显示的笔记本上有有机化学的公式，包括苯甲酸、甲基苯甲酸和乙基苯甲酸等化合物的结构式。"
+    },
+    {
+        "idx": 166,
+        "image": "cc12m_642644694.jpg",
+        "en": "A number of experimental variables affect chromatographic separations :.",
+        "zh": "一些实验变量影响色谱分离：",
+        "img_match": "匹配"
+    },
+    {
+        "idx": 167,
+        "image": "cc12m_716750126.jpg",
+        "en": "A heavy duty construction machine is working on the grassland that covered by the heavy duty grass reinforcement mesh.",
+        "zh": "一台重型施工机械正在被重型草皮加固网覆盖的草地上作业。",
+        "img_match": "匹配。图片显示的是一台重型建筑机械（具体来说，这是一台JCB 8018型号的挖掘机），它正在一块覆盖着重型草皮加固网的地面上工作。背景中的绿色和网格状结构表明地面确实被这种类型的网覆盖，以保护草皮不受重型机械的损坏。因此，句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 168,
+        "image": "cc12m_10660470.jpg",
+        "en": "A black male astronaut smiles before a mission.",
+        "zh": "一名黑人男性宇航员在执行任务前微笑。",
+        "img_match": "匹配。图片中显示的是一位穿着宇航服的黑人男性，他面带微笑，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 169,
+        "image": "cc12m_4001771519.jpg",
+        "en": "A bee made out of bread.",
+        "zh": "用面包做的蜜蜂。",
+        "img_match": "匹配。图片中的面包被塑造成了一只蜜蜂的形状，因此这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 170,
+        "image": "cc12m_3679200671.jpg",
+        "en": "A simple cookie with a powerhouse of flavor.",
+        "zh": "简单的饼干却有浓郁的风味。",
+        "img_match": "匹配。图片中的饼干看起来简单，但其表面的纹理和周围放置的八角星暗示了它可能具有丰富的风味。八角星通常用于增加食物的香气和味道，因此可以推测这些饼干可能含有八角等香料，从而具备“powerhouse of flavor”。"
+    },
+    {
+        "idx": 171,
+        "image": "cc12m_2351302656.jpg",
+        "en": "A girl with a bridge hologram coming out of a tablet.",
+        "zh": "一个女孩的平板电脑里显示一张桥的全息图。",
+        "img_match": "匹配。图片中可以看到一个女孩，她的面前有一个平板设备，从平板设备中投射出一个桥梁的全息图像。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 172,
+        "image": "000000163602.jpg",
+        "en": "An old stoplight with a clock and a troll doll next to it.",
+        "zh": "一个旧的红绿灯，旁边有一个时钟和一个巨魔娃娃。",
+        "img_match": "匹配。图片中确实有一个旧的交通信号灯，旁边有一个时钟和一个带有粉红色头发的玩偶，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 173,
+        "image": "4822443231.jpg",
+        "en": "A man in orange overalls is cleaning up graffiti.",
+        "zh": "一个穿着橙色工作服的男人正在清理涂鸦。",
+        "img_match": "匹配。图片中确实有一个穿着橙色工作服的人正在清理墙上的涂鸦。"
+    },
+    {
+        "idx": 174,
+        "image": "000000353186.jpg",
+        "en": "A squirrel is eating an apple core on a concrete pillar.",
+        "zh": "一只松鼠正蹲在混凝土柱子上吃苹果核。",
+        "img_match": "匹配。图片中确实有一只松鼠站在一个混凝土柱子上，正在吃一个苹果核。"
+    },
+    {
+        "idx": 175,
+        "image": "cc12m_3136995609.jpg",
+        "en": "A female conductor waves her baton to musicians.",
+        "zh": "一位女指挥家向乐手们挥动指挥棒。",
+        "img_match": "匹配。图片中显示的是一位女性指挥家正在用指挥棒指挥音乐家们。"
+    },
+    {
+        "idx": 176,
+        "image": "cc12m_3239939650.jpg",
+        "en": "A pair lighting door sill for bmw 5 series f10 f11 f18 520li 525li 530li m performance led door step car threshold.",
+        "zh": "宝马5系F10F11F18520Li525Li530LiMPerformanceLED门踏板车门槛灯一对。",
+        "img_match": "匹配。\n\n图片显示了一对宝马5系（F10, F11, F18）的M Performance LED门踏板，这与句子描述的内容一致。图片中的文字也确认了这些是为宝马5系设计的LED门踏板，并且提到了M Performance品牌。因此，句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 177,
+        "image": "cc12m_1468164018.jpg",
+        "en": "A time for healing : coming to terms with your divorce -- member book.",
+        "zh": "《治愈时刻：接受分离》——会员书。",
+        "img_match": "匹配。图片显示的书名是“A Time for Healing: Coming to Terms with Your Divorce”，这与句子描述的内容一致。"
+    },
+    {
+        "idx": 178,
+        "image": "3621652774.jpg",
+        "en": "A young boy catching a stream of water.",
+        "zh": "一个小男孩试图抓住水流。",
+        "img_match": "匹配。图片中显示一个小孩在水中，双手张开，似乎在接住一股水流。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 179,
+        "image": "000000152258.jpg",
+        "en": "The young man is riding his skate board.",
+        "zh": "年轻人正站在他的滑板上。",
+        "img_match": "匹配。图片中的年轻男子正站在滑板上，似乎在进行滑板运动。"
+    },
+    {
+        "idx": 180,
+        "image": "2310317326.jpg",
+        "en": "A bald young man with a black shirt and jeans playing an electric guitar.",
+        "zh": "一个秃顶的年轻人，穿着黑色衬衫和牛仔裤，弹着电吉他。",
+        "img_match": "匹配。图片中显示一个秃头的年轻人，穿着黑色的T恤和牛仔裤，正在弹奏一把电吉他。这些细节与句子描述的内容相符。"
+    },
+    {
+        "idx": 181,
+        "image": "000000458420.jpg",
+        "en": "A model train traveling over a bridge on top of rocks.",
+        "zh": "一个模型火车在岩石上面的桥上行驶。",
+        "img_match": "匹配。图片中确实有一列模型火车正在通过一座桥，桥位于岩石之上。"
+    },
+    {
+        "idx": 182,
+        "image": "000000283216.jpg",
+        "en": "Two people standing in front of a row of motorcycles in a store.",
+        "zh": "在一家商店里，两个人站在一排摩托车前。",
+        "img_match": "匹配。图片中确实有两个人站在一排摩托车前，这些摩托车似乎是在一个商店里展示的。"
+    },
+    {
+        "idx": 183,
+        "image": "000000147134.jpg",
+        "en": "A young boy is playing tennis with a large racket.",
+        "zh": "一个小男孩正在用一个大球拍打网球。",
+        "img_match": "匹配。图片中显示一个年轻男孩正在打网球，他使用的球拍相对于他的体型来说确实较大。"
+    },
+    {
+        "idx": 184,
+        "image": "000000325390.jpg",
+        "en": "Man in flannel shirt holding up a pastry on a city street.",
+        "zh": "一名穿着法兰绒衬衫的男子在城市街道上举着一块糕点。",
+        "img_match": "匹配。图片中确实有一个穿着格子衬衫的男人在城市街道上，手里拿着一个糕点。"
+    },
+    {
+        "idx": 185,
+        "image": "cc_3388679971.jpg",
+        "en": "A broken stone lying on the sand.",
+        "zh": "放在沙地上的破石头。",
+        "img_match": "匹配。图片中显示的是一块裂开的石头，它躺在沙子上。这与句子描述的内容一致。"
+    },
+    {
+        "idx": 186,
+        "image": "000000348651.jpg",
+        "en": "A satellite dish is near the produce hanging above a door.",
+        "zh": "一个卫星天线靠近挂在门上的农产品。",
+        "img_match": "匹配。图片中可以看到一个卫星天线安装在屋顶上，靠近悬挂的农产品（看起来像是玉米），这些农产品悬挂在一扇门上方。"
+    },
+    {
+        "idx": 187,
+        "image": "sbu_3520950543.jpg",
+        "en": "A tree against a blue sky.",
+        "zh": "蓝天下的一棵树。",
+        "img_match": "匹配。图片显示了一棵树，背景是蓝色的天空。"
+    },
+    {
+        "idx": 188,
+        "image": "cc_1124373513.jpg",
+        "en": "A view of the arts and crafts behind the scenes.",
+        "zh": "幕后的艺术和手工艺景观",
+        "img_match": "匹配。图片展示了一个充满各种手工材料和工具的场景，包括彩色纸张、布料、毛线球和其他手工艺品，这与“幕后艺术和手工艺”的描述相符。"
+    },
+    {
+        "idx": 189,
+        "image": "000000408289.jpg",
+        "en": "A boy is going up a ramp on a skateboard.",
+        "zh": "一个男孩骑着滑板在斜坡上滑行。",
+        "img_match": "匹配。图片中显示一个男孩正在滑板上沿着斜坡上升，这与句子描述的内容一致。"
+    },
+    {
+        "idx": 190,
+        "image": "000000216987.jpg",
+        "en": "A girl learning how to ski and having fun.",
+        "zh": "一个女孩在学习如何滑雪并享受乐趣。",
+        "img_match": "匹配。图片中显示一个人在雪地上滑雪，看起来很开心，似乎是在享受滑雪的乐趣。虽然无法确定她是否正在学习滑雪，但她的姿势和表情表明她在享受这项活动。因此，这个句子与图片内容是相匹配的。"
+    },
+    {
+        "idx": 191,
+        "image": "000000348107.jpg",
+        "en": "A long train going down the train track.",
+        "zh": "一列长长的火车在火车轨道上行驶。",
+        "img_match": "匹配。图片中显示了一列长长的火车正在铁轨上行驶，与句子描述的内容相符。"
+    },
+    {
+        "idx": 192,
+        "image": "000000371786.jpg",
+        "en": "A man and a woman working on a grill in a kitchen.",
+        "zh": "一个男人和一个女人在厨房里的烤架上工作。",
+        "img_match": "匹配。图片中确实有一个男人和一个女人在厨房的烤架上工作。"
+    },
+    {
+        "idx": 193,
+        "image": "cc_2328412999.jpg",
+        "en": "A new use for an old dock.",
+        "zh": "旧码头的新用途。",
+        "img_match": "匹配。图片显示的是一个旧码头被改造成了一个现代化的游艇和船只停泊区，背景中可以看到一座建筑物，这表明该区域可能已经被重新开发或赋予了新的用途。因此，这个句子与图片内容是相匹配的。"
+    },
+    {
+        "idx": 194,
+        "image": "000000260857.jpg",
+        "en": "A small bathroom with green toilet and clothing line.",
+        "zh": "有绿色马桶和晾衣绳的小浴室。",
+        "img_match": "匹配。图片显示的是一个狭小的浴室，里面有一个绿色的马桶，并且在天花板上有一条晾衣绳。这些细节与句子描述的内容相符。"
+    },
+    {
+        "idx": 195,
+        "image": "000000441646.jpg",
+        "en": "A skateboarder jumping his skateboard up into the air.",
+        "zh": "一个滑板运动员把滑板跳到空中。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 196,
+        "image": "cc12m_2511168365.jpg",
+        "en": "A woman holding a brown straw hat on her head.",
+        "zh": "一个女人头上拿着一顶棕色草帽",
+        "img_match": "匹配。图片中显示的是一位女性，她头上戴着一顶棕色的草帽，并且用手扶着帽子。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 197,
+        "image": "000000499259.jpg",
+        "en": "A bunch of blurred lights near a one way sign.",
+        "zh": "一堆模糊的灯光在一个单行道标志附近。",
+        "img_match": "匹配。图片中确实有一堆模糊的灯光，靠近一个写着“ONE WAY”的标志牌。"
+    },
+    {
+        "idx": 198,
+        "image": "000000306581.jpg",
+        "en": "A cow makes its way down the street next to city traffic.",
+        "zh": "一头牛在城市交通旁边的街道上前进。",
+        "img_match": "匹配。图片中确实有一头牛在街道上行走，旁边有城市交通，包括摩托车、人力车和公交车等。"
+    },
+    {
+        "idx": 199,
+        "image": "cc_2839551321.jpg",
+        "en": "A cartoon illustration of a lemon ready to give a hug.",
+        "zh": "柠檬的卡通插图，准备给一个拥抱。",
+        "img_match": "匹配。图片中展示的是一个卡通柠檬形象，它张开双臂，似乎准备拥抱，表情也很友好和热情，符合句子描述的内容。"
+    },
+    {
+        "idx": 200,
+        "image": "2994107810.jpg",
+        "en": "There are two people in this picture, and they are competing against each other.",
+        "zh": "这幅画中有两个人，他们在互相竞争。",
+        "img_match": "匹配。图片中有两个人，他们穿着不同颜色的篮球服，看起来像是在进行篮球比赛中的对抗。"
+    },
+    {
+        "idx": 201,
+        "image": "289146119.jpg",
+        "en": "A man cleans the floors of an art museum.",
+        "zh": "一名男子正在清洗艺术博物馆的地板。",
+        "img_match": "匹配。图片中可以看到一个人正在拖地，周围有艺术展品和博物馆的特征，如柱子和雕塑，因此可以判断这是一个艺术博物馆的场景。"
+    },
+    {
+        "idx": 202,
+        "image": "cc12m_777527672.jpg",
+        "en": "A waterlogged part of the games field at scone palace this evening.",
+        "zh": "今天晚上在斯肯宫的游戏场上，有一部分积水。",
+        "img_match": "匹配。图片显示的是一个积水的运动场，与句子描述的内容相符。"
+    },
+    {
+        "idx": 203,
+        "image": "cc12m_3801988821.jpg",
+        "en": "A pack of cigarettes under a magnifying glass.",
+        "zh": "放大镜下的一包香烟。插图。",
+        "img_match": "匹配。图片显示了一包香烟在放大镜下，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 204,
+        "image": "6556869643.jpg",
+        "en": "Children are lined up in formation.",
+        "zh": "孩子们排成一排。",
+        "img_match": "匹配。图片中的孩子们确实排成了一个队形，他们手拉手站成一圈，这符合“Children are lined up in formation”的描述。"
+    },
+    {
+        "idx": 205,
+        "image": "cc_249144880.jpg",
+        "en": "A surfer gets tubed in a wave.",
+        "zh": "冲浪者在海浪中被困住了。",
+        "img_match": "匹配。图片中显示了一位冲浪者在海浪中被卷入管状波浪（tubed），这与句子描述的内容相符。"
+    },
+    {
+        "idx": 206,
+        "image": "000000532277.jpg",
+        "en": "A very tall building sitting behind a red sign on two post.",
+        "zh": "一座非常高的建筑，位于两根柱子上的红色标志牌后面。",
+        "img_match": "匹配。图片中确实有一座高大的建筑，位于一个红色的“任何时候禁止停车”标志后面，该标志安装在两根柱子上。"
+    },
+    {
+        "idx": 207,
+        "image": "538825260.jpg",
+        "en": "Sweaty girl drinks from fountain at park.",
+        "zh": "出汗的女孩从公园的喷水口里喝水。",
+        "img_match": "匹配。图片中显示一个女孩正在从喷泉喝水，她的头发看起来有些湿润，可能是因为出汗或水溅到头发上。背景是绿色的，可能是公园的环境。因此，这个句子与图片内容相匹配。"
+    },
+    {
+        "idx": 208,
+        "image": "3344175369.jpg",
+        "en": "Two people out in the snow.",
+        "zh": "两个人走出雪地。",
+        "img_match": "匹配。图片中有两个人在雪地里，他们都穿着适合户外活动的装备，并且背着背包，手持登山杖。"
+    },
+    {
+        "idx": 209,
+        "image": "cc_2818902120.jpg",
+        "en": "A female teacher with brown hair and a yellow sweater stands at the front of a classroom and points to the blackboard behind her.",
+        "zh": "一位棕色头发、黄色毛衣的女教师站在教室前面，指着身后的黑板。",
+        "img_match": "匹配。图片中显示的是一位女性教师，她有棕色的头发，穿着黄色的毛衣，站在教室前面，并用手指向她身后的黑板。"
+    },
+    {
+        "idx": 210,
+        "image": "cc_1622491537.jpg",
+        "en": "A m3 with the front off exposing the radiator and oil cooler.",
+        "zh": "一辆m3正面曝光出散热器和机油冷却器。",
+        "img_match": "匹配。图片显示了一辆汽车的前部被拆卸，露出了散热器和油冷器。根据发动机盖上的标志和整体外观，这辆车看起来像是一辆宝马M3。因此，句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 211,
+        "image": "cc_487580847.jpg",
+        "en": "A grasshopper on a pink flower.",
+        "zh": "粉色花朵上的蚱蜢。",
+        "img_match": "匹配。图片中显示的是一只蝗虫停在一朵粉红色的花上，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 212,
+        "image": "cc_2106491181.jpg",
+        "en": "A lot goes into a good suit.",
+        "zh": "一套好衣服要花很多钱。",
+        "img_match": "匹配。图片详细描述了现代男士西装的各个部分和细节，包括肩膀、躯干、袖子、口袋、纽扣、领带、手表、裤子、鞋子等，并提供了关于如何选择和搭配这些元素的建议。这表明制作一套好的西装确实需要考虑很多因素。"
+    },
+    {
+        "idx": 213,
+        "image": "cc_260532664.jpg",
+        "en": "A massive field of potatoes in bloom at a small farm on the coast.",
+        "zh": "海岸边一个小农场里大片的土豆正在开花。",
+        "img_match": "匹配。图片显示了一大片正在开花的土豆田，背景中可以看到海岸线和一些树木，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 214,
+        "image": "69514091.jpg",
+        "en": "A man is holding a knife on thanksgiving.",
+        "zh": "一个男人在感恩节拿着一把刀。",
+        "img_match": "匹配。图片中显示一位男士正在切肉，手中拿着一把刀，场景看起来像是在厨房里准备食物，这与感恩节的传统活动相符。虽然无法确定具体是哪一天，但描述中的情景与图片内容相吻合。"
+    },
+    {
+        "idx": 215,
+        "image": "cc_2247036501.jpg",
+        "en": "A copy of the sacred text of religious text in human language.",
+        "zh": "一本用人类语言书写的宗教文本的副本。",
+        "img_match": "匹配。图片显示的是一本《古兰经》（The Quran），这是伊斯兰教的神圣文本，通常以人类语言书写。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 216,
+        "image": "000000504988.jpg",
+        "en": "The service man is putting meat on the tray.",
+        "zh": "服务人员正在把肉放在托盘上。",
+        "img_match": "匹配。图片中可以看到一名军人正在将肉类食物从容器中舀到托盘上，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 217,
+        "image": "cc_164781931.jpg",
+        "en": "A touch of gray : famous gray - tinged hair poked out from under his hood as he watched the parade.",
+        "zh": "一抹灰色：当他观看阅兵式时，突兀的灰色头发从他的头巾下探出。",
+        "img_match": "匹配。图片中的人确实有灰白色的头发从他的帽子里露出来，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 218,
+        "image": "1448065625.jpg",
+        "en": "The woman has something on her head.",
+        "zh": "这个女人头上有东西。",
+        "img_match": "匹配。图片中的女人头上有一个烤盘，里面装着一个格子状的甜点。"
+    },
+    {
+        "idx": 219,
+        "image": "cc_2649043063.jpg",
+        "en": "A statue of deity stands next to a flag.",
+        "zh": "一尊神像站在一面旗帜旁边。",
+        "img_match": "匹配。图片中确实有一座神像雕像和一面旗帜，它们并排站立。"
+    },
+    {
+        "idx": 220,
+        "image": "160566014.jpg",
+        "en": "A car serves as a seat for an away facing couple.",
+        "zh": "一辆汽车充当了一对远离的夫妇的座位。",
+        "img_match": "匹配。图片中可以看到一对背对镜头的男女坐在一辆车的引擎盖上，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 221,
+        "image": "300765528.jpg",
+        "en": "Many brides line up on the street.",
+        "zh": "许多新娘在街上排队。",
+        "img_match": "匹配。图片中确实有许多穿着婚纱的新娘排成一列走在街上。"
+    },
+    {
+        "idx": 222,
+        "image": "cc12m_873581997.jpg",
+        "en": "A u.s. army ah-64 apache helicopter idles during a forward arming and refueling point exercise near camp buehring, kuwait, jan. 15, 2014.",
+        "zh": "2014年1月15日，在科威特Buehring营地附近，一架美国陆军AH-64阿帕奇直升机在前方布防和加油点演习中空转。",
+        "img_match": "匹配。图片中显示的是一架停在地面上的AH-64阿帕奇直升机，周围有几名穿着军装的人员，背景是沙漠环境。这与句子描述的内容相符，即一架美国陆军的AH-64阿帕奇直升机在科威特布林营附近进行前向加油和武装点演习。虽然具体日期无法从图片中确认，但整体场景与描述一致。"
+    },
+    {
+        "idx": 223,
+        "image": "cc_3591470775.jpg",
+        "en": "A portrait of physicist, a pioneer in the field of radiation.",
+        "zh": "物理学家的画像，他是辐射领域的先驱。",
+        "img_match": "匹配。图片中描绘的是一位留有浓密胡须和长发的男性，穿着正式的服装，这与历史上一些著名的物理学家的形象相符。此外，图片上的版权信息表明它与X射线相关联，暗示这位人物可能在辐射领域有所贡献。因此，这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 224,
+        "image": "cc12m_1675189799.jpg",
+        "en": "A scene from 'spider-man: into the spider-verse.'.",
+        "zh": "《蜘蛛侠：进入蜘蛛世界》的一个场景。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 225,
+        "image": "000000453509.jpg",
+        "en": "A bunch of oranges at a produce center.",
+        "zh": "农产品中心的一堆橙子。",
+        "img_match": "匹配。图片显示了一堆橙子，它们被放置在看起来像是农产品中心的地方。这与句子的描述相符。"
+    },
+    {
+        "idx": 226,
+        "image": "000000561100.jpg",
+        "en": "Model airplane with an american insignia and stripes on wings.",
+        "zh": "机翼上有美国标志和条纹的模型飞机。",
+        "img_match": "匹配。图片中的模型飞机确实有美国的标志（星条旗图案）和翅膀上的条纹。"
+    },
+    {
+        "idx": 227,
+        "image": "cc_3714894183.jpg",
+        "en": "A piece of pizza with a funny muzzle.",
+        "zh": "一块有滑稽口型的披萨。",
+        "img_match": "匹配。图片中显示的是一片披萨，它被赋予了卡通化的特征，包括眼睛、嘴巴和手臂，使其看起来像一个有滑稽表情的角色。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 228,
+        "image": "sbu_1577165539.jpg",
+        "en": "A cloud forming in the sky this afternoon.",
+        "zh": "今天下午天空中形成了一朵云。",
+        "img_match": "匹配。图片显示的是天空中正在形成的云，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 229,
+        "image": "cc12m_1574914093.jpg",
+        "en": "A screenshot of the cert-in vulnerability note.",
+        "zh": "CERT-IN漏洞说明截图。",
+        "img_match": "匹配。图片显示的是印度计算机应急响应小组（CERT-In）发布的一份关于WhatsApp缓冲区溢出漏洞的漏洞通知，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 230,
+        "image": "3693404950.jpg",
+        "en": "A woman works on a frame.",
+        "zh": "一位女士在木架子上工作。",
+        "img_match": "匹配。图片中显示一位女性正在操作一个织布机，这可以被视为在框架上工作。"
+    },
+    {
+        "idx": 231,
+        "image": "3048597471.jpg",
+        "en": "A wet, brownish-red dog with an orange ball in his mouth is swimming in some water.",
+        "zh": "一只湿漉漉的棕红色的狗嘴里叼着一个橙色的球在水里游泳。",
+        "img_match": "匹配。图片中确实有一只湿漉漉的棕红色狗，嘴里叼着一个橙色的球，在水中游泳。"
+    },
+    {
+        "idx": 232,
+        "image": "cc_2883893643.jpg",
+        "en": "A mountain stream flows in the mountains into a deep valley.",
+        "zh": "一条山涧从山间流入深谷。",
+        "img_match": "匹配。图片显示了一条山间溪流，它从岩石中流出，流向一个深谷。背景中有山脉和绿色的植被，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 233,
+        "image": "4879725156.jpg",
+        "en": "A girl in a black tank with cargo shorts to what appears to be dancing with several people around.",
+        "zh": "一个身穿黑色背心、工装短裤的女孩似乎正在和周围的几个人跳舞。",
+        "img_match": "匹配。图片中确实有一个穿着黑色背心和工装短裤的女孩，她似乎在跳舞，周围还有其他人。"
+    },
+    {
+        "idx": 234,
+        "image": "cc_1945937150.jpg",
+        "en": "A crowd watching eruption of a geyser, or hot spring.",
+        "zh": "一群人在观看间歇泉和温泉喷发。",
+        "img_match": "匹配。图片显示了一群人在观看一个间歇泉（geyser）的喷发，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 235,
+        "image": "cc12m_2226212849.jpg",
+        "en": "A person holds a flat white in a brown tulip cup and saucer.",
+        "zh": "一个人拿着装有平白咖啡的棕色郁金香杯碟。",
+        "img_match": "匹配。图片中显示一个人手持一杯咖啡，这杯咖啡装在一个棕色的郁金香形杯子和碟子里。咖啡表面有拉花艺术，看起来像是一杯flat white（平白咖啡）。因此，句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 236,
+        "image": "50766676.jpg",
+        "en": "Someone here is training for a sport.",
+        "zh": "这里有人正在训练一项运动。",
+        "img_match": "匹配。图片中显示了两个人穿着跆拳道服，正在进行训练，其中一个人正在踢另一个拿着护具的人。这表明他们正在为一项运动（跆拳道）进行训练。"
+    },
+    {
+        "idx": 237,
+        "image": "cc12m_87118766.jpg",
+        "en": "A chinese speaker shouting into a microphone reading from a piece of paper in canada, in protests over media bias and distortion in canada.",
+        "zh": "在加拿大，一名中国演讲者对着麦克风大声对着一张纸朗读，抗议加拿大媒体的偏见和歪曲报道。",
+        "img_match": "匹配。图片中显示一个人在加拿大国会大厦前，手持一张纸张对着麦克风讲话，背景中有中国国旗和抗议人群，这与描述中的“在中国人用麦克风大声朗读一张纸上的内容，在加拿大抗议媒体偏见和歪曲”相符合。"
+    },
+    {
+        "idx": 238,
+        "image": "3177914410.jpg",
+        "en": "A kid is in the woods.",
+        "zh": "一个孩子在树林中。",
+        "img_match": "匹配。图片中显示一个小孩坐在树干上，周围是树木和黄色的树叶，这表明他确实在树林里。"
+    },
+    {
+        "idx": 239,
+        "image": "000000226983.jpg",
+        "en": "A batter is standing on a baseball diamond.",
+        "zh": "一个击球手站在棒球场上。",
+        "img_match": "匹配。图片中确实有一个击球手站在棒球场的本垒板上，准备击球。"
+    },
+    {
+        "idx": 240,
+        "image": "2101128963.jpg",
+        "en": "A baseball player in action.",
+        "zh": "一个运动中的棒球运动员。",
+        "img_match": "匹配。图片中显示了一名棒球运动员在球场上奔跑，这与句子“A baseball player in action”描述的内容相符。"
+    },
+    {
+        "idx": 241,
+        "image": "cc_174410004.jpg",
+        "en": "A general view of poppies and crosses.",
+        "zh": "罂粟花和十字架的全景。",
+        "img_match": "匹配。图片显示了许多红色的罂粟花和白色的十字架，这些元素通常与纪念活动相关联，特别是与英国和其他英联邦国家的阵亡将士纪念日有关。图片中的文字也表明了对牺牲者的纪念和缅怀。因此，这个句子准确地描述了图片的内容。"
+    },
+    {
+        "idx": 242,
+        "image": "cc_3169415834.jpg",
+        "en": "A map of the system.",
+        "zh": "（地铁）系统的地图。",
+        "img_match": "匹配。图片显示的是一个地铁系统的地图，包含了三条线路（A、B、C线）以及各个站点的分布情况。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 243,
+        "image": "000000459400.jpg",
+        "en": "A young male is curled up next to a toilet.",
+        "zh": "一个年轻的男性蜷缩在厕所旁边。",
+        "img_match": "匹配。图片中显示一个人蜷缩在马桶旁边，根据体型和穿着可以判断为年轻男性。"
+    },
+    {
+        "idx": 244,
+        "image": "cc12m_3261085656.jpg",
+        "en": "A vertical picture showing a beet with its crown out of the soil ready for harvest. the background shows the deep purple stalks contrasting with the green leaves against the light soil.",
+        "zh": "一张竖版图片，显示了一个甜菜的枝叶从土壤中出来，已经成熟了。后面深紫色的茎秆与浅色土壤和绿叶形成鲜明对比。",
+        "img_match": "匹配。图片显示的是一颗甜菜，其顶部（冠部）已经露出土壤，准备收获。背景中可以看到深紫色的茎与绿色的叶子形成对比，这些都与浅色的土壤形成了鲜明的视觉效果。因此，这个句子准确地描述了图片的内容。"
+    },
+    {
+        "idx": 245,
+        "image": "cc_4021349841.jpg",
+        "en": "A hell of a lot of rings.",
+        "zh": "一大堆戒指。",
+        "img_match": "匹配。图片中的人双手上戴了非常多戒指，与句子描述的内容相符。"
+    },
+    {
+        "idx": 246,
+        "image": "000000155999.jpg",
+        "en": "A fire hydrant with eyes painted on the side.",
+        "zh": "侧面画有眼睛的消防栓。",
+        "img_match": "匹配。图片中的消防栓上确实有画上去的眼睛，使其看起来像有一张脸。"
+    },
+    {
+        "idx": 247,
+        "image": "333214858.jpg",
+        "en": "The baker pulled out loaves of bread to check the condition.",
+        "zh": "面包师拿出面包来检查状况。",
+        "img_match": "匹配。图片中显示一个面包师正在从烤箱或冷却架上拉出一排排的长条面包，这与句子描述的情景相符。"
+    },
+    {
+        "idx": 248,
+        "image": "cc12m_535247969.jpg",
+        "en": "A samurai girl with long hair and a wide hat with a katana in her hands describes an ink arc with her sword.",
+        "zh": "一个留着长发，戴着宽帽子，手里拿着武士刀的武士女孩用她的剑描绘了一个墨水弧线。2d插图。",
+        "img_match": "匹配。图片中描绘了一位长发、戴着宽边帽子的武士女孩，她手持一把武士刀（katana），用剑在空中划出一道墨色弧线。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 249,
+        "image": "cc12m_1230458626.jpg",
+        "en": "A white hall next to the front door. there's a long, black framed mirror and a black coat on a wall hook.",
+        "zh": "前门旁边的一个白色大厅。有一面长长的黑框镜子，墙上的挂钩上有一件黑色的大衣。",
+        "img_match": "匹配。图片显示的是一个白色的门厅，旁边有一扇前门。墙上挂着一面长方形的黑色边框镜子和一件挂在墙钩上的黑色外套。这些细节与句子描述的内容相符。"
+    },
+    {
+        "idx": 250,
+        "image": "000000150048.jpg",
+        "en": "Animals are grazing on a stepped hill side for food.",
+        "zh": "动物们在一个阶梯状的山坡上吃草觅食。",
+        "img_match": "匹配。图片显示了一些动物在梯田上吃草，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 251,
+        "image": "cc_1298340444.jpg",
+        "en": "A quarter is. 955 in diameter, which is just smaller than 1.",
+        "zh": "一个25分硬币的直径是0.955，比1还小。",
+        "img_match": "匹配。图片显示了一个美国25美分硬币（quarter），并且标注了其直径为.955英寸，这确实比1英寸小。因此，句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 252,
+        "image": "cc_2142697362.jpg",
+        "en": "A little different twist on a manicure.",
+        "zh": "美甲中的一个小的不同变化。",
+        "img_match": "匹配。图片显示了一种独特的美甲设计，指甲上涂有渐变的蓝色和银色，呈现出一种与传统美甲不同的风格。因此，这句话描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 253,
+        "image": "cc12m_2990239756.jpg",
+        "en": "Three dutch rabbit dwarf eat carrots on sackcloth.",
+        "zh": "三只荷兰兔矮人在麻布上吃胡萝卜。",
+        "img_match": "匹配。图片中有三只荷兰兔在麻布上吃胡萝卜，与句子描述的内容相符。"
+    },
+    {
+        "idx": 254,
+        "image": "cc_2831674446.jpg",
+        "en": "A woman holds up an ink - stained finger after casting her vote at a polling station.",
+        "zh": "一名妇女在投票站投完票后，举起一只沾上墨水的手指。",
+        "img_match": "匹配。图片中显示了一位女性，她的手指上涂有墨水，这通常是在投票站投票后用来防止重复投票的标记。背景中还有其他人在进行投票相关的活动，进一步支持了这一描述。"
+    },
+    {
+        "idx": 255,
+        "image": "000000198631.jpg",
+        "en": "Flower arrangement in a large vase sitting on a bench in a preparation area.",
+        "zh": "准备区长椅上的一个大花瓶里插着花。",
+        "img_match": "匹配。图片中确实有一个大型花瓶，里面插着花束，放置在一个看起来像是准备区域的长凳上。"
+    },
+    {
+        "idx": 256,
+        "image": "cc12m_3313717137.jpg",
+        "en": "A spill proof gas can is being used to fill a lawn mower.",
+        "zh": "一个防溢出的煤气罐正被用来给割草机加油。",
+        "img_match": "匹配。图片中显示一个人正在使用一个红色的防漏汽油罐给一台标有“55 GTS”的割草机加油。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 257,
+        "image": "cc12m_748255069.jpg",
+        "en": "A studded rubber outsole gives these boots some grip.",
+        "zh": "镶嵌橡胶外底让这双靴子有一定的抓地力。",
+        "img_match": "匹配。图片中的靴子确实有一个带有凸起圆点的橡胶外底，这通常可以提供更好的抓地力。"
+    },
+    {
+        "idx": 258,
+        "image": "000000129166.jpg",
+        "en": "A cat is creeping up the shelf of an opened refrigerator.",
+        "zh": "一只猫正爬上打开着的冰箱架子。",
+        "img_match": "匹配。图片中确实有一只猫正在爬进打开的冰箱里，看起来像是在探索或寻找食物。"
+    },
+    {
+        "idx": 259,
+        "image": "cc_671099074.jpg",
+        "en": "A set of objects from old fairy tales.",
+        "zh": "古老童话故事中的一组物品。",
+        "img_match": "匹配。图片中的物品包括一个纺锤、一缕金色的头发、一条美人鱼的尾巴、一枚金戒指、一个装有绿色宝石的蓝色盒子和一只水晶鞋，这些物品都与经典的童话故事相关联，如《睡美人》、《长发公主》、《小美人鱼》、《灰姑娘》等。因此，这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 260,
+        "image": "1522787272.jpg",
+        "en": "A golden retriever has on a collar and a harness and has a muddy lower body.",
+        "zh": "金毛寻回犬身上有项圈和系带，下半身泥泞不堪。",
+        "img_match": "匹配。图片中显示的是一只金毛寻回犬，它戴着项圈和背带，并且下半身沾满了泥巴。这些细节与句子描述的内容相符。"
+    },
+    {
+        "idx": 261,
+        "image": "000000493132.jpg",
+        "en": "A soccer player kicks a ball directly at the goalkeeper.",
+        "zh": "一个足球运动员直接把球踢向守门员。",
+        "img_match": "匹配。图片中显示一名足球运动员正在踢球，球的方向直指守门员，而守门员正准备接球或扑救。这与句子描述的情况相符。"
+    },
+    {
+        "idx": 262,
+        "image": "183886578.jpg",
+        "en": "A person of authority sitting on a motorcyle wearing a white helmet and yellow vest outside.",
+        "zh": "一位在户外坐着摩托车的权威人士，头戴白色头盔，身穿黄色背心。",
+        "img_match": "匹配。图片中显示了一位身穿黄色反光背心和白色头盔的人坐在一辆摩托车上，这与句子描述的内容相符。此外，摩托车上有“London Ambulance Service”的标志，表明这个人可能是一名急救人员或相关领域的权威人士。背景是一个户外场景，进一步证实了句子的描述。"
+    },
+    {
+        "idx": 263,
+        "image": "000000336939.jpg",
+        "en": "A piece of railroad maintenance equipment on a track.",
+        "zh": "铁轨上的铁路维修设备。",
+        "img_match": "匹配。图片中显示的是一台黄色的铁路维护设备，它正在铁轨上运行。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 264,
+        "image": "cc_314562157.jpg",
+        "en": "A large advertising poster has been used as a marriage proposal near to the junction.",
+        "zh": "在路口附近，一张巨大的广告海报被用来求婚。",
+        "img_match": "匹配。图片中显示了一个大型广告海报，上面有“Michelina, Will You Marry Me”的字样，显然是作为求婚使用。海报位于一个建筑物的外墙上，可能是在某个路口附近。"
+    },
+    {
+        "idx": 265,
+        "image": "cc12m_3164402908.jpg",
+        "en": "A document indicating the selection process and structure of the committee must be filed in the fgs graduate scholarship office.",
+        "zh": "一份说明委员会选择过程和结构的文件必须提交到 FGS 研究生奖学金办公室。",
+        "img_match": "匹配。根据图片中的内容，确实有提到“Each graduate program must have an adjudication committee and a documented process for selecting candidates for Program Recommended awards. A document indicating the selection process and structure of the committee must be filed in the FGS Graduate Scholarship Office.” 这与给定的句子描述一致。"
+    },
+    {
+        "idx": 266,
+        "image": "cc12m_1575655372.jpg",
+        "en": "A male astronaut shocked by a waving alien and abandoned radioactive small town background.",
+        "zh": "一名男性宇航员被挥手的外星人和废弃的放射性小镇背景震惊。",
+        "img_match": "匹配。图片中显示了一名穿着宇航服的男性，他看起来很惊讶，旁边有一个绿色的外星人正在挥手。背景是一个荒废的小城镇，有放射性警告标志，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 267,
+        "image": "cc12m_2863307917.jpg",
+        "en": "A killer whale leaping out of the ocean.",
+        "zh": "一头虎鲸跃出海面。",
+        "img_match": "匹配。图片中显示的是一只虎鲸（killer whale）正在跃出海面，与句子描述的内容相符。"
+    },
+    {
+        "idx": 268,
+        "image": "cc12m_2175890107.jpg",
+        "en": "A researcher in scuba gear swims among nassau grouper, a large reef fish, in a large aggregation.",
+        "zh": "一名身穿潜水装备的研究人员在拿骚石斑鱼间游泳，这是一种大型礁鱼。",
+        "img_match": "匹配。图片中显示了一位穿着潜水装备的研究人员在一大群纳苏石斑鱼（Nassau grouper）中游泳。纳苏石斑鱼是一种大型的礁石鱼类，它们聚集在一起，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 269,
+        "image": "cc12m_142304481.jpg",
+        "en": "A cartoon illustration of a piranha in love.",
+        "zh": "恋爱的食人鱼的卡通插图。",
+        "img_match": "匹配。图片展示了一条卡通风格的鱼，具有类似食人鱼的特征，如尖锐的牙齿和圆润的身体。它的眼睛半闭，周围有心形图案，通常用来表示爱意或迷恋。因此，这个句子准确地描述了图片的内容。"
+    },
+    {
+        "idx": 270,
+        "image": "000000558371.jpg",
+        "en": "A pizza with pepperoni, broccoli and jalapeno peppers.",
+        "zh": "意大利辣香肠、西蓝花和墨西哥胡椒披萨。",
+        "img_match": "匹配。图片中的披萨上有意大利辣香肠（pepperoni）、西兰花（broccoli）和哈拉佩诺辣椒（jalapeno peppers）。"
+    },
+    {
+        "idx": 271,
+        "image": "cc12m_4164814003.jpg",
+        "en": "A yacht with its sails bellowing in the wind.",
+        "zh": "在咆哮的风中扬起帆的游艇。",
+        "img_match": "匹配。图片中显示了一艘游艇，其帆在风中鼓起，与句子描述的内容相符。"
+    },
+    {
+        "idx": 272,
+        "image": "cc12m_3531059950.jpg",
+        "en": "A drawing of a spinal injury.",
+        "zh": "一幅脊柱损伤图。",
+        "img_match": "匹配。图片显示的是脊柱的侧面视图，其中有一部分脊髓被突出显示为红色，这通常表示受伤或炎症区域。因此，这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 273,
+        "image": "cc12m_3513636386.jpg",
+        "en": "A pair of marble figures of 'buddhist lions', china.",
+        "zh": "一对“佛教狮子”大理石雕像，中国。",
+        "img_match": "匹配。图片中展示的是一对大理石雕塑，它们具有典型的“佛教狮子”（也称为石狮或守门狮）的特征，这些雕塑在中国文化中非常常见，通常用于守护寺庙、宫殿和重要建筑的入口。雕塑的细节，如卷曲的鬃毛、威严的表情和爪下的球体，都是传统中国石狮的典型特征。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 274,
+        "image": "sbu_745720191.jpg",
+        "en": "A reddish egret forages in shallow ocean water with an oil rig present in the background.",
+        "zh": "一只红色的白鹭在浅海水域觅食，背景中有一个石油钻井平台。",
+        "img_match": "匹配。图片中可以看到一只红鹭在浅海水中觅食，背景中有一座石油钻井平台。"
+    },
+    {
+        "idx": 275,
+        "image": "cc12m_1420633966.jpg",
+        "en": "A mixture of dried herbs in a wooden spoon.",
+        "zh": "木勺中的干草药混合物。",
+        "img_match": "匹配。图片中显示的是一个木勺子里装着一些干燥的草药混合物，与句子描述的内容一致。"
+    },
+    {
+        "idx": 276,
+        "image": "cc_1187726557.jpg",
+        "en": "A successful businessman or an accountant with a calculator and a pile of money.",
+        "zh": "一个有计算器和一堆钱的成功商人或会计师。",
+        "img_match": "匹配。图片中显示了一位穿着西装的男性，他手持一个公文包，旁边有一个计算器和一堆金币。这些元素与句子描述的成功商人或会计师的形象相符。"
+    },
+    {
+        "idx": 277,
+        "image": "3798552554.jpg",
+        "en": "A man is standing up in the middle of a full capacity restaurant where red light fixtures are hanging down from the ceiling.",
+        "zh": "一名男子站在一家满是客人的餐厅中间，天花板上挂着红灯。",
+        "img_match": "匹配。图片中可以看到一个男人站在餐厅的中央，周围坐满了人，天花板上悬挂着红色的灯饰。"
+    },
+    {
+        "idx": 278,
+        "image": "4952001654.jpg",
+        "en": "Two people consult a map on the interior of a traffic circle.",
+        "zh": "两个人在交通圈内部查阅地图。",
+        "img_match": "匹配。图片显示两个人站在一个交通圆环的内部，似乎在查看一张地图。"
+    },
+    {
+        "idx": 279,
+        "image": "cc12m_2234343263.jpg",
+        "en": "A bottle of concentrated drain cleaner.",
+        "zh": "一瓶浓缩的下水道清洁剂。",
+        "img_match": "匹配。图片显示的是一瓶标有“DRAIN CLEANER”和“CONCENTRATED”的清洁剂，与句子描述的内容相符。"
+    },
+    {
+        "idx": 280,
+        "image": "cc_3302226574.jpg",
+        "en": "A fan draped in his nation 's flag poses in front of a line of riot police as tensions erupt on the streets.",
+        "zh": "当街头紧张局势爆发时，一名披着本国国旗的球迷在防暴警察面前摆出姿势。",
+        "img_match": "匹配。图片中确实有一位身穿国家队旗帜的球迷站在一排防暴警察前，背景显示了紧张的街头场景。"
+    },
+    {
+        "idx": 281,
+        "image": "cc12m_91570029.jpg",
+        "en": "A lap pool and protected courtyard with a lone tree flank the home.",
+        "zh": "一个游泳池和一个有独木保护的庭院围绕着房子。",
+        "img_match": "匹配。图片中可以看到一个长形的泳池（lap pool）和一个带有单独树木的庭院，这些都位于房屋旁边。庭院看起来是受保护的，因为有围墙或围栏的存在。因此，这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 282,
+        "image": "000000236075.jpg",
+        "en": "A boarder patrol agent and his dog inspect a passenger bus.",
+        "zh": "一名边境巡逻员和他的狗检查一辆客运巴士。",
+        "img_match": "匹配。图片中显示了一名穿着制服的人员和一只狗在检查一辆停着的Trailways巴士，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 283,
+        "image": "000000124124.jpg",
+        "en": "A large rail bridge spanning the width of a river.",
+        "zh": "横跨河宽的大型铁路桥。",
+        "img_match": "匹配。图片中显示了一座横跨河流的铁路桥，桥上有一列火车正在通过。"
+    },
+    {
+        "idx": 284,
+        "image": "cc12m_3424040374.jpg",
+        "en": "A combination of everything - backyard landscaping ideas.",
+        "zh": "一切的结合-后院景观设计理念",
+        "img_match": "匹配。图片展示了一个精心设计的后院景观，包含了多种元素：人造草坪、蜿蜒的小路、水景、照明、木制平台和植物。这些元素共同构成了一个综合性的后院景观设计方案。"
+    },
+    {
+        "idx": 285,
+        "image": "cc_468279621.jpg",
+        "en": "A man manages to hook umbrellas through both of his cheeks.",
+        "zh": "一个男人设法把伞钩穿他的两边脸颊。",
+        "img_match": "匹配。图片中确实有一个男人通过他的脸颊钩住了两把伞，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 286,
+        "image": "cc12m_694718605.jpg",
+        "en": "A person places tubing in a heavy-duty flaring tool.",
+        "zh": "一个人将油管放在重型扩口工具中。",
+        "img_match": "匹配。图片中显示一个人正在使用一个重型扩口工具对一根管子进行操作，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 287,
+        "image": "000000127135.jpg",
+        "en": "A small pig with a sign in the middle of the street.",
+        "zh": "一只小猪，在街中央有一个标志。",
+        "img_match": "匹配。图片中确实有一只小猪，它在一个笼子里，旁边有一个写着“STOP the PORK”的标志牌，而且这个场景是在街道上。"
+    },
+    {
+        "idx": 288,
+        "image": "000000571633.jpg",
+        "en": "A man in a full body west suit surfing on a surfboard in the water.",
+        "zh": "一名身着全身西装革履的男子在水中冲浪板上冲浪。",
+        "img_match": "匹配。图片中显示一个人穿着全身潜水服在水中冲浪，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 289,
+        "image": "cc_4167930116.jpg",
+        "en": "A quarterback looking for a receiver during a football game, a referee closely following the action.",
+        "zh": "在足球比赛中寻找接球手的四分卫，紧跟着动作的裁判。",
+        "img_match": "匹配。图片中显示了一名身穿红色球衣的四分卫正在传球，旁边有一名裁判在密切观察比赛情况。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 290,
+        "image": "cc12m_1095901039.jpg",
+        "en": "A man stands with a microphone addressing a crowd, with a fence in the background.",
+        "zh": "一名男子手持麦克风站在人群中讲话，背景是围栏。",
+        "img_match": "匹配。图片中确实有一个男人拿着麦克风在对人群讲话，背景中有一道围栏。"
+    },
+    {
+        "idx": 291,
+        "image": "398413603.jpg",
+        "en": "A canine is jumping up to catch a sphere.",
+        "zh": "一只狗正在跳起来抓球。",
+        "img_match": "匹配。图片中显示一只狗正在跳起来接住一个球，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 292,
+        "image": "cc12m_2156053897.jpg",
+        "en": "A warning sign showing that people are in the vicinity of oxidizing agents.",
+        "zh": "一个警告标志，显示人们在氧化剂库附近。",
+        "img_match": "匹配。图片中的标志显示了一个氧化剂的警告符号，表明附近存在氧化剂。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 293,
+        "image": "000000306549.jpg",
+        "en": "People on the sandy beach with flyers.",
+        "zh": "沙滩上的人们拿着传单。",
+        "img_match": "匹配。图片显示了一群人在沙滩上，周围有彩色的旗帜和风筝，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 294,
+        "image": "000000232088.jpg",
+        "en": "A den with a couch, ottoman, television and windows.",
+        "zh": "一个有沙发、脚凳、电视和窗户的房间。",
+        "img_match": "匹配。图片中可以看到一个客厅（den），里面有一张沙发、一张脚凳（ottoman）、一台电视机和几扇窗户。"
+    },
+    {
+        "idx": 295,
+        "image": "cc_3597384421.jpg",
+        "en": "A curved wooden bench next to a stone wall with a semi circular alcove.",
+        "zh": "一个弯曲的木制长椅，旁边有一个半圆形的凹室",
+        "img_match": "匹配。图片中确实有一张弯曲的木制长椅，它位于一面石墙旁边，石墙上有一个半圆形的壁龛。"
+    },
+    {
+        "idx": 296,
+        "image": "cc12m_3291158472.jpg",
+        "en": "A young man mows the lawn in beautiful spring weather, in the foreground the dandelion fears for its life.",
+        "zh": "一个年轻人在美丽的春季天气中修剪草坪，前景中的蒲公英担心自己的生命。",
+        "img_match": "匹配。图片中显示一个年轻男子正在使用割草机修剪草坪，背景是晴朗的春天天气，前景中有几朵黄色的花（可能是蒲公英），它们似乎在割草机的路径上，因此可以理解为“蒲公英害怕失去生命”。"
+    },
+    {
+        "idx": 297,
+        "image": "5405213054.jpg",
+        "en": "Some people are boxing in public.",
+        "zh": "有些人在公开场合打拳击。",
+        "img_match": "匹配。图片显示两个人在拳击，他们穿着拳击装备，包括头盔和手套，并且在一个看起来像是拳击场的地方。这与句子描述的“一些人在公共场合拳击”相符。"
+    },
+    {
+        "idx": 298,
+        "image": "cc12m_1973425527.jpg",
+        "en": "A small plant pot placed on a wooden platform.",
+        "zh": "放在木制平台上的小花盆。",
+        "img_match": "匹配。图片中确实有一个小花盆放在一个木制平台上，花盆里有一株绿色植物。"
+    },
+    {
+        "idx": 299,
+        "image": "cc12m_294224256.jpg",
+        "en": "A senior wearing a dark casual winter-coat takes a bag of charcoal from a stand in front of a store with an awning.",
+        "zh": "一位身穿深色休闲冬衣的老人从一家有遮阳棚的商店前的摊位上拿起一袋木炭。",
+        "img_match": "匹配。图片中显示一位穿着深色休闲冬装的老人正在从一个摊位上拿起一袋木炭，背景中可以看到商店的遮阳篷。"
+    },
+    {
+        "idx": 300,
+        "image": "000000122277.jpg",
+        "en": "The teenager is balancing his skateboard on the edge of the ramp.",
+        "zh": "少年正在斜坡边缘平衡滑板。",
+        "img_match": "匹配。图片中的年轻人正在将他的滑板平衡在斜坡的边缘，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 301,
+        "image": "cc12m_1476208154.jpg",
+        "en": "A boat bobs on a blue sea.",
+        "zh": "一艘船在蓝色的海面上颠簸",
+        "img_match": "匹配。图片中确实有一艘船在蓝色的海面上漂浮。"
+    },
+    {
+        "idx": 302,
+        "image": "5870701819.jpg",
+        "en": "A person engaged in movement.",
+        "zh": "一个从事运动的人。",
+        "img_match": "匹配。图片中的人穿着舞蹈服装，似乎在进行某种舞蹈动作，显示出动态的姿态。"
+    },
+    {
+        "idx": 303,
+        "image": "7002845832.jpg",
+        "en": "Six athletes on a track surrounded by bleachers are commencing a race from starting blocks.",
+        "zh": "在看台环绕的跑道上，六名运动员从起跑台开始比赛。",
+        "img_match": "匹配。图片显示了六名运动员在跑道上，他们正从起跑器开始比赛，周围是看台。"
+    },
+    {
+        "idx": 304,
+        "image": "sbu_1615425408.jpg",
+        "en": "An out of place cloud floats over a lake a sunset in hatfield forest.",
+        "zh": "一片不合时宜的云漂浮在湖面上，哈特菲尔德森林的傍晚。",
+        "img_match": "匹配。图片显示的是一个湖泊在日落时分的景象，天空中有一朵云显得格外突出，背景是树木的剪影，这与句子描述的内容相符。虽然句子中提到的“Hatfield Forest”无法从图片中直接确认，但其他描述都与图片内容一致。"
+    },
+    {
+        "idx": 305,
+        "image": "cc12m_4090123071.jpg",
+        "en": "Cute cat with a teddy bear, on a light background with toys. funny animals, with space for an inscription. sweet dream.",
+        "zh": "可爱的猫和泰迪熊，在一个有玩具的浅色背景上。有趣的动物，有可以写字的空地。甜蜜的梦想。",
+        "img_match": "匹配。图片中确实有一只可爱的猫和一只泰迪熊，背景是浅色的，并且有一些玩具装饰。这些元素与句子描述的内容相符。"
+    },
+    {
+        "idx": 306,
+        "image": "cc12m_825927475.jpg",
+        "en": "A boy and his mother riding their bikes on a trail through a green area as the sun sets.",
+        "zh": "夕阳西下时，一个男孩和他的母亲骑着自行车走在绿化带的小路上。",
+        "img_match": "匹配。图片中显示一个男孩和他的母亲正在绿色区域的步道上骑自行车，阳光从树叶间洒下，营造出日落时分的氛围。"
+    },
+    {
+        "idx": 307,
+        "image": "cc12m_1971269844.jpg",
+        "en": "A chef's kitchen is full of luxury touches, including granite countertops, a gas range, and all new stainless steel appliances.",
+        "zh": "一个厨师的厨房充满了豪华的装饰，包括花岗岩台面，燃气灶，和所有新的不锈钢电器。",
+        "img_match": "匹配。图片中的厨房确实有花岗岩台面、燃气灶和全新的不锈钢电器，这些都符合句子中描述的豪华厨师厨房的特点。"
+    },
+    {
+        "idx": 308,
+        "image": "4931700621.jpg",
+        "en": "A family is at a shop display.",
+        "zh": "一家人正在商店展示。",
+        "img_match": "匹配。图片显示了一家三口（一位成年人和两个孩子）站在一个商店的展示前，看起来像是在购物或浏览商品。"
+    },
+    {
+        "idx": 309,
+        "image": "cc12m_1764486621.jpg",
+        "en": "Clapping and waving hands raised up in the air in night club.",
+        "zh": "在夜总会里鼓掌和挥舞着高举的双手。",
+        "img_match": "匹配。图片显示了一群人在夜店中，他们的手举在空中，似乎在拍手和挥手，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 310,
+        "image": "cc12m_1282470564.jpg",
+        "en": "Hit in the head : girl got a bump on head.",
+        "zh": "击中头部：女孩头上被撞了一下。",
+        "img_match": "匹配。图片中的女孩头上有一个明显的肿块，旁边还有星星图案，通常用来表示被击中或受伤的情况。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 311,
+        "image": "cc12m_2196076798.jpg",
+        "en": "Pretty woman posing in the airport. next to a suitcase dressed in a long dress.",
+        "zh": "漂亮的女人在机场摆姿势。穿着长裙的行李箱旁边。",
+        "img_match": "匹配。图片中显示了一位穿着长裙的女性在机场内摆姿势，旁边有一个手提箱。"
+    },
+    {
+        "idx": 312,
+        "image": "cc12m_3920760579.jpg",
+        "en": "Black and white photograph of woman with and a man dressed in military uniform.",
+        "zh": "黑白照片，女人和一个穿着军装的男人。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 313,
+        "image": "cc12m_2736710294.jpg",
+        "en": "Boy releasing a white dove into the air concept for freedom, peace and spirituality.",
+        "zh": "男孩将一只白鸽放飞到空中，代表自由、和平和精神的概念。",
+        "img_match": "匹配。图片中显示一个男孩正在放飞一只白鸽，背景是蓝天白云，这与句子描述的“释放白鸽象征自由、和平和灵性”的概念相符。"
+    },
+    {
+        "idx": 314,
+        "image": "000000489927.jpg",
+        "en": "A home made stuffed animal on a makeshift stage.",
+        "zh": "一个临时搭建的舞台上的自制毛绒玩具。",
+        "img_match": "匹配。图片中显示的是一个手工制作的填充玩具，它被放置在一个看起来像是临时搭建的舞台上，背景是带有星星图案的布料。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 315,
+        "image": "cc12m_1420268672.jpg",
+        "en": "A well furnished bedroom with two lamp and a king bed.",
+        "zh": "一间装修好的卧室，有两盏灯和一张大床。",
+        "img_match": "匹配。图片显示的是一个布置精良的卧室，有一张大床（看起来像是国王尺寸），两张床头柜上各有一盏台灯。"
+    },
+    {
+        "idx": 316,
+        "image": "000000058268.jpg",
+        "en": "A baseball player that missed a ball that was pitched.",
+        "zh": "棒球手没能接到投出的球。",
+        "img_match": "匹配。图片中显示一名棒球运动员在击球区，球已经飞过他的球棒，表明他错过了投来的球。"
+    },
+    {
+        "idx": 317,
+        "image": "000000065582.jpg",
+        "en": "A brown bear sitting in an area of trees.",
+        "zh": "一只棕熊坐在树丛中。",
+        "img_match": "匹配。图片中确实有一只棕色的熊坐在树木环绕的区域里。"
+    },
+    {
+        "idx": 318,
+        "image": "cc12m_955988861.jpg",
+        "en": "Brazilian carnival dancer on the street.",
+        "zh": "街道上的巴西狂欢节舞者。",
+        "img_match": "匹配。图片中显示的是一位穿着华丽服装和头饰的舞者，这种装扮通常与巴西狂欢节（Carnival）相关联。舞者的服饰包括羽毛、亮片和装饰性的面具，这些都是巴西狂欢节表演中的典型元素。此外，背景中可以看到观众和其他参与者，这进一步表明这是一个街头庆典活动，类似于巴西狂欢节的场景。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 319,
+        "image": "cc_1963737580.jpg",
+        "en": "Cute cat sleeping on the grass with flowers.",
+        "zh": "睡在鲜花草地上的可爱猫咪。",
+        "img_match": "匹配。图片中有一只可爱的猫躺在草地上，周围有花朵，猫看起来像是在睡觉或休息。"
+    },
+    {
+        "idx": 320,
+        "image": "000000344611.jpg",
+        "en": "A street sign mentioning water on the road.",
+        "zh": "一个提到路上有水的路牌。",
+        "img_match": "匹配。图片中有一个黄色的菱形标志，上面写着“WATER ON PAVEMENT”，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 321,
+        "image": "cc12m_3982263771.jpg",
+        "en": "Single persimmon on the white background.",
+        "zh": "白色背景中的一个柿子。",
+        "img_match": "匹配。图片中显示的是一个柿子（persimmon），背景是白色的，与句子描述的内容一致。"
+    },
+    {
+        "idx": 322,
+        "image": "cc12m_2224493722.jpg",
+        "en": "Asian female caregiver helping disabled elderly woman in wheelchair to get into the car,helpful daughter care and support senior.",
+        "zh": "亚裔女性护理员帮助坐轮椅的残疾老年妇女上车，帮助女儿照顾和支持老人。",
+        "img_match": "匹配。图片中显示了一位女性正在帮助一位坐在轮椅上的老年女性进入汽车，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 323,
+        "image": "cc12m_2127357422.jpg",
+        "en": "New path through the birch trees.",
+        "zh": "穿过白桦树的新路径。",
+        "img_match": "匹配。图片显示了一条穿过白桦树林的小路，与句子描述的内容相符。"
+    },
+    {
+        "idx": 324,
+        "image": "cc12m_1108292633.jpg",
+        "en": "Carefully pull out the yellow flexible ribbon cable to disconnect it from the motherboard.",
+        "zh": "小心地拉出黄色柔性带状电缆，将其与主板断开。",
+        "img_match": "匹配。图片显示了一个人正在小心地拔出一根黄色的柔性带状电缆，以将其从主板上断开连接。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 325,
+        "image": "000000022166.jpg",
+        "en": "A couple of sheep surrounded by some little lambs.",
+        "zh": "两只羊被一些小羊羔包围着。",
+        "img_match": "匹配。图片中确实有几只成年羊被一些小羊羔包围着。"
+    },
+    {
+        "idx": 326,
+        "image": "cc12m_3917210018.jpg",
+        "en": "Black cat sleeping curled in roughly a heart shape, with all his paws collected in a puddle.",
+        "zh": "黑猫蜷缩成心形睡觉，所有的爪子都堆叠在一起。",
+        "img_match": "匹配。图片中的黑猫蜷缩成一个类似心形的姿势，它的爪子都聚集在一起，看起来像是在一个小水洼里。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 327,
+        "image": "cc12m_3124489788.jpg",
+        "en": "Photo of a map of edinburgh in an old book.",
+        "zh": "一本旧书中的爱丁堡地图的照片。",
+        "img_match": "匹配。图片显示的是一本旧书中的一幅爱丁堡地图，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 328,
+        "image": "cc_3930332799.jpg",
+        "en": "Overview from the hillside with flowers.",
+        "zh": "从有花的山坡上拍摄的概览图。",
+        "img_match": "匹配。图片显示的是从山坡上俯瞰的景色，前景中有花朵和绿叶，背景是城镇、港口和海岸线。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 329,
+        "image": "cc_3537020441.jpg",
+        "en": "An aerial view of the home.",
+        "zh": "一间房屋的鸟瞰图。",
+        "img_match": "匹配。图片显示的是一个房屋的俯视图，屋顶和周围的雪地清晰可见，这与“An aerial view of the home”（房屋的空中俯视图）的描述相符。"
+    },
+    {
+        "idx": 330,
+        "image": "cc12m_678800916.jpg",
+        "en": "Ballroom dance lessons offer many mental, physical, and social benefits to adults of all ages.",
+        "zh": "国标舞课程为所有年龄段的成年人提供许多心理、身体和社会益处。",
+        "img_match": "匹配。图片显示了一群成年人在进行舞蹈课程，这与句子中提到的“Ballroom dance lessons offer many mental, physical, and social benefits to adults of all ages”相符合。虽然图片本身不能直接证明这些好处，但它确实展示了成人参与舞蹈课程的情景，这与句子描述的内容一致。"
+    },
+    {
+        "idx": 331,
+        "image": "cc_3470150551.jpg",
+        "en": "Smiling girl with dreadlocks pulled up in a bun.",
+        "zh": "面带微笑的女孩，辫子挽成一个发髻。",
+        "img_match": "匹配。图片中的女孩确实有被扎成发髻的脏辫，并且她正在微笑。"
+    },
+    {
+        "idx": 332,
+        "image": "cc_4166896815.jpg",
+        "en": "Actor made a statement the premiere of wearing a black sleeveless crop top with a skirt.",
+        "zh": "在首映式上，演员穿着黑色露脐装和长裙，发表了一份声明。",
+        "img_match": "匹配。图片中的演员穿着一件黑色无袖露脐上衣和一条裙子，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 333,
+        "image": "cc12m_3647067339.jpg",
+        "en": "Portrait of bearded rugby player with tattoos on his arms. the bearded rugby player catching a game ball.",
+        "zh": "大胡子橄榄球运动员的照片，手臂上有纹身。大胡子橄榄球运动员接住比赛用的球。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 334,
+        "image": "3005979237.jpg",
+        "en": "A woman plays electronic keyboards on a stage in front of several video screens while an audience watches.",
+        "zh": "一位女士在几个屏幕前的舞台上演奏电子键盘，而观众则在一旁观看。",
+        "img_match": "匹配。图片中确实有一位女性在舞台上弹奏电子键盘，前方有多个视频屏幕显示内容，同时有一群观众在观看表演。"
+    },
+    {
+        "idx": 335,
+        "image": "cc12m_1758408377.jpg",
+        "en": "Cute red-haired chihuahua puppy sits on a crimson background.",
+        "zh": "可爱的红发吉娃娃小狗坐在深红色的背景上。",
+        "img_match": "匹配。图片中是一只可爱的红毛吉娃娃幼犬，它坐在一个深红色的背景前。"
+    },
+    {
+        "idx": 336,
+        "image": "cc12m_268160225.jpg",
+        "en": "Thousands gathered to watch the sunrise at stonehenge.",
+        "zh": "数千人聚集在巨石阵观看日出。",
+        "img_match": "匹配。图片显示了大量的人群聚集在巨石阵（Stonehenge）周围，背景中可以看到日出的景象。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 337,
+        "image": "cc_905550047.jpg",
+        "en": "Profiles of a neurologically - intact individual and an individual with unilateral stroke.",
+        "zh": "神经系统完整个体和单侧中风个体的特征。",
+        "img_match": "匹配。图片展示了神经功能正常个体（NEUROLOGICALLY INTACT CONTROL）和单侧中风个体（INDIVIDUAL WITH STROKE）在手部速度、握力、握力率、负载力和负载力率方面的对比曲线图，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 338,
+        "image": "cc12m_491312087.jpg",
+        "en": "3 sticky toffee pudding cupcakes and a copper pan of toffee sauce. cakes resting on a wooden box. autumn leaves in the background.",
+        "zh": "3个太妃糖布丁小蛋糕和一个太妃糖酱的铜锅。蛋糕放在一个木盒上。背景是秋天的树叶。",
+        "img_match": "匹配。图片中确实有3个看起来像是粘性太妃布丁纸杯蛋糕，它们放在一个木制盒子上。旁边有一个铜锅，里面装着可能是太妃糖酱的东西。背景中可以看到一些秋天的叶子。"
+    },
+    {
+        "idx": 339,
+        "image": "sbu_2545622579.jpg",
+        "en": "The sun and clouds bathed this structure in beautiful yellow light.",
+        "zh": "阳光和云彩使这个建筑物沐浴在美丽的黄色光线中。",
+        "img_match": "匹配。图片显示了罗马斗兽场在阳光和云彩的照射下，确实被美丽的黄色光线所笼罩。"
+    },
+    {
+        "idx": 340,
+        "image": "cc12m_2994064544.jpg",
+        "en": "Great vacation and diving in the warm sea. The scuba diver signs the okay sign and takes himself off on a video of himself.",
+        "zh": "在温暖的海洋中度过美好的假期和潜水。戴水肺潜水者做了一个“OK”的手势，在Self stock视频中展示自己。",
+        "img_match": "匹配。图片中显示了一位潜水员在温暖的海水中潜水，背景是珊瑚礁，潜水员正在用手比出“OK”的手势，这与句子描述的内容相符。虽然无法确定是否是在录制自拍视频，但其他描述都与图片内容一致。"
+    },
+    {
+        "idx": 341,
+        "image": "cc12m_2221300495.jpg",
+        "en": "Photo of a graphic print and a laptop with web design.",
+        "zh": "一张图形印刷品和带有网页设计的笔记本电脑的照片。",
+        "img_match": "匹配。图片中确实有一张带有励志文字的图形打印品和一台显示网页设计内容的笔记本电脑。"
+    },
+    {
+        "idx": 342,
+        "image": "cc_3376595811.jpg",
+        "en": "The bartender turns the ice in a glass with a spoon.",
+        "zh": "酒保用勺子转动杯子里的冰块。",
+        "img_match": "匹配。图片中显示调酒师正在用勺子在玻璃杯中转动冰块。"
+    },
+    {
+        "idx": 343,
+        "image": "sbu_2443964852.jpg",
+        "en": "&amp;quot;make a photograph featuring strong vertical lines today. dirty white fence in front of my home.",
+        "zh": "今天拍一张具有强烈垂直线条的照片。我家门口的白色栅栏很脏。",
+        "img_match": "匹配。\n\n图片中展示了一排白色的栅栏，栅栏的柱子形成了明显的垂直线条。栅栏看起来有些脏污，背景模糊，但可以看出是在一个住宅区。因此，这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 344,
+        "image": "000000460042.jpg",
+        "en": "A yellow sign hanging from the side of a fence.",
+        "zh": "挂在栅栏边上的黄色标志。",
+        "img_match": "匹配。图片中确实有一个黄色的标志挂在围栏的一侧。"
+    },
+    {
+        "idx": 345,
+        "image": "000000123949.jpg",
+        "en": "A beautiful woman talking on a phone next to a graffiti covered wal.",
+        "zh": "一个漂亮的女人在涂鸦的墙边讲电话。",
+        "img_match": "匹配。图片中确实有一位美丽的女性正在打电话，旁边是一面涂鸦覆盖的墙。"
+    },
+    {
+        "idx": 346,
+        "image": "cc_427990761.jpg",
+        "en": "Card with leaves and branches in a circle with text on a light purple background.",
+        "zh": "卡片上有一圈树叶和树枝以及文字在浅紫色的背景上。",
+        "img_match": "匹配。图片显示的是一个带有叶子和树枝图案的卡片，这些图案被安排在一个圆形区域内，并且背景是浅紫色的。此外，图片上方有文字“cord with leaflet and twig”，这与句子描述的内容一致。"
+    },
+    {
+        "idx": 347,
+        "image": "6273590324.jpg",
+        "en": "Roller derby girl skating with intensity.",
+        "zh": "轮滑女郎在激烈地滑行。",
+        "img_match": "匹配。图片中的女性穿着轮滑装备，包括头盔、护肘和护膝，并且正在滑行，表情专注，显示出她在进行轮滑比赛时的紧张和投入。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 348,
+        "image": "000000175382.jpg",
+        "en": "People walking in a mall in front of an open front store with signs in asian.",
+        "zh": "人们走在一家带有亚洲标志的露天商店前的商场里。",
+        "img_match": "匹配。图片显示的是一个商场内部，人们在行走，前方有一个开放的店面，店面上有亚洲语言的标志。"
+    },
+    {
+        "idx": 349,
+        "image": "cc12m_669406296.jpg",
+        "en": "Steel blue chiffon off the shoulder pleated sweetheart long bridesmaid dress.",
+        "zh": "钢蓝色雪纺露肩褶皱甜心长款伴娘裙。",
+        "img_match": "匹配。图片中的礼服是钢蓝色的，材质看起来像是雪纺（chiffon），设计为露肩（off the shoulder），胸部有褶皱装饰（pleated sweetheart），并且是一件长款伴娘礼服（long bridesmaid dress）。这些特征与句子描述的内容一致。"
+    },
+    {
+        "idx": 350,
+        "image": "cc12m_736940746.jpg",
+        "en": "A black flex duct with pink fiberglass hanging out the end laying in the grass out in a yard after being removed.",
+        "zh": "一个黑色的柔性导管，末端挂着粉红色的玻璃纤维，被拆除后放在院子里的草地上。",
+        "img_match": "匹配。图片显示的是一根黑色的柔性风管，一端有粉红色的玻璃纤维露出来，放在草地上。这与句子描述的内容一致。"
+    },
+    {
+        "idx": 351,
+        "image": "sbu_1863959689.jpg",
+        "en": "Conveniently positioned holes in the fence provide a window for each dog.",
+        "zh": "栅栏上方便的孔洞为每只狗提供了一个窗口。",
+        "img_match": "匹配。图片中可以看到围栏上有两个方便的位置的洞，正好让两只狗可以通过这些洞向外看，就像窗户一样。"
+    },
+    {
+        "idx": 352,
+        "image": "cc12m_143649260.jpg",
+        "en": "Pink orchid flower on a gray textured background.",
+        "zh": "灰色纹理背景上的粉红色兰花。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 353,
+        "image": "000000092153.jpg",
+        "en": "An air plane on an air plane run way.",
+        "zh": "一架飞机在飞机跑道上。",
+        "img_match": "匹配。图片中确实有一架飞机在机场跑道上。"
+    },
+    {
+        "idx": 354,
+        "image": "7671851684.jpg",
+        "en": "Five men in red shirts stand on a line on a basketball court; four of them have their right hands placed over their hearts.",
+        "zh": "五名穿着红色衬衫的男子在篮球场上站成一排;其中四个人的右手放在胸前。",
+        "img_match": "匹配。图片中确实有五个穿着红色衬衫的男子站在篮球场的一条线上，其中四个人将他们的右手放在胸前。"
+    },
+    {
+        "idx": 355,
+        "image": "cc_10298767.jpg",
+        "en": "Wind farms could soon become a part of the landscape.",
+        "zh": "风力发电场可能很快就会成为风景的一部分。",
+        "img_match": "匹配。图片中显示了一片风力发电场，风力发电机已经成为了这片景观的一部分。因此，句子“Wind farms could soon become a part of the landscape.”与图片内容相匹配。"
+    },
+    {
+        "idx": 356,
+        "image": "97577988.jpg",
+        "en": "An climber is ascending an ice covered rock face.",
+        "zh": "一名登山者正在攀登一处被冰覆盖的岩壁。",
+        "img_match": "匹配。图片中显示了一位攀冰者正在攀登一个被冰雪覆盖的岩壁，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 357,
+        "image": "4540719607.jpg",
+        "en": "A man in a large crowd converses with his friends.",
+        "zh": "一个人在人群中和他的朋友们交谈。",
+        "img_match": "匹配。图片中确实有一个男人在一大群人中，看起来像是在与他的朋友们交谈。"
+    },
+    {
+        "idx": 358,
+        "image": "cc_66398998.jpg",
+        "en": "Image : activists drag effigy of politicians as they march along a main road towards the presidential palace.",
+        "zh": "图片：活动人士拖着政客的雕像，沿着一条主干道向总统府行进。",
+        "img_match": "匹配。图片中显示了一群人正在拖拽一个大型的、带有讽刺意味的政治人物雕像，他们似乎在进行游行或抗议活动。背景中有桥梁和人群，表明这是在一个主要道路上进行的活动。虽然无法确定具体的目的地是否是总统府，但整体场景与句子描述的内容相符。"
+    },
+    {
+        "idx": 359,
+        "image": "cc_3714967718.jpg",
+        "en": "Friends having a serious conversation at the marina after work.",
+        "zh": "朋友们下班后在码头聊着正事。",
+        "img_match": "匹配。图片显示两个人坐在栏杆上，背景是现代建筑和水体，看起来像是在码头或海滨地区。他们的姿势和表情表明他们正在进行一场认真的对话。这与句子描述的情景相符。"
+    },
+    {
+        "idx": 360,
+        "image": "cc12m_1698110479.jpg",
+        "en": "Sample wall display showing various clusters of family portraits in a room setting.",
+        "zh": "在房间中展示各种全家福的墙壁。",
+        "img_match": "匹配。图片显示了两个房间的场景，每个房间都展示了家庭肖像的不同集群。左侧是一个卧室，墙上挂着三幅家庭照片，而右侧是一个客厅，壁炉上方有四幅装裱的家庭照片。这些展示方式符合句子中描述的“各种家庭肖像集群在房间设置中的样本墙展示”。"
+    },
+    {
+        "idx": 361,
+        "image": "8036413429.jpg",
+        "en": "Two guys in bright blue t-shirts and shorts with white lettering and sport stripes appear to be running and actively engaged in a game.",
+        "zh": "两个穿着亮蓝色T恤和白色的字母运动条纹短裤的人。看起来在跑步，积极参与比赛中。",
+        "img_match": "匹配。图片中有两名穿着亮蓝色T恤和短裤的男子，他们的衣服上有白色字母和运动条纹。他们看起来正在奔跑，并且似乎在积极地参与比赛。"
+    },
+    {
+        "idx": 362,
+        "image": "sbu_1704680519.jpg",
+        "en": "Jet black kitten in magazine holder.",
+        "zh": "杂志架上的黑色小猫。",
+        "img_match": "匹配。图片中显示了一只黑色的小猫，它位于一个看起来像是杂志架的结构后面。小猫的颜色和位置与句子描述相符。"
+    },
+    {
+        "idx": 363,
+        "image": "cc12m_411683686.jpg",
+        "en": "Photo of the inside of a mini cooper, focused on the steering wheel and brand emblem.",
+        "zh": "一辆MINI Cooper车内的照片，焦点是方向盘和品牌标志。",
+        "img_match": "匹配。图片显示的是Mini Cooper汽车内部，主要聚焦在方向盘和品牌徽标上。"
+    },
+    {
+        "idx": 364,
+        "image": "000000014683.jpg",
+        "en": "Two people ride on horseback through a grassy field.",
+        "zh": "两个人骑马穿过一片草地。",
+        "img_match": "匹配。图片中确实有两个人骑着马在草地上奔跑，背景是一片草地和一些羊。"
+    },
+    {
+        "idx": 365,
+        "image": "cc12m_1683317947.jpg",
+        "en": "Young caucasian woman organizing a birthday keeping a secret or asking for silence.",
+        "zh": "年轻的高加索妇女在组织生日时要求保守秘密或保持沉默。",
+        "img_match": "匹配。图片中显示了一位年轻女性，她坐在一张装饰有生日派对元素的桌子前，如气球、礼物袋和纸杯蛋糕。她的手势（手指放在嘴唇上）通常表示保持安静或保密的意思，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 366,
+        "image": "000000053823.jpg",
+        "en": "A group of people skiing on white slope next to trees.",
+        "zh": "一群人在树旁的白色斜坡上滑雪。",
+        "img_match": "匹配。图片中确实有一群人在白色的雪坡上滑雪，背景中有树木。"
+    },
+    {
+        "idx": 367,
+        "image": "000000285099.jpg",
+        "en": "A person in a downstairs room playing video games.",
+        "zh": "一个人在楼下的房间里玩电子游戏。",
+        "img_match": "匹配。图片中显示一个人在楼下房间内，手中握着类似游戏控制器的物品，似乎正在玩电子游戏。背景是一个家庭环境，有楼梯通向楼上，表明这是楼下的房间。"
+    },
+    {
+        "idx": 368,
+        "image": "cc12m_1564358663.jpg",
+        "en": "The team gb women's relay team celebrate victory, four women hold up a flag behind them.",
+        "zh": "英国女子接力队庆祝胜利，四名女子在身后举起一面旗帜。",
+        "img_match": "匹配。图片显示了四名女性运动员，她们穿着带有“GBR”标志的运动服，这表明她们代表的是英国队（Team GB）。她们正在庆祝胜利，并且其中两人举起了英国国旗，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 369,
+        "image": "cc12m_3999809271.jpg",
+        "en": "Frog dressed in female clothing playing a mandolin or banjo on a french postcard.",
+        "zh": "法国明信片上画着身着女装的青蛙在演奏曼陀林或班卓琴。",
+        "img_match": "匹配。图片中确实有一只穿着女性服装的青蛙，正在演奏一种类似曼陀林或班卓琴的乐器，并且这似乎是一张法国明信片。"
+    },
+    {
+        "idx": 370,
+        "image": "4533796266.jpg",
+        "en": "A man in a blue shirt is smiling and holding a sign.",
+        "zh": "一个穿着蓝色衬衫的男人正微笑着举着一个牌子。",
+        "img_match": "匹配。图片中确实有一个穿着蓝色衬衫的男人，他正在微笑并拿着一个标志牌。"
+    },
+    {
+        "idx": 371,
+        "image": "000000480208.jpg",
+        "en": "The sun shines over a mountain as a skier glides down a snowy slope.",
+        "zh": "阳光照耀着山峰，滑雪者从雪坡上滑下。",
+        "img_match": "匹配。图片中可以看到太阳在山的上方照耀，同时有一个滑雪者正在雪坡上滑行。"
+    },
+    {
+        "idx": 372,
+        "image": "cc12m_1214416652.jpg",
+        "en": "Honeybees start to work the leftover cracked corn at the bird feeder's edge for the corn dust.",
+        "zh": "蜜蜂开始在喂鸟器边缘剩余的碎玉米上工作，以获取玉米粉。",
+        "img_match": "匹配。图片中可以看到蜜蜂在鸟食器的边缘活动，似乎在处理一些颗粒状的食物，这与句子描述的“蜜蜂开始在鸟食器边缘工作剩余的碎玉米以获取玉米粉尘”相符合。虽然无法确定这些颗粒是否确实是碎玉米，但蜜蜂的行为和位置与句子描述的情景相符。"
+    },
+    {
+        "idx": 373,
+        "image": "cc_965826471.jpg",
+        "en": "New stamps have been issued marking the 50th anniversary of historic visit.",
+        "zh": "纪念历史性访问50周年的新邮票已经发行。",
+        "img_match": "匹配。图片显示的是一枚邮票，上面有三个人物，其中一位是约翰·F·肯尼迪（John F. Kennedy），邮票上标注了“1917-1963”，这与肯尼迪的生卒年份相符。邮票上的文字和设计表明这是为了纪念某个历史事件而发行的。结合句子提到的“New stamps have been issued marking the 50th anniversary of historic visit”（新邮票已发行，以纪念历史性访问的50周年），可以推断这张邮票是为了纪念肯尼迪的历史性访问爱尔兰50周年而发行的。因此，句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 374,
+        "image": "000000301136.jpg",
+        "en": "People on a slope snowboard and skiing next to trees.",
+        "zh": "斜坡上的人们在树旁滑雪。",
+        "img_match": "匹配。图片中可以看到人们在斜坡上滑雪和滑板，旁边有树木。"
+    },
+    {
+        "idx": 375,
+        "image": "sbu_3249520003.jpg",
+        "en": "Just in case you were wondering, you can fit a person on the luggage racks in the train car.",
+        "zh": "假设你想知道，你可以在火车车厢的行李架上装下一个人。",
+        "img_match": "匹配。图片中显示一个人躺在火车行李架上，这表明确实可以将人放在火车车厢的行李架上。"
+    },
+    {
+        "idx": 376,
+        "image": "000000282238.jpg",
+        "en": "A traffic light hanging over a street next to trees.",
+        "zh": "悬挂在一条街道上的交通灯，旁边是树木。",
+        "img_match": "匹配。图片中可以看到悬挂的交通灯，旁边有树木。"
+    },
+    {
+        "idx": 377,
+        "image": "cc_2734082952.jpg",
+        "en": "A set of cup and saucer on the table found inside the building.",
+        "zh": "在建筑物里的桌子上发现了一套杯碟。",
+        "img_match": "匹配。图片中确实有一套杯子和碟子放在桌子上的场景，且这个场景看起来像是在室内。"
+    },
+    {
+        "idx": 378,
+        "image": "cc12m_322870393.jpg",
+        "en": "Businessman standing in front of the obstacle, gap on the way to success, business concept of solving the problem. problems and overcoming obstacles.",
+        "zh": "商人站在障碍物前，成功路上的差距，是解决问题的商业理念。问题和克服障碍。",
+        "img_match": "匹配。图片中显示一个商人站在一个障碍物前，这个障碍物是一个缺口，阻碍了通往成功的道路。这与句子描述的“商人站在障碍物前，道路上有缺口，这是解决商业问题和克服障碍的概念”相符合。因此，该句子与图片内容是匹配的。"
+    },
+    {
+        "idx": 379,
+        "image": "cc_2008913843.jpg",
+        "en": "Bride and groom stand together at the altar on their wedding day.",
+        "zh": "新郎和新娘在婚礼当天一起站在圣坛上。",
+        "img_match": "匹配。图片中显示的是一对新人站在一个装饰有花卉的祭坛前，新娘穿着婚纱并手持花束，新郎则穿着西装，两人看起来正在举行婚礼仪式。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 380,
+        "image": "cc12m_3977335559.jpg",
+        "en": "Table setting in gold and pink color, for a wedding or other event.",
+        "zh": "金色和粉色的餐桌布置，用于婚礼或其他活动。",
+        "img_match": "匹配。图片中的餐桌布置确实使用了金色和粉色的配色，包括金色的餐具、粉色的盘子以及带有金色装饰的玻璃杯。这样的布置通常用于婚礼或其他正式活动，因此句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 381,
+        "image": "cc_1383640576.jpg",
+        "en": "Bringing home a new puppy makes for a happy day.",
+        "zh": "将一只新的小狗狗带回家，今天真是愉快的一天！",
+        "img_match": "匹配。图片中的文字“Bringing home a new puppy”和“Oh happy day!”与句子“Bringing home a new puppy makes for a happy day.”表达的意思一致，都表示带回家一只新小狗会让人感到快乐。"
+    },
+    {
+        "idx": 382,
+        "image": "000000280734.jpg",
+        "en": "A pizza topped with different toppings is brought to a table.",
+        "zh": "一个铺满不同配料的披萨被端上桌来。",
+        "img_match": "匹配。图片显示的是一张披萨，上面有各种不同的配料，如香肠、奶酪和绿色蔬菜等，而且看起来是刚被端到桌子上来的。因此，这个句子与图片内容相符。"
+    },
+    {
+        "idx": 383,
+        "image": "000000576653.jpg",
+        "en": "A man in swim trunks riding a wave with a surfboard.",
+        "zh": "一名穿着泳裤的男子踩着冲浪板踏浪而行。",
+        "img_match": "匹配。图片中确实有一个穿着泳裤的男人正在用冲浪板骑着海浪。"
+    },
+    {
+        "idx": 384,
+        "image": "000000026383.jpg",
+        "en": "A powder blue bathroom with a white toilet and tile floor.",
+        "zh": "粉蓝色卫生间，白色马桶和瓷砖地板。",
+        "img_match": "匹配。图片显示的是一个浅蓝色的浴室，配有白色的马桶和瓷砖地板，与句子描述的内容相符。"
+    },
+    {
+        "idx": 385,
+        "image": "000000494566.jpg",
+        "en": "A skier leans to his left as he maneuvers on a slope.",
+        "zh": "一个滑雪者在斜坡上操纵滑雪板向左倾斜。",
+        "img_match": "匹配。图片中的滑雪者在斜坡上滑行时，身体向左倾斜，这与句子描述的内容一致。"
+    },
+    {
+        "idx": 386,
+        "image": "2833509990.jpg",
+        "en": "A crowd of hundreds of people are all fixed on something off in the distance.",
+        "zh": "成百上千的人都在盯着远处的某个东西。",
+        "img_match": "匹配。图片显示了一大群人聚集在一起，他们的注意力似乎集中在画面之外的某个地方，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 387,
+        "image": "cc12m_4158538765.jpg",
+        "en": "Look up at the sky the stars diamond shine all alone tonight is the night take a deep breath let it go.",
+        "zh": "写有“抬头看天空，星星如钻石般独自闪耀，就是今晚，深吸一口气，随它去吧。”的图片。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 388,
+        "image": "cc12m_3454637287.jpg",
+        "en": "Greeting card with happy easter day congratulations. symbolic stylized heart with a festive egg and decoration. modern print.",
+        "zh": "复活节快乐的贺卡。象征性的风格化的心与一个复活节彩蛋和装饰品。现代印刷品。",
+        "img_match": "匹配。图片显示的是一张复活节贺卡，上面有“Happy Easter”的字样，中心是一个象征性的、风格化的心形图案，里面包含一个装饰精美的节日彩蛋和一些装饰元素。整体设计现代且具有印刷风格，与句子描述的内容相符。"
+    },
+    {
+        "idx": 389,
+        "image": "cc_2160708943.jpg",
+        "en": "Football player in good spirits during a press conference prior to the match.",
+        "zh": "在比赛前的新闻发布会上，足球运动员的精神状态良好。",
+        "img_match": "匹配。图片中的人看起来情绪很好，正在微笑，这与句子描述的“在比赛前的新闻发布会上精神状态良好”相符。虽然我们无法确定他是否是一名足球运动员，但从背景和情境来看，这种描述是合理的。"
+    },
+    {
+        "idx": 390,
+        "image": "cc12m_3311897614.jpg",
+        "en": "Image of mermaid off-the-shoulder long formal prom dress. style: cla-3788 back image.",
+        "zh": "美人鱼露肩长款正式舞会礼服的图片。风格：CLA-3788背面图片",
+        "img_match": "匹配。图片展示了一位穿着黑色鱼尾礼服的女性，这件礼服是露肩设计，长度及地，符合“mermaid off-the-shoulder long formal prom dress”的描述。虽然无法确认具体的款式编号（cla-3788），但根据提供的信息和图片内容，可以判断这是一张鱼尾礼服背面的照片，因此整体描述与图片事实相匹配。"
+    },
+    {
+        "idx": 391,
+        "image": "cc12m_493737787.jpg",
+        "en": "For isn't the miracle of human life far more spectacular than the stars_.",
+        "zh": "难道人类生命的奇迹不比星星更壮观吗？",
+        "img_match": "匹配。图片中显示的是一片星空和雪山，背景中有文字\"For isn't the miracle of human life far more spectacular than the stars?\"，这与句子描述的内容完全一致。"
+    },
+    {
+        "idx": 392,
+        "image": "000000145593.jpg",
+        "en": "A youth baseball player holds his glove over his face.",
+        "zh": "一名青年棒球运动员将手套盖在脸上。",
+        "img_match": "匹配。图片中显示了一位年轻的棒球运动员，他戴着一顶绿色和黄色的帽子，手里拿着一只棕色的棒球手套，并且用它遮住了自己的脸。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 393,
+        "image": "6141698120.jpg",
+        "en": "A girl wearing goggles is doing an experiment.",
+        "zh": "一个戴着护目镜的女孩正在做实验。",
+        "img_match": "匹配。图片中显示一个女孩戴着护目镜，正在实验室里进行实验操作，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 394,
+        "image": "sbu_2171243409.jpg",
+        "en": "Looks better in black with a roof i reckon.",
+        "zh": "我认为黑色的车顶看起来更好。",
+        "img_match": "匹配。图片中的汽车是黑色的，并且有车顶，看起来确实很酷炫。"
+    },
+    {
+        "idx": 395,
+        "image": "2881561370.jpg",
+        "en": "A man sticks his tongue out to a woman.",
+        "zh": "一个男人向一个女人伸出了舌头。",
+        "img_match": "匹配。图片中，一个男人确实把舌头伸向了一个女人。"
+    },
+    {
+        "idx": 396,
+        "image": "sbu_2657797451.jpg",
+        "en": "Searching all around the bird box.",
+        "zh": "在鸟箱周围进行搜索。",
+        "img_match": "匹配。图片中显示一只松鼠正在鸟箱周围探索，似乎在寻找食物或检查鸟箱。这与句子“Searching all around the bird box”描述的内容相符。"
+    },
+    {
+        "idx": 397,
+        "image": "cc12m_127036799.jpg",
+        "en": "Dental implants are made of a high-impact titanium screw, an implant post, and a tooth crown.",
+        "zh": "种植牙是由一个高强度钛螺钉、种植柱和牙冠制成。",
+        "img_match": "匹配。图片显示了牙科植入物的结构，包括一个植入螺丝（implant screw），这通常由高冲击钛制成，以及一个牙冠（crown）。虽然图片中没有明确标注“implant post”，但这个术语通常指的是连接植入螺丝和牙冠的部分，在图中可以理解为是植入螺丝的一部分或与之相连的结构。因此，根据图片内容，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 398,
+        "image": "cc_2991312235.jpg",
+        "en": "Why we should have aluminum windows ? check out the list of benefits that we could have using aluminum windows.",
+        "zh": "为什么我们应该使用铝合金窗？查看使用铝窗可能带来的好处列表。",
+        "img_match": "匹配。图片中列出了使用铝窗的好处，包括低维护、耐用、抗老化、现代风格的细框和耐用的工厂涂色选项等，与句子描述的内容一致。"
+    },
+    {
+        "idx": 399,
+        "image": "cc12m_2633172422.jpg",
+        "en": "Amtrak carriages fell onto the highway below during the train's first journey on a new track.",
+        "zh": "火车在新轨道上的第一次旅程中，Amtrak车厢落在下面的公路上。",
+        "img_match": "匹配。图片显示了Amtrak列车车厢从高架轨道上坠落到下方的高速公路上，现场有大量应急车辆和人员在处理事故。这与句子描述的内容一致。"
+    },
+    {
+        "idx": 400,
+        "image": "cc12m_1305840088.jpg",
+        "en": "A pupil carrying out a science experiment.",
+        "zh": "一个正在进行科学实验的学生。",
+        "img_match": "匹配。图片中显示一个人穿着实验服和护目镜，正在操作试管和滴管，这表明他正在进行科学实验。"
+    },
+    {
+        "idx": 401,
+        "image": "cc12m_323800418.jpg",
+        "en": "Attentive school kids doing a chemical experiment in laboratory.",
+        "zh": "认真的学生在实验室里做化学实验。",
+        "img_match": "匹配。图片显示了几个穿着实验服和护目镜的学生在实验室里进行化学实验，他们看起来很专注，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 402,
+        "image": "cc12m_2925121500.jpg",
+        "en": "Woman rolling her mat after a yoga class.",
+        "zh": "女人在瑜伽课后滚动她的垫子。",
+        "img_match": "匹配。图片中显示一个人正在卷起一块紫色的瑜伽垫，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 403,
+        "image": "cc_841081977.jpg",
+        "en": "A poster warns drivers about the dangers of mixing alcohol and driving.",
+        "zh": "一张海报警告司机酒后驾车的危险性。",
+        "img_match": "匹配。图片中显示了一个警告标志，上面有“DON'T MIX 'EM”字样，旁边有一个汽油泵和一瓶威士忌，背景是一个骷髅头图案。这些元素共同传达了不要将酒精和驾驶混合在一起的信息，即警告司机关于酒后驾车的危险。"
+    },
+    {
+        "idx": 404,
+        "image": "3627929314.jpg",
+        "en": "A child is viewing a robot.",
+        "zh": "一个孩子正在观看一个机器人。",
+        "img_match": "匹配。图片中有一个孩子正在观看一个看起来像是机器人的装置，这个装置具有金属质感和机械结构，符合“机器人”的描述。"
+    },
+    {
+        "idx": 405,
+        "image": "cc12m_1282793706.jpg",
+        "en": "10 people on a high-speed jet boat, speeding through the water with the gold coast skyline in the background.",
+        "zh": "10人乘坐一艘高速喷气艇，在金色海岸天际线的背景下快速驶过水面。",
+        "img_match": "匹配。图片显示了10个人坐在一艘高速喷气船上，船在水中快速行驶，背景是黄金海岸的天际线。"
+    },
+    {
+        "idx": 406,
+        "image": "000000285493.jpg",
+        "en": "A crosswalk sign next to a street signal in a city street.",
+        "zh": "城市街道上的信号灯旁的一个人行横道标志。",
+        "img_match": "匹配。图片中显示了一个行人过街标志，旁边是一个交通信号灯，背景是城市街道的场景。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 407,
+        "image": "000000104349.jpg",
+        "en": "A vase of flowers sitting behind a open computer screen.",
+        "zh": "放在一个打开的电脑屏幕后面的花瓶。",
+        "img_match": "匹配。图片中确实有一束花放在一个打开的电脑屏幕后面。"
+    },
+    {
+        "idx": 408,
+        "image": "cc_2278406238.jpg",
+        "en": "A person and her daughter walk among the autumn leaves.",
+        "zh": "一个人和她的女儿在秋叶间散步。",
+        "img_match": "匹配。图片中可以看到两个人在秋天的树叶间行走，其中一个人看起来像是成年人，另一个人可能是孩子。"
+    },
+    {
+        "idx": 409,
+        "image": "cc12m_3668382472.jpg",
+        "en": "A group of guests we have over christmas enjoying some home baked gingerbread and food.",
+        "zh": "我们在圣诞节期间接待的一群客人正在享受一些自家烤的姜饼和食物。",
+        "img_match": "匹配。图片中显示了一群人在一个装饰有圣诞灯的房间里围坐在餐桌旁，餐桌上摆放着各种食物和饮料，其中包括看起来像是自制的姜饼和其他节日食品。这种场景与圣诞节期间家庭或朋友聚会享受美食的传统相符。"
+    },
+    {
+        "idx": 410,
+        "image": "cc12m_3741746436.jpg",
+        "en": "Passport looks out of the pocket of a black leather bag close-up, macro handmade, natural materials.",
+        "zh": "护照从黑色皮包的口袋里探出来的特写，微距拍摄，手工制作，天然材料。",
+        "img_match": "匹配。图片显示了一本护照从一个黑色皮革包的口袋中露出，这与句子描述的内容一致。虽然句子中提到的“macro handmade, natural materials”在图片中无法直接验证，但这些描述并不与图片内容相矛盾，因此可以认为整体描述是匹配的。"
+    },
+    {
+        "idx": 411,
+        "image": "cc_3722561051.jpg",
+        "en": "Dog jumping through a hoop of fire.",
+        "zh": "狗跳过火圈。",
+        "img_match": "匹配。图片中确实有一只狗正在跳过一个火焰圈。"
+    },
+    {
+        "idx": 412,
+        "image": "000000421432.jpg",
+        "en": "An image looking down on a car lined street.",
+        "zh": "一张俯瞰汽车林立的街道的照片。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 413,
+        "image": "cc12m_2295634601.jpg",
+        "en": "Fundamentals of probability outcomes and events an experiment is an activity that results.",
+        "zh": "概率结果和事件的基础实验是一种结果。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 414,
+        "image": "cc12m_307574493.jpg",
+        "en": "Mother's day background(mother and child in the blue sky).",
+        "zh": "母亲节背景（母亲和孩子在蓝天下）。",
+        "img_match": "匹配。图片显示了一个母亲和孩子的剪影，背景是蓝色的天空，有云朵和阳光照射的效果，这与句子描述的母亲节背景（母亲和孩子在蓝色天空中）相符合。"
+    },
+    {
+        "idx": 415,
+        "image": "cc12m_4124022962.jpg",
+        "en": "Man with his head in a box with happiness gesture drawn and pointing finger.",
+        "zh": "男人把头放在盒子里，画着幸福的手势，用手指着。",
+        "img_match": "匹配。图片中显示一个人穿着牛仔衬衫，头部被一个纸箱代替，纸箱上画有笑脸和叉号作为眼睛的图案，这个人正伸出手指指向一侧，与句子描述的内容一致。"
+    },
+    {
+        "idx": 416,
+        "image": "cc12m_1346480221.jpg",
+        "en": "A wire cross with curlicues.",
+        "zh": "一个有卷曲的铁丝十字架。",
+        "img_match": "匹配。图片显示的是一个由金属丝制成的十字架，上面有卷曲的装饰（curlicues），这与句子描述的内容相符。"
+    },
+    {
+        "idx": 417,
+        "image": "cc_2152200131.jpg",
+        "en": "Burnt chicken & artichokes on a nice dining table.",
+        "zh": "漂亮餐桌上的烧鸡和洋蓟。",
+        "img_match": "匹配。图片中确实有一只烧焦的鸡和一些烤焦的艺术洋蓟（artichokes）放在一个看起来很精致的餐桌上。"
+    },
+    {
+        "idx": 418,
+        "image": "000000050360.jpg",
+        "en": "Several stop signs that say you are going the wrong way.",
+        "zh": "几个停止的标志，说你走错了路。",
+        "img_match": "匹配。图片中有多个“STOP”标志，其中一个明确写着“WRONG WAY”，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 419,
+        "image": "cc12m_1147804192.jpg",
+        "en": "Three friends hanging out and walking together in the city.",
+        "zh": "三个朋友一起在城市里闲逛和散步。",
+        "img_match": "匹配。图片中有三个人在城市的小巷中一起散步，看起来像是朋友在闲逛。"
+    },
+    {
+        "idx": 420,
+        "image": "cc_1901407615.jpg",
+        "en": "The exchange between buyers and sellers.",
+        "zh": "买家和卖家之间的交流。",
+        "img_match": "匹配。图片显示了买家和卖家之间的交流场景，买家正在与卖家交谈，可能在讨论商品或价格。"
+    },
+    {
+        "idx": 421,
+        "image": "cc12m_289955544.jpg",
+        "en": "A young lady sits at her kitchen table counting her money to pay the household bills.",
+        "zh": "一位年轻的女士坐在厨房的桌子前，数着她的钱来支付家庭账单。",
+        "img_match": "匹配。图片中显示一位年轻女士坐在厨房的桌子旁，正在数钱。她的动作和表情表明她可能在计算或管理金钱，这与句子描述的情景相符。"
+    },
+    {
+        "idx": 422,
+        "image": "cc12m_4127099623.jpg",
+        "en": "A pop-up sprinkler watering a lawn.",
+        "zh": "一个弹出式洒水器正在给草坪浇水。",
+        "img_match": "匹配。图片显示的是一个弹出式喷头正在给草坪浇水，与句子描述的内容一致。"
+    },
+    {
+        "idx": 423,
+        "image": "4770473055.jpg",
+        "en": "A guy in a leopard print sash holds a drum.",
+        "zh": "一个身穿豹纹腰带的人拿着一个鼓。",
+        "img_match": "匹配。图片中的人穿着豹纹图案的披风，手里拿着一个鼓，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 424,
+        "image": "000000270198.jpg",
+        "en": "A big wheeled truck has a crowd gathered around it.",
+        "zh": "一辆有轮子的大卡车周围聚集着一群人。",
+        "img_match": "匹配。图片中显示了一辆大轮子的卡车，周围聚集了一群观众。"
+    },
+    {
+        "idx": 425,
+        "image": "cc12m_1527627172.jpg",
+        "en": "A map showing the number of international underwater communication cables that come ashore at narrabeen beach.",
+        "zh": "一张地图显示了在纳拉宾海滩上岸的国际水下通信电缆的数量。",
+        "img_match": "匹配。\n\n图片显示了Narrabeen Beach附近的海底电缆登陆情况，包括Gondwana-1 Cable、Southern Cross Cable、Japan Cable和APNG 2 Cable等多条国际海底通信电缆。这些电缆在地图上用黑色线条表示，并且标注了它们的名称。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 426,
+        "image": "000000455401.jpg",
+        "en": "Three men on a sidewalk with ties and boxers on holding up signs.",
+        "zh": "人行道上的三个男人打着领带，穿着拳击衫，举着牌子。",
+        "img_match": "匹配。图片中有三名男子站在人行道上，他们穿着领带和内裤，并且举着标语牌。"
+    },
+    {
+        "idx": 427,
+        "image": "000000298051.jpg",
+        "en": "A group of people gathering to watch a music group play.",
+        "zh": "一群人聚集在一起观看一个音乐团体的演出。",
+        "img_match": "匹配。图片中有一群人聚集在一起，观看一个音乐团体在舞台上表演。背景中可以看到乐队成员和乐器，观众们站在舞台前观看演出。"
+    },
+    {
+        "idx": 428,
+        "image": "000000353378.jpg",
+        "en": "A cake decorated with frosting made seashells sits on a table.",
+        "zh": "一个用糖霜做的贝壳装饰的蛋糕摆在桌子上",
+        "img_match": "匹配。图片中展示了一个装饰有糖霜制成的贝壳形状的蛋糕，这个蛋糕放置在一张桌子上。"
+    },
+    {
+        "idx": 429,
+        "image": "cc12m_1226659943.jpg",
+        "en": "Revealing a new kitchen design and concept before being built.",
+        "zh": "在建造前展示新的厨房设计和概念。",
+        "img_match": "匹配。图片显示了一只手正在揭开一张纸，揭示了下面的厨房设计草图。这与句子描述的内容相符，即在建造之前展示一个新的厨房设计和概念。"
+    },
+    {
+        "idx": 430,
+        "image": "cc12m_1635095285.jpg",
+        "en": "A tray ceiling sets a distinct accent in the living room.",
+        "zh": "托盘天花板在客厅里形成了一种独特的风格。",
+        "img_match": "匹配。图片中的客厅天花板有明显的凹槽设计，形成了一个托盘状的天花板（tray ceiling），这确实为房间增添了一个独特的装饰元素。"
+    },
+    {
+        "idx": 431,
+        "image": "sbu_3465520524.jpg",
+        "en": "I thought the new bit of the building was reasonably harmonious with the old- and loved the flag in the window.",
+        "zh": "我认为建筑的新部分与旧部分相当和谐--并且喜欢窗户上的旗帜。",
+        "img_match": "匹配。\n\n图片显示了一栋建筑，其中一部分（右侧）看起来是较新的结构，具有现代的玻璃和金属设计，而另一部分（左侧）则保留了传统的石砌外观。新旧部分在视觉上虽然风格不同，但整体上并不显得突兀，可以认为是“ reasonably harmonious”。此外，窗户中确实可以看到一面旗帜，这与句子中的描述相符。因此，该句子的描述与图片内容是匹配的。"
+    },
+    {
+        "idx": 432,
+        "image": "cc12m_2692875642.jpg",
+        "en": "Unlock the gold ribbon cable connecting screen to logic board by lifting the locking tab at the back of the socket.",
+        "zh": "通过提起插座后面的锁扣，解锁连接屏幕到逻辑板的金色带状电缆。",
+        "img_match": "匹配。图片显示的是一个人正在使用工具（可能是撬棒）来解锁连接屏幕和逻辑板的金色柔性电缆，通过抬起插座后部的锁定标签来实现。这与句子描述的内容一致。"
+    },
+    {
+        "idx": 433,
+        "image": "114164952.jpg",
+        "en": "Some children are running excitedly.",
+        "zh": "一些孩子正在兴奋地奔跑。",
+        "img_match": "匹配。图片中有两个孩子在户外的道路上，看起来像是在兴奋地奔跑。他们的姿势和表情都显示出他们在享受活动的乐趣。"
+    },
+    {
+        "idx": 434,
+        "image": "sbu_404596276.jpg",
+        "en": "Church tower in high key/contrast.",
+        "zh": "高调/高对比度的教堂塔。",
+        "img_match": "匹配。图片展示了一个教堂塔楼，使用了高对比度的黑白摄影技术，使得塔楼的细节和结构在明亮的背景下显得非常突出。这种高对比度的处理方式与句子中描述的“high key/contrast”相符合。"
+    },
+    {
+        "idx": 435,
+        "image": "cc12m_1125026931.jpg",
+        "en": "Shoppers wait to collect toilet paper at a costco.",
+        "zh": "购物者在好市多等待领取厕纸。",
+        "img_match": "匹配。图片显示的是一个类似Costco的大型仓储式超市，货架上堆满了纸巾产品，而购物者们正在推着购物车挑选商品。虽然没有直接看到“等待”这一行为，但可以合理推测在这样的场景中，人们可能需要排队或等待来收集他们想要购买的商品，特别是像厕纸这样需求量大的商品。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 436,
+        "image": "cc12m_1146512733.jpg",
+        "en": "Teachers 2020 the one where they were quarantined t-shirts.",
+        "zh": "印有“Teachers 2020 the one where they were quarantined”的t恤。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 437,
+        "image": "cc_143150485.jpg",
+        "en": "A man on a bicycle rides through the snow.",
+        "zh": "一个骑自行车的人在雪地里骑车。",
+        "img_match": "匹配。图片中确实有一个骑自行车的人在雪地中行驶。"
+    },
+    {
+        "idx": 438,
+        "image": "cc12m_802224039.jpg",
+        "en": "Learn how the right and left hemispheres of the brain differ and how speech can be affected by brain damage.",
+        "zh": "了解大脑左右半球的差异，以及大脑损伤对语言的影响。",
+        "img_match": "匹配。\n\n图片显示的是大脑的两个半球，即右脑和左脑。句子提到学习左右脑半球之间的差异以及大脑损伤如何影响语言能力，这与图片内容是相关的。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 439,
+        "image": "cc12m_362695688.jpg",
+        "en": "A young athlete sprinter is getting a baton from a partner by relay race.",
+        "zh": "一名年轻的短跑运动员在接力赛中从同伴手中接过接力棒。",
+        "img_match": "匹配。图片显示了两名运动员正在进行接力赛，其中一名运动员正在将接力棒传递给另一名运动员，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 440,
+        "image": "000000252314.jpg",
+        "en": "A bowl that has some fruit in it.",
+        "zh": "碗里面有水果。",
+        "img_match": "匹配。图片中显示的是一个装有水果的碗，这些水果是橙子，并且还带有叶子。"
+    },
+    {
+        "idx": 441,
+        "image": "cc_1850177644.jpg",
+        "en": "Frame from colors of a lilac on a white background.",
+        "zh": "白色背景上的淡紫色边框。",
+        "img_match": "匹配。图片显示的是由淡紫色的丁香花组成的框架，背景是白色的，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 442,
+        "image": "cc12m_2733598859.jpg",
+        "en": "10 diy tips to add natural light to a dark room.",
+        "zh": "10个diy小技巧，为黑暗的房间增添自然光。",
+        "img_match": "匹配。图片中的文字内容正是“10 DIY TIPS how to add natural light to a dark room”，这与句子描述的内容完全一致。"
+    },
+    {
+        "idx": 443,
+        "image": "cc12m_3954451843.jpg",
+        "en": "A home made sign on the yorkshire moors warns visitors to go home as the country continues to live under lockdown restrictions.",
+        "zh": "约克郡荒野上的一个自制标志警告游客回家，因为该国仍在封锁限制下生活。",
+        "img_match": "匹配。图片中显示的是一个手工制作的标志牌，上面用红色和蓝色的涂鸦写着“STOP HOME Essential visitors only Help NHS STAY AWAY STAY SAFE”，这与句子描述的内容一致，即在约克郡荒原上有一个自制的标志牌警告游客回家，因为国家继续生活在封锁限制之下。背景中的荒野和树木也符合约克郡荒原的环境特征。"
+    },
+    {
+        "idx": 444,
+        "image": "sbu_1884865978.jpg",
+        "en": "Metal box with elaborate decorations, often worn by boys and men in nyagrong on special occasions.",
+        "zh": "带有精美装饰的金属盒，通常由Nyagong的男孩和男子在特殊场合佩戴。",
+        "img_match": "匹配。图片显示的是一个金属盒子，上面有复杂的装饰，这与句子描述的内容相符。此外，这种装饰精美的金属盒子在一些文化中确实会被男孩和男人在特殊场合佩戴，例如在尼格隆（nyagrong）地区。因此，根据图片内容，这个句子的描述是匹配的。"
+    },
+    {
+        "idx": 445,
+        "image": "cc_1813816144.jpg",
+        "en": "The backyard of the run down house.",
+        "zh": "破旧房子的后院。",
+        "img_match": "匹配。图片显示的是一个看起来有些破旧的房子的后院，有几栋小屋和一个长椅，整体环境显得有些陈旧和维护不足，符合“run down house”的描述。"
+    },
+    {
+        "idx": 446,
+        "image": "cc12m_1928245414.jpg",
+        "en": "Turn the laptop upside down and remove the base cover.",
+        "zh": "将笔记本电脑倒置并取下底盖。",
+        "img_match": "匹配。图片显示了一只手正在抬起笔记本电脑的底部盖板，这与句子描述的“将笔记本电脑翻转过来并移除底盖”相符合。"
+    },
+    {
+        "idx": 447,
+        "image": "cc_937891834.jpg",
+        "en": "Starting the day with sweet smile.",
+        "zh": "以甜美的微笑开始新的一天。",
+        "img_match": "匹配。图片中的人看起来在微笑，这与句子“Starting the day with sweet smile”（以甜美的笑容开始一天）描述的内容相符合。"
+    },
+    {
+        "idx": 448,
+        "image": "000000120188.jpg",
+        "en": "A woman holding a tennis racket drops a tennis ball.",
+        "zh": "一个拿着网球拍的女人掉了一个网球。",
+        "img_match": "匹配。图片中显示一个人手持网球拍，脚下有一个网球，似乎刚刚被放下或即将被捡起。虽然无法确定性别，但描述中的动作与图片内容相符。"
+    },
+    {
+        "idx": 449,
+        "image": "cc12m_2982133853.jpg",
+        "en": "La classe design chairs and colorful chairs on the wall.",
+        "zh": "La Classe设计的椅子和墙上的彩色椅子。",
+        "img_match": "匹配。图片中显示了设计感强的红色椅子和墙上挂着的彩色椅子，与句子描述的内容相符。"
+    },
+    {
+        "idx": 450,
+        "image": "cc12m_747001451.jpg",
+        "en": "Engineer in the oil and natural gas field, pipeline, refinery.",
+        "zh": "石油和天然气领域、管道、炼油厂的工程师。",
+        "img_match": "匹配。图片显示的是一个穿着防护服和安全帽的工人，正在操作管道阀门，背景中还有其他类似的设备和管道。这与石油和天然气领域的工程师在管道或炼油厂工作的场景相符。"
+    },
+    {
+        "idx": 451,
+        "image": "cc_1419074016.jpg",
+        "en": "A man rides a rising arrow symbolizing the ability to overcome an obstacle on the way to success.",
+        "zh": "一个人骑着一支上升的箭，象征着能够克服成功路上的障碍。",
+        "img_match": "匹配。图片中显示了一个箭头向上，象征着上升或成功，而箭头上方有一个小人形符号，似乎在“骑”这个箭头，这与句子描述的“一个人骑着一个上升的箭头，象征着克服障碍走向成功的能力”相匹配。"
+    },
+    {
+        "idx": 452,
+        "image": "000000130512.jpg",
+        "en": "A group of men holding up a bunch of bananas.",
+        "zh": "一群人举着一串香蕉。",
+        "img_match": "匹配。图片中确实有一群男人正在举起一串香蕉。"
+    },
+    {
+        "idx": 453,
+        "image": "cc_3830362239.jpg",
+        "en": "Young man cleaning his ear while taking a shower.",
+        "zh": "年轻人在洗澡时清洁他的耳朵。",
+        "img_match": "匹配。图片中显示一个年轻人在淋浴时用手清洁他的耳朵，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 454,
+        "image": "cc12m_2935520320.jpg",
+        "en": "Release any remaining connectors from the motherboard by gently pulling away until they break free.",
+        "zh": "轻轻拉开主板上的所有剩余连接器，直到它们断开。",
+        "img_match": "匹配。图片显示一个人正在用手轻轻地拉扯连接到主板上的电线，这与句子描述的“通过轻轻拉扯直到它们自由释放任何剩余的连接器”相符合。"
+    },
+    {
+        "idx": 455,
+        "image": "cc12m_1216568885.jpg",
+        "en": "Image of a paper calendar.",
+        "zh": "一个纸质日历的图像。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 456,
+        "image": "cc_3340226956.jpg",
+        "en": "View from behind of a large mixed ethnicity group of students in a classroom, listening as their teacher holds a lecture.",
+        "zh": "从后面看，教室里有一大群混血儿，正在听老师讲课。",
+        "img_match": "匹配。图片显示了一位站在教室前方的老师，他正在对着一群学生进行讲解。学生们从背后看去，坐在教室里听讲。虽然无法确定学生的具体种族，但可以观察到他们有不同的发色和发型，这可能暗示了这是一个混合种族的群体。因此，这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 457,
+        "image": "000000013159.jpg",
+        "en": "A sign stating there's a fire hydrant next to it.",
+        "zh": "一块牌子上写着旁边有一个消防栓。",
+        "img_match": "匹配。图片中有一个红色的标志，上面写着“FIRE HYDRANT”，并且有一个指向右侧的箭头。在标志所指的方向上，确实有一个消防栓（fire hydrant）。因此，这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 458,
+        "image": "000000402330.jpg",
+        "en": "A white toilet sitting next to trunks of stuff.",
+        "zh": "一个白色的马桶放在一箱箱的东西旁边。",
+        "img_match": "匹配。图片中确实有一个白色的马桶，旁边堆放着一些杂物和家具部件。"
+    },
+    {
+        "idx": 459,
+        "image": "cc12m_2311073487.jpg",
+        "en": "An image of clouds combined with a quote by elder oaks: 'some things can only be learned by faith.'.",
+        "zh": "一幅云彩的图像结合了橡树长老的一句话：‘有些东西只有通过信仰才能学会。’",
+        "img_match": "匹配。图片中确实显示了云朵和Elder Oaks的引言：“Some things can only be learned by faith.”"
+    },
+    {
+        "idx": 460,
+        "image": "cc_1006266656.jpg",
+        "en": "Spread those wings to a better place.",
+        "zh": "张开翅膀飞向更好的地方。",
+        "img_match": "匹配。图片中展示了一只白鸽在飞翔，翅膀展开，给人一种向更好的地方飞去的感觉。这句话“Spread those wings to a better place”（展开翅膀飞向更好的地方）与图片中的情景相契合。"
+    },
+    {
+        "idx": 461,
+        "image": "sbu_3007436820.jpg",
+        "en": "Perching robin in black & white.",
+        "zh": "栖息的知更鸟。黑白照片。",
+        "img_match": "匹配。图片显示了一只鸟栖息在电线上，背景是树木和天空，整体色调为黑白色调。虽然无法确定这只鸟是否确切地是一只知更鸟（robin），但描述中的“栖息的鸟”和“黑白”与图片内容相符。因此，可以认为这个句子与图片事实相匹配。"
+    },
+    {
+        "idx": 462,
+        "image": "cc12m_2385679780.jpg",
+        "en": "The remodeling brought back the room's spaciousness and lets in lots of light. new cabinets at left match originals over the sink.",
+        "zh": "改建使房间恢复了宽敞，光线充足。左侧的新橱柜与水槽上方的原装橱柜相匹配。",
+        "img_match": "匹配。图片显示了一个宽敞的房间，有大量的自然光线透过窗户照进来。左侧的新橱柜与水槽上方的原有橱柜相匹配，整体设计和谐统一。"
+    },
+    {
+        "idx": 463,
+        "image": "000000146589.jpg",
+        "en": "A fancy, dressed up horse is being displayed.",
+        "zh": "一匹打扮得花枝招展的马正在展示。",
+        "img_match": "匹配。图片中显示的是一匹装饰华丽的马，它的鬃毛上装饰有红色的丝带和流苏，并且佩戴着白色的马具。这表明它正在被展示或用于某种表演场合。"
+    },
+    {
+        "idx": 464,
+        "image": "cc12m_150696758.jpg",
+        "en": "Three ducks in a row walking on the farm.",
+        "zh": "三只鸭子在农场里走来走去。",
+        "img_match": "匹配。图片中确实有三只鸭子排成一列在农场的草地上行走。"
+    },
+    {
+        "idx": 465,
+        "image": "cc12m_2124846120.jpg",
+        "en": "Yoga at home: the intimate experience of self-practice.",
+        "zh": "家庭瑜伽：自我练习的亲密体验。",
+        "img_match": "匹配。图片显示一个人在家中进行瑜伽练习，这与句子描述的“在家进行瑜伽：自我练习的亲密体验”相符合。"
+    },
+    {
+        "idx": 466,
+        "image": "000000001232.jpg",
+        "en": "There is an exchange of passenger between the airplane and the motorcycle via the rope ladder.",
+        "zh": "飞机和摩托车之间通过绳梯进行乘客的交换。",
+        "img_match": "匹配。图片中显示了一架飞机和一辆摩托车，飞机上有一个梯子延伸到地面，一个人正在从飞机上沿着梯子下来，而另一个人则在地面上的摩托车上等待。这表明确实存在通过绳梯在飞机和摩托车之间交换乘客的情况。"
+    },
+    {
+        "idx": 467,
+        "image": "000000421520.jpg",
+        "en": "A snowy area has idle skis and poles sticking up and across from there is a person who is on skis.",
+        "zh": "一片雪地上插着闲置的滑雪板和滑雪杖，对面是一个正在滑雪的人。",
+        "img_match": "匹配。图片中确实显示了一个雪地区域，有闲置的滑雪板和滑雪杖竖立着。在远处，可以看到一个穿着红色滑雪服的人正在滑雪。"
+    },
+    {
+        "idx": 468,
+        "image": "cc12m_3406488086.jpg",
+        "en": "Modern network equipment, high-speed switch. network cables are inserted into the unit.",
+        "zh": "现代网络设备，高速交换机。网络电缆插入设备中。",
+        "img_match": "匹配。图片显示的是现代网络设备，具体来说是一个高速交换机，有多个网络电缆插入其中。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 469,
+        "image": "cc12m_2287421614.jpg",
+        "en": "Red mug with hot tea in front of a burning fireplace, comfort, winter holidays and warmth of the hearth concept..",
+        "zh": "装着热茶的红色马克杯放在燃烧的壁炉前、舒适、寒假和壁炉的温暖概念。",
+        "img_match": "匹配。图片中显示的是一个红色的杯子，杯子里有热气腾腾的液体，可能是一杯热茶。背景模糊，但可以看到火焰，这表明它是在燃烧的壁炉前。整个场景传达了舒适、冬日假期和壁炉温暖的概念，与句子描述的内容一致。"
+    },
+    {
+        "idx": 470,
+        "image": "cc12m_2646899940.jpg",
+        "en": "Traces of paint on the surface.",
+        "zh": "表面上油漆的痕迹。",
+        "img_match": "匹配。图片显示的是表面上有各种颜色的油漆痕迹，包括白色、红色和棕色等，这些痕迹看起来像是随意涂抹或滴落的，符合“Traces of paint on the surface stock photos”的描述。"
+    },
+    {
+        "idx": 471,
+        "image": "cc12m_3080606482.jpg",
+        "en": "Attractive young man hipster is talking on the phone and drinking street coffee from a cardboard cup near the glass business.",
+        "zh": "玻璃附近，迷人的时髦年轻男子一边打电话，一边喝着用硬纸杯装的街头咖啡。",
+        "img_match": "匹配。图片中的男子正在打电话，同时拿着一杯纸杯咖啡，背景是玻璃建筑，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 472,
+        "image": "cc12m_2504200840.jpg",
+        "en": "Cute red squirrel with long pointed ears eats a nut in autumn orange scene with nice deciduous forest in the background. wildlife.",
+        "zh": "可爱的红色松鼠长着尖尖的耳朵，在秋天的橙色场景中吃坚果，背景是美丽的落叶森林。",
+        "img_match": "匹配。图片中展示了一只可爱的红松鼠，它有着长长的尖耳朵，正在吃一颗坚果。背景是秋天的橙色场景，有落叶覆盖的地面，暗示着落叶林的存在。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 473,
+        "image": "cc12m_2242683262.jpg",
+        "en": "Many light bulbs that go down with their cables from the ceiling creating a unique optical illusion.",
+        "zh": "许多灯泡与电缆一起从天花板垂下，形成了独特的视觉错觉。",
+        "img_match": "匹配。图片中确实有许多灯泡从天花板垂下，通过它们的电缆形成了一种独特的视觉效果。这些灯泡和电缆的排列方式在镜面反射的作用下，确实产生了一种光学错觉的效果。"
+    },
+    {
+        "idx": 474,
+        "image": "000000330554.jpg",
+        "en": "A blender on the c9unter that has spilled everywhere.",
+        "zh": "料理台上的搅拌机，里面的东西洒得到处都是。",
+        "img_match": "匹配。图片中显示的是一个放在台面上的搅拌机，周围有明显的液体洒落痕迹，表明搅拌机的内容物已经洒出。"
+    },
+    {
+        "idx": 475,
+        "image": "cc_1410252473.jpg",
+        "en": "Person leans on her car before the start of event.",
+        "zh": "活动开始前，一个人靠在她的车上。",
+        "img_match": "匹配。图片中的人确实靠在一辆车上，看起来像是在某个活动开始之前。"
+    },
+    {
+        "idx": 476,
+        "image": "cc12m_2864266048.jpg",
+        "en": "Happy family, father, mother and little baby boy blowing in party horns on birthday party at home. portrait of a parents.",
+        "zh": "快乐家庭，爸爸，妈妈和小男孩在家里的生日聚会上吹喇叭。",
+        "img_match": "匹配。图片中显示了一家三口，父亲、母亲和一个小男孩，他们都戴着生日帽，似乎在吹派对号角庆祝生日。背景是一个家庭厨房，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 477,
+        "image": "sbu_160964831.jpg",
+        "en": "A lucky shot, having the clouds arranged by the wind looking like a big black raven. :).",
+        "zh": "一个幸运的镜头，云被风吹得像一只黑色的大乌鸦。",
+        "img_match": "匹配。图片中的云朵确实被风排列成了一种形状，类似于一只大黑乌鸦的轮廓。这种自然形成的图案给人一种幸运拍摄的感觉，因为这样的景象并不常见。"
+    },
+    {
+        "idx": 478,
+        "image": "cc12m_322791492.jpg",
+        "en": "Vehicles filmed in the desert are inserted into the storm.",
+        "zh": "在沙漠中拍摄的车辆被卷入到风暴中。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 479,
+        "image": "cc12m_1910924065.jpg",
+        "en": "A pile of very thick and voluminous books. enormous amount of knowledge in stacked books. dark background.",
+        "zh": "一堆非常厚重和浩瀚的书籍。巨大的知识量在堆积的书中。",
+        "img_match": "匹配。图片显示了一堆厚厚的书，背景是黑色的，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 480,
+        "image": "cc12m_674629186.jpg",
+        "en": "A cracked pistachio with a flash of light in the dark..",
+        "zh": "在黑暗中闪着光的开裂的开心果。",
+        "img_match": "匹配。图片显示了一颗裂开的开心果，背景是黑暗的，并且有光线从开心果周围散发出来，与句子描述的内容相符。"
+    },
+    {
+        "idx": 481,
+        "image": "000000506872.jpg",
+        "en": "A costumed man on a cell phone facing a person in a tiger costume.",
+        "zh": "穿戏服的人在打电话，他正面对一个身穿老虎服装的人。",
+        "img_match": "匹配。图片中确实有一个穿着服装的男人正在使用手机，面对着一个穿着类似老虎服装的人。"
+    },
+    {
+        "idx": 482,
+        "image": "cc12m_1200949294.jpg",
+        "en": "Three students hanging out in a dorm room.",
+        "zh": "三个学生在寝室里闲聊。",
+        "img_match": "匹配。图片中有三名学生在一个看起来像是宿舍的房间里，他们正在一起聊天和使用电子设备。"
+    },
+    {
+        "idx": 483,
+        "image": "cc12m_3466496138.jpg",
+        "en": "Numbers written on a bolt head.",
+        "zh": "写在螺栓头上的数字。",
+        "img_match": "匹配。图片显示的是一个螺栓头部的特写，上面有数字“10”和“35”，并且是黑白的宏观摄影。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 484,
+        "image": "cc12m_747841943.jpg",
+        "en": "Drying octopus on the street near the restaurant. sifnos island, cyclades, greece.",
+        "zh": "在餐馆附近的街上晒章鱼。",
+        "img_match": "匹配。图片中显示了两只鱿鱼（或章鱼）悬挂在蓝色的杆子上，似乎正在晾干。背景中可以看到餐厅的菜单和户外餐桌椅，这与句子描述的“在餐厅附近的街道上晾干的章鱼”相符合。虽然无法从图片中确认具体的地点是希腊锡福斯岛，但整体场景与句子描述相符。"
+    },
+    {
+        "idx": 485,
+        "image": "cc12m_1066499452.jpg",
+        "en": "Man with horse mask on yellow background. a man in a suit and a horse mask on a yellow background. conceptual business background.",
+        "zh": "黄色背景中一个穿着西装，戴着马头套的男人。",
+        "img_match": "匹配。图片中确实显示了一个穿着西装、戴着马面具的人站在黄色背景前，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 486,
+        "image": "cc_612821231.jpg",
+        "en": "Person displayed her flat stomach on a night out.",
+        "zh": "有人在晚上外出时露出了她平坦的腹部。",
+        "img_match": "匹配。图片中的人穿着露腰的上衣，确实展示了她的平坦腹部，并且看起来是在夜晚外出。"
+    },
+    {
+        "idx": 487,
+        "image": "970958470.jpg",
+        "en": "A young man is hanging from a pull up bar while a uniformed man holds the side pole of the bar.",
+        "zh": "一个年轻人做引体向上吊在一个拉杆上，而一个穿制服的人扶着拉杆的侧杆。",
+        "img_match": "匹配。图片中确实有一个年轻人正在做引体向上，而旁边有一位穿着军装的男子正扶着引体向上杆的一侧。"
+    },
+    {
+        "idx": 488,
+        "image": "sbu_2420135176.jpg",
+        "en": "The roof of the car was removed in order to rescue the driver.",
+        "zh": "为了营救司机，汽车的车顶被拆除了。",
+        "img_match": "匹配。图片显示一辆严重损坏的汽车，车顶部分被移除，这通常是为了救援被困在车内的人员而采取的措施。现场有多人聚集，似乎是在进行救援工作，进一步支持了这一判断。"
+    },
+    {
+        "idx": 489,
+        "image": "cc_3568270480.jpg",
+        "en": "Standing in front of a car holds his hands up to his mouth and yells.",
+        "zh": "一个站在汽车前的人举着双手大喊大叫。",
+        "img_match": "匹配。图片中的人站在一辆车前，双手举到嘴边，似乎在大声喊叫。"
+    },
+    {
+        "idx": 490,
+        "image": "3856960370.jpg",
+        "en": "Two nurses are looking at items in a cart.",
+        "zh": "两名护士正在查看推车中的物品。",
+        "img_match": "匹配。图片中有两位穿着护士制服的女性正在查看一个推车上的物品，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 491,
+        "image": "cc12m_910238208.jpg",
+        "en": "Aerial of the rialto apartments and retail.",
+        "zh": "里亚托公寓和零售店的航拍图。",
+        "img_match": "匹配。图片显示的是一个高空俯瞰的场景，可以看到一些建筑物和停车场，建筑物的设计和布局与公寓和零售设施相符。此外，图片中还可以看到一条道路和一些车辆，这进一步支持了这是一个包含住宅和商业用途的区域的观点。因此，这个句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 492,
+        "image": "cc12m_714764653.jpg",
+        "en": "Three chubby little funny birds sparrows sitting on a branch of cherry blossoms with white buds in the may spring garden.",
+        "zh": "三只胖乎乎的有趣的小鸟麻雀坐在五月春天花园里的白芽樱花的树枝上。",
+        "img_match": "匹配。图片中确实有三只胖乎乎的小鸟，它们看起来像是麻雀，正坐在开满白色花蕾的樱花树枝上。背景是一个春天的花园，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 493,
+        "image": "3381700783.jpg",
+        "en": "A man stands in a plaza.",
+        "zh": "一个男人站在一个广场上。",
+        "img_match": "匹配。图片中确实有一个穿着白色衣服和面具的人站在一个看起来像是广场的地方。"
+    },
+    {
+        "idx": 494,
+        "image": "cc12m_523768227.jpg",
+        "en": "Close up of peach dump cake crumb inside a white baking dish.",
+        "zh": "一个白色烤盘里的桃渣蛋糕屑特写。",
+        "img_match": "匹配。"
+    },
+    {
+        "idx": 495,
+        "image": "cc_3519928546.jpg",
+        "en": "Bas - relief - the unity of the sun and moon on a wooden surface.",
+        "zh": "浮雕 - 日月在木质表面的结合。",
+        "img_match": "匹配。图片显示的是一个浮雕，它结合了太阳和月亮的元素，安装在一个木质表面上。这个描述与句子中的内容相符。"
+    },
+    {
+        "idx": 496,
+        "image": "cc12m_2755845770.jpg",
+        "en": "A person wearing glasses wears a large face mask with flowers.",
+        "zh": "一个戴眼镜的人戴着一个带花的大口罩。",
+        "img_match": "匹配。图片中的人戴着一副大大的花式口罩，上面有花朵图案，并且还戴着眼镜。"
+    },
+    {
+        "idx": 497,
+        "image": "cc_4123373168.jpg",
+        "en": "Football players before a training session.",
+        "zh": "训练前的足球运动员。",
+        "img_match": "匹配。图片显示了四名足球运动员在训练场地上休息，他们穿着统一的训练服，背景是足球场和球门网，这表明他们在训练前或训练期间。"
+    },
+    {
+        "idx": 498,
+        "image": "cc12m_2553621084.jpg",
+        "en": "The house sits at the center of the site and gradually transitions into greenery.",
+        "zh": "房子坐落在场地的中心，并逐渐延伸到绿化带中。",
+        "img_match": "匹配。图片显示房子位于场地的中心，周围逐渐过渡到绿色植物和景观。"
+    },
+    {
+        "idx": 499,
+        "image": "cc12m_364916161.jpg",
+        "en": "Young couple having fun on the green field in the spring or summer, general plan.",
+        "zh": "年轻的夫妇在春天或夏天的田野里玩得很开心。",
+        "img_match": "匹配。图片显示一对年轻夫妇在绿色的田野上，似乎是在春天或夏天，他们看起来很开心。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 500,
+        "image": "2697058141.jpg",
+        "en": "A young boy, wearing red and blue clothes, picking up food with a spatula.",
+        "zh": "一个小男孩，穿着红色和蓝色的衣服，用铲子铲起食物。",
+        "img_match": "匹配。图片中显示一个穿着红蓝相间衣服的小男孩，他正在用铲子从烧烤架上拿起食物。"
+    },
+    {
+        "idx": 501,
+        "image": "cc12m_399238412.jpg",
+        "en": "Chicken marsala in a pan with a wooden spoon topped with mushrooms and parsley.",
+        "zh": "平底锅中的马沙拉鸡，用木勺浇上蘑菇和欧芹。",
+        "img_match": "匹配。图片显示的是一个锅中的Chicken Marsala，上面有蘑菇和欧芹装饰，并且有一个木勺子在锅中。这与句子描述的内容完全一致。"
+    },
+    {
+        "idx": 502,
+        "image": "sbu_1132381909.jpg",
+        "en": "I was experimenting with depth of field here and the dandilion contrasted well with the wooden deck chair in the background.",
+        "zh": "我在这里试验景深，蒲公英与背景中的木质躺椅形成了鲜明的对比。",
+        "img_match": "匹配。图片中确实展示了一朵蒲公英，它在前景中清晰可见，而背景中的木质躺椅则显得模糊，这表明使用了浅景深（depth of field）技术。蒲公英的黄色与背景中的木质躺椅形成了良好的对比，符合句子描述的内容。"
+    },
+    {
+        "idx": 503,
+        "image": "sbu_551930352.jpg",
+        "en": "Detail from black column in temple in hampi, karnataka, india.",
+        "zh": "印度卡纳塔克邦汉皮寺庙中的黑色柱子的细节.",
+        "img_match": "匹配。图片显示的是印度卡纳塔克邦哈姆皮的一座寺庙中的黑色柱子上的细节，与句子描述的内容相符。"
+    },
+    {
+        "idx": 504,
+        "image": "cc12m_3798808809.jpg",
+        "en": "A marine in uniform and military working dog lay on the ground.",
+        "zh": "一名身穿制服的海军陆战队士兵和一只军犬躺在地上。",
+        "img_match": "匹配。图片中显示了一名穿着军装的士兵和一只军事工作犬躺在地上，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 505,
+        "image": "cc_3646700775.jpg",
+        "en": "Coach the coach gives instructions to his players during the match.",
+        "zh": "教练在比赛中对他的球员进行指导。",
+        "img_match": "匹配。图片中的人穿着正式的服装，佩戴着证件，似乎在比赛中指挥或指导，这与句子描述的教练在比赛中给球员指示的情景相符。"
+    },
+    {
+        "idx": 506,
+        "image": "cc12m_825344933.jpg",
+        "en": "Staircase with lighting along the sides for a floating look.",
+        "zh": "沿着两侧照明的楼梯，看起来像漂浮在空中。",
+        "img_match": "匹配。图片中的楼梯两侧有照明设计，营造出一种悬浮的效果。"
+    },
+    {
+        "idx": 507,
+        "image": "cc_2410235859.jpg",
+        "en": "Person breaks a couple of tackles during the match.",
+        "zh": "这个人在比赛中铲断了几次。",
+        "img_match": "匹配。图片中显示了一名球员在比赛中突破了几个防守球员的擒抱，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 508,
+        "image": "cc_42899087.jpg",
+        "en": "Football player, manager speaks to his team during a training session.",
+        "zh": "足球运动员，经理在训练课上对他的团队讲话。",
+        "img_match": "匹配。图片显示了一群足球运动员和教练在训练场上聚集在一起，教练似乎正在与球员们交谈，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 509,
+        "image": "sbu_1473231076.jpg",
+        "en": "This shot water on the ground and kids loved to play in it.",
+        "zh": "这喷泉里射出的水，孩子们喜欢在里面玩。",
+        "img_match": "匹配。图片显示的是一个喷泉，水从喷泉中喷射出来，落在地面上。虽然图片中没有直接显示孩子们在玩水，但喷泉通常是孩子们喜欢玩耍的地方，尤其是在炎热的天气里。因此，这个句子描述的内容与图片事实是相匹配的。"
+    },
+    {
+        "idx": 510,
+        "image": "cc12m_3432703398.jpg",
+        "en": "Young business posing on studio background. full body picture of a young business posing on studio background, holding his jacket over his shoulder.",
+        "zh": "一个年轻商人在摄影棚背景上摆姿势的全身照片，把他的外套放在肩膀上。",
+        "img_match": "匹配。图片显示了一位年轻的商务人士在工作室背景下摆姿势，全身照片中他将夹克搭在肩上，这与句子描述的内容一致。"
+    },
+    {
+        "idx": 511,
+        "image": "cc12m_3843350717.jpg",
+        "en": "Friends at a dinner party.",
+        "zh": "正在参加正餐宴会的朋友。",
+        "img_match": "匹配。图片显示了一群人在餐桌旁举杯庆祝，桌上摆放着食物和饮料，这与“朋友们在晚宴上”的描述相符。"
+    },
+    {
+        "idx": 512,
+        "image": "000000563904.jpg",
+        "en": "A project including bananas, forks and wires.",
+        "zh": "一个包括香蕉、叉子和电线的项目。",
+        "img_match": "匹配。图片中确实展示了一个项目，其中包括香蕉、叉子和电线。"
+    },
+    {
+        "idx": 513,
+        "image": "sbu_2055784587.jpg",
+        "en": "Blue planet in front of green trees.",
+        "zh": "绿树前的蓝色星球。",
+        "img_match": "匹配。图片中显示的是一个蓝色的星球形状的物体，它被悬挂在空中，背景是绿色的树木。这个描述与句子“Blue planet in front of green trees”相符。"
+    },
+    {
+        "idx": 514,
+        "image": "000000160422.jpg",
+        "en": "A wooden desk with two computer monitors and a notebook.",
+        "zh": "一张木制办公桌上有两个电脑显示器和一本笔记本。",
+        "img_match": "匹配。图片中显示了一个木质的桌子，上面有两台电脑显示器和一个笔记本。"
+    },
+    {
+        "idx": 515,
+        "image": "3405279045.jpg",
+        "en": "A child leans over a display made up of blue and yellow plastic, while an adult looks on.",
+        "zh": "一个孩子俯身在由蓝色和黄色塑料制成的展示台上，而一个成年人在一旁看着。",
+        "img_match": "匹配。图片中可以看到一个孩子正俯身在一个由蓝色和黄色塑料组成的展示物上，而一个成年人在旁边看着。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 516,
+        "image": "000000438111.jpg",
+        "en": "A life-size thomas the tank engine parked on the railroad tracks at a train station.",
+        "zh": "一个真人大小的托马斯蒸汽火车头停在火车站的铁轨上。",
+        "img_match": "匹配。图片中显示的是一辆与托马斯小火车形象相似的蓝色蒸汽机车，停在火车站的铁轨上。这与句子描述的内容相符。"
+    },
+    {
+        "idx": 517,
+        "image": "cc12m_1453954658.jpg",
+        "en": "Frm is best known for its lightweight componentry but it also produces a selection of ultralight carbon frames, too.",
+        "zh": "FRM以其轻量化组件而闻名，但它也生产了一系列超轻碳车架。",
+        "img_match": "匹配。图片中展示的自行车车架上清晰地印有“FRM”字样，这表明该品牌确实生产碳纤维车架。虽然图片本身无法直接证明FRM以其轻量组件而闻名，但结合句子描述和图片中的信息，可以合理推断FRM不仅以轻量组件著称，还生产超轻碳纤维车架。因此，这句话与图片内容是相匹配的。"
+    },
+    {
+        "idx": 518,
+        "image": "cc_1726350707.jpg",
+        "en": "A family walks past the figure of a lion curved in the sand.",
+        "zh": "一家人走过沙中弯曲的狮子雕像。",
+        "img_match": "匹配。图片中确实有一家人在沙滩上走过，而前景中有一个用沙子雕刻的狮子形象。"
+    },
+    {
+        "idx": 519,
+        "image": "cc12m_1002551874.jpg",
+        "en": "Crack candy on a cookie sheet.",
+        "zh": "饼干上的糖果碎。",
+        "img_match": "匹配。图片显示的是在烤盘上的裂纹糖果（crack candy），这是一种通常在饼干片上制作的甜点，上面覆盖着巧克力和各种装饰品，如南瓜糖、糖果玉米和眼睛形状的糖果。"
+    },
+    {
+        "idx": 520,
+        "image": "cc_1595368533.jpg",
+        "en": "Stormy sea on a rocky shoreline.",
+        "zh": "岩石海岸线上的汹涌海浪。",
+        "img_match": "匹配。图片显示的是一个岩石海岸线上的风暴海景，波涛汹涌的海水拍打着岩石，与句子描述的内容相符。"
+    },
+    {
+        "idx": 521,
+        "image": "cc12m_3136862356.jpg",
+        "en": "The intersection right by my house and my husband blowing snow. note the sagging utility lines.",
+        "zh": "就在我家旁边的十字路口，我丈夫　正在吹雪。注意下垂的电线。",
+        "img_match": "匹配。图片显示了一个雪后的街道场景，一个人正在使用吹雪机清理积雪。背景中可以看到房屋和树木，以及一些下垂的电线，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 522,
+        "image": "sbu_2558869010.jpg",
+        "en": "Taken just below my usual spot - framing for the retaining wall and footings for the house.",
+        "zh": "摄于我的老地方--支撑土墙的框架和房子的楼梯。",
+        "img_match": "匹配。图片显示的是一个正在建设中的区域，有木制框架和地基，这与句子中提到的“retaining wall”（挡土墙）和“footings for the house”（房屋的地基）相符合。此外，从拍摄的角度来看，似乎是从一个较高的位置向下拍摄的，这也与句子中提到的“Taken just below my usual spot”（在我通常的位置下方拍摄）相符。"
+    },
+    {
+        "idx": 523,
+        "image": "000000413948.jpg",
+        "en": "A person on skis is going down a ski slope.",
+        "zh": "一个踩着滑雪板的人正从一个滑雪坡上滑下来。",
+        "img_match": "匹配。图片中显示一个人正在滑雪，从雪坡上滑下来，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 524,
+        "image": "cc_704838709.jpg",
+        "en": "Players gather at home plate as they practice for sports league championship.",
+        "zh": "球员们聚集在本垒，为体育联赛的冠军进行练习。",
+        "img_match": "匹配。图片显示一群棒球运动员聚集在本垒板附近，这通常是在比赛或练习前的场景。背景中的“World Baseball”字样表明他们可能正在为世界棒球锦标赛或类似的体育联盟冠军赛做准备。因此，该句子与图片内容相符。"
+    },
+    {
+        "idx": 525,
+        "image": "2559114800.jpg",
+        "en": "Three dogs racing madly around a racetrack.",
+        "zh": "三条狗在跑道上疯狂地狂奔。",
+        "img_match": "匹配。图片中显示了三只狗在赛跑，它们看起来正在激烈地竞争，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 526,
+        "image": "000000520979.jpg",
+        "en": "A car dressed up for a parade contains a parasol.",
+        "zh": "一辆为游行而装扮的汽车上有一把阳伞。",
+        "img_match": "匹配。图片中展示了一辆装饰华丽的汽车，车上有一个伞状结构，类似于遮阳伞（parasol），这与句子描述的内容相符。"
+    },
+    {
+        "idx": 527,
+        "image": "cc12m_2944816186.jpg",
+        "en": "A hand holding a steaming hot idli.",
+        "zh": "一只手拿着热气腾腾的伊德利饼。",
+        "img_match": "匹配。图片中显示一只手拿着一个看起来像是刚蒸好的idli，背景中可以看到蒸汽和一些模糊的圆形物体，这些可能是其他正在蒸制的idli。因此，这个句子与图片内容相符。"
+    },
+    {
+        "idx": 528,
+        "image": "3423509305.jpg",
+        "en": "A dog is getting some exercise.",
+        "zh": "一只狗正在被训练。",
+        "img_match": "匹配。图片中显示一只狗正在户外奔跑，这表明它正在进行锻炼。"
+    },
+    {
+        "idx": 529,
+        "image": "000000143789.jpg",
+        "en": "A man with a hat stirring a large metal pot.",
+        "zh": "一个带着帽子的男人正在搅拌一个大铁锅。",
+        "img_match": "匹配。图片中确实有一个戴着帽子的男人在搅拌一个大金属锅。"
+    },
+    {
+        "idx": 530,
+        "image": "2484190118.jpg",
+        "en": "A child in colorful shorts is standing on a post in the street.",
+        "zh": "一个穿着彩色短裤的孩子站在街上的柱子上。",
+        "img_match": "匹配。图片中确实有一个穿着彩色短裤的孩子站在街道上的一个柱子上。"
+    },
+    {
+        "idx": 531,
+        "image": "cc12m_4015836243.jpg",
+        "en": "Gently blue flowers in the shade of shrubs.",
+        "zh": "在灌木的树荫下开着温柔的蓝色花朵。",
+        "img_match": "匹配。图片中显示的是一些淡蓝色的小花，它们生长在灌木的阴影下，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 532,
+        "image": "000000461517.jpg",
+        "en": "Young men playing game with flying disc on grassy area.",
+        "zh": "年轻人在草坪上玩飞盘游戏。",
+        "img_match": "匹配。图片显示几位年轻人在草地上玩飞盘游戏，与句子描述的内容相符。"
+    },
+    {
+        "idx": 533,
+        "image": "000000377723.jpg",
+        "en": "A blue bus picking up a load of people.",
+        "zh": "一辆蓝色的巴士接载很多人。",
+        "img_match": "匹配。图片中显示了一辆蓝色的公交车，车前有一群人在排队等候上车，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 534,
+        "image": "cc_3974428041.jpg",
+        "en": "Broken car on the road in snow storm.",
+        "zh": "暴风雪中路上坏掉的车。",
+        "img_match": "匹配。图片显示了一辆停在雪地中的汽车，车后有一个警示三角牌，旁边有一个人正在处理情况，这表明汽车可能出现了故障。背景中可以看到雪花飘落，说明这是一个暴风雪天气。因此，句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 535,
+        "image": "3185850921.jpg",
+        "en": "A man in a black shirt and blue jeans reads a book on his couch.",
+        "zh": "一个穿着黑色短袖T恤和蓝色牛仔裤的男人在沙发上看书。",
+        "img_match": "匹配。图片中确实有一个穿着黑色T恤和蓝色牛仔裤的男人，他坐在沙发上阅读一本书。"
+    },
+    {
+        "idx": 536,
+        "image": "sbu_1607389333.jpg",
+        "en": "Pop colour of black & white house in hereford.",
+        "zh": "赫里福德流行的黑白相间的房子。",
+        "img_match": "匹配。图片展示了一座黑白相间的房子，前景中有一簇色彩鲜艳的花朵，与背景形成鲜明对比，符合“Pop colour of black & white house”的描述。虽然句子中提到的“Hereford”（赫里福德）在图片中无法直接验证，但这一细节不影响对主要视觉元素的判断。因此，整体上该句子与图片内容是匹配的。"
+    },
+    {
+        "idx": 537,
+        "image": "cc12m_4089480191.jpg",
+        "en": "A woman outside an adelaide court surrounded by media.",
+        "zh": "一家法院外的一名妇女被媒体包围。",
+        "img_match": "匹配。图片显示一名女性在阿德莱德法院外被媒体包围，与句子描述的内容相符。"
+    },
+    {
+        "idx": 538,
+        "image": "cc12m_2420256419.jpg",
+        "en": "Spoon scooping out baked beans from a white baking dish.",
+        "zh": "勺子从白色烤盘中舀出烘焙过的豆子。",
+        "img_match": "匹配。图片显示的是一个白色的烘焙盘，里面装满了烤豆子，一把勺子正在舀出一些豆子。这与句子的描述完全一致。"
+    },
+    {
+        "idx": 539,
+        "image": "2737664903.jpg",
+        "en": "The sun shines bright on the snow surrounding a few people.",
+        "zh": "阳光照耀在几个人周围的雪地上。",
+        "img_match": "匹配。图片中可以看到太阳在雪地上闪耀，周围有几个人站在雪地里。"
+    },
+    {
+        "idx": 540,
+        "image": "3710971182.jpg",
+        "en": "Nobody is in control of the ball.",
+        "zh": "没有人控制着球。",
+        "img_match": "匹配。图片中没有明显显示任何人控制着球，球在地面上，几个人似乎都在争夺它，但没有人明确地控制着它。"
+    },
+    {
+        "idx": 541,
+        "image": "cc_3381175710.jpg",
+        "en": "Good luck getting a decent shot without at least a couple of people creeping into the frame.",
+        "zh": "运气好的话能在没有几个人偷偷溜进镜头的情况下拍出一张像样的照片。",
+        "img_match": "匹配。图片中显示了许多人在一个古老的石雕建筑群中参观和拍照，场景非常拥挤。因此，在这种情况下，要拍出一张没有几个人进入画面的好照片确实很困难。"
+    },
+    {
+        "idx": 542,
+        "image": "sbu_1035686583.jpg",
+        "en": "The pole was probably the major factor in keeping the taxi from running onto the sidewalk.",
+        "zh": "这根杆子可能是阻止出租车撞上人行道上的主要因素。",
+        "img_match": "匹配。图片中显示一辆黄色出租车撞上了路边的柱子，车头严重受损，而柱子看起来完好无损。这表明柱子在阻止出租车进一步冲上人行道方面起到了重要作用。因此，该句子描述的内容与图片事实相匹配。"
+    },
+    {
+        "idx": 543,
+        "image": "cc_27721143.jpg",
+        "en": "Architect... very modern but entirely designed to make the most of the setting.",
+        "zh": "建筑......非常现代，但完全是为了最大限度地利用环境而设计的。",
+        "img_match": "匹配。图片中的建筑具有现代感，同时与周围的自然环境完美融合，充分利用了瀑布和森林的景观。这表明建筑师在设计时考虑到了如何最大化利用环境设置。"
+    },
+    {
+        "idx": 544,
+        "image": "000000284147.jpg",
+        "en": "A stuffed dog sitting on some rocks in the open.",
+        "zh": "一只毛绒狗坐在空地上的一些岩石上。",
+        "img_match": "匹配。图片中确实有一只毛绒狗坐在岩石上，背景是开阔的自然景观。"
+    },
+    {
+        "idx": 545,
+        "image": "sbu_3133085432.jpg",
+        "en": "Morning dishes on the boat with washing drying in the background. also note the parking sign on the edge of the river.",
+        "zh": "早上在船上洗碗，背景是正在晾晒的衣服。注意河边的有停车标志。",
+        "img_match": "匹配。图片中可以看到一个人在船上洗碗，背景中有晾晒的衣物，以及河岸边有一个停车标志。这些细节与句子描述的内容相符。"
+    },
+    {
+        "idx": 546,
+        "image": "cc12m_2141583721.jpg",
+        "en": "Four pieces of schnitzel sprinkled with parsley on a white serving plate with lemon wedges.",
+        "zh": "四块洒有欧芹的鸡排放在白色的盘子里，上面有柠檬片。",
+        "img_match": "匹配。图片中显示了四块撒有欧芹的炸肉排（schnitzel），放在一个白色的盘子上，旁边还有柠檬片。这与句子描述的内容一致。"
+    },
+    {
+        "idx": 547,
+        "image": "2195419145.jpg",
+        "en": "A man in a suit and an officer smile for the camera.",
+        "zh": "一个穿西装的男人和一名警察对着镜头微笑。",
+        "img_match": "匹配。图片中确实有一个穿着西装的男人和一个穿着制服的警官，他们都在对着镜头微笑。"
+    },
+    {
+        "idx": 548,
+        "image": "000000440539.jpg",
+        "en": "A rainbow colored kite in the air with three tales and a person in distance on a beach on a cloudy day.",
+        "zh": "阴天的海滩上，一个彩虹色带着三条飘带的风筝在空中飘荡，和一个人。",
+        "img_match": "匹配。图片中确实有一只彩虹色的风筝在空中，带有三条尾巴，远处海滩上有一个穿着深色衣服的人，背景是多云的天空。"
+    },
+    {
+        "idx": 549,
+        "image": "cc12m_860545544.jpg",
+        "en": "Cultivate soil for a wildflower meadow.",
+        "zh": "为野花草地开垦土壤。",
+        "img_match": "匹配。图片中显示了一台拖拉机正在耕作土地，这与句子描述的“为野花草地耕作土壤”相符合。"
+    },
+    {
+        "idx": 550,
+        "image": "sbu_1476070609.jpg",
+        "en": "Squirrel in flower pot.",
+        "zh": "花盆里的松鼠。",
+        "img_match": "匹配。图片中确实有一只松鼠在花盆里。"
+    },
+    {
+        "idx": 551,
+        "image": "482882307.jpg",
+        "en": "There are people looking at the man that fell.",
+        "zh": "有人在看掉落的人。",
+        "img_match": "匹配。图片中可以看到几个人在筏子上，他们似乎在看着那个从筏子上掉下来的人。"
+    },
+    {
+        "idx": 552,
+        "image": "3345177815.jpg",
+        "en": "A man stands with a bird.",
+        "zh": "一个男人和一只鸟站在一起。",
+        "img_match": "匹配。图片中有一个男人站在一个装有鸟的笼子旁边，这与句子描述的内容相符。"
+    },
+    {
+        "idx": 553,
+        "image": "cc12m_4202239599.jpg",
+        "en": "Construction worker holding a white hard hat while wearing thick working gloves.",
+        "zh": "建筑工人戴着厚厚的工作手套，拿着白色的安全帽。",
+        "img_match": "匹配。图片中显示了一位建筑工人，他戴着厚实的工作手套，手里拿着一顶白色的硬帽子。这与句子的描述完全一致。"
+    },
+    {
+        "idx": 554,
+        "image": "cc12m_2711957011.jpg",
+        "en": "Top view of a single slice of a sharp cheddar cheese square isolated on a white background.",
+        "zh": "在白色背景上的单片尖锐切达干酪方形的俯视图。",
+        "img_match": "匹配。图片显示的是一块方形的切达奶酪，从顶部视角拍摄，并且背景是白色的，这与句子描述的内容一致。"
+    },
+    {
+        "idx": 555,
+        "image": "000000196255.jpg",
+        "en": "A bathroom has a dark wood vanity and light counter.",
+        "zh": "浴室里有一个深色的木制梳妆台和一个浅色的柜台。",
+        "img_match": "匹配。图片中的浴室确实有一个深色木制的梳妆台和浅色的台面。"
+    },
+    {
+        "idx": 556,
+        "image": "000000164657.jpg",
+        "en": "A silver motorcycle parked next to a house with a helmet on it's seat.",
+        "zh": "一辆银色的摩托车停在房子旁边，座位上有一个头盔。",
+        "img_match": "匹配。图片中确实有一辆银色的摩托车停在房子旁边，而且摩托车上有一个黄色的头盔放在座位上。"
+    },
+    {
+        "idx": 557,
+        "image": "cc12m_2195233482.jpg",
+        "en": "Off the master bedroom is an outdoor shower walled with stone salvaged when digging the foundations of the house.",
+        "zh": "主卧室旁是一个户外淋浴间，墙上是由挖房子地基时挖出来的石头组成。",
+        "img_match": "匹配。图片显示的是一个户外淋浴区，四周由石墙围成，这与句子中描述的“an outdoor shower walled with stone”相符合。虽然图片没有直接展示挖掘房屋基础时所使用的石头，但根据描述和视觉信息，可以合理推测这些石头可能是从该过程中回收并用于建造这个户外淋浴区的石墙。因此，整体上句子的描述与图片内容是匹配的。"
+    },
+    {
+        "idx": 558,
+        "image": "cc12m_3347173030.jpg",
+        "en": "A box for rings in the hands of a girl.",
+        "zh": "一个女孩手中的戒指盒。婚礼细节。",
+        "img_match": "匹配。图片中显示的是一个女孩手中拿着一个装有戒指的盒子，背景和装饰也符合婚礼细节的描述。"
+    },
+    {
+        "idx": 559,
+        "image": "cc12m_3250886846.jpg",
+        "en": "Take a silicone pan in the shape of a heart (different shapes are optional).",
+        "zh": "取一个心形的硅胶盘（不同的形状可以选择）。",
+        "img_match": "匹配。图片显示的是一个硅胶模具，其形状为心形，并且每个心形周围有花瓣状的装饰。虽然句子中提到“不同形状是可选的”，但主要描述的心形与图片内容相符。"
+    }
+]
