@@ -1,0 +1,3026 @@
+[
+    {
+        "idx": 0,
+        "image": "Untitled.png",
+        "en": "He watched the workers on the bridge.",
+        "question": "Someone told you, \"The man watched the workers on the bridge.\" From the image I offered to you, Can you infer who is on the bridge?",
+        "answer": "The workers",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who is on the bridge?\". Based on the image, the answer to the disambiguation is \"The workers\"."
+    },
+    {
+        "idx": 1,
+        "image": "Untitled 1.png",
+        "en": "He watched the workers on the bridge.",
+        "question": "Someone told you, \"The man watched the workers on the bridge.\" From the image I offered to you, Can you infer who is on the bridge?",
+        "answer": "The man",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who is on the bridge?\". Based on the image, the answer to the disambiguation is \"The man\"."
+    },
+    {
+        "idx": 2,
+        "image": "Untitled 2.png",
+        "en": "He touched the sculpture with the glove.",
+        "question": "Someone told you, \"He touched the sculpture with the glove.\" From the image I offered to you, Can you infer who does take the glove?",
+        "answer": "He",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who does take the glove?\". Based on the image, the answer to the disambiguation is \"He\"."
+    },
+    {
+        "idx": 3,
+        "image": "Untitled 3.png",
+        "en": "He touched the sculpture with the glove.",
+        "question": "Someone told you, \"He touched the sculpture with the glove.\" From the image I offered to you, Can you infer who does take the glove?",
+        "answer": "The sculpture",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who does take the glove?\". Based on the image, the answer to the disambiguation is \"The sculpture\"."
+    },
+    {
+        "idx": 4,
+        "image": "Untitled 4.png",
+        "en": "He drawed the pattern with the pencil.",
+        "question": "Someone told you, \"He drawed the pattern with the pencil.\" From the image I offered to you, Can you infer which pattern does he draw?",
+        "answer": "Horse",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"which pattern does he draw?\". Based on the image, the answer to the disambiguation is \"Horse\"."
+    },
+    {
+        "idx": 5,
+        "image": "Untitled 5.png",
+        "en": "He drawed the pattern with the pencil.",
+        "question": "Someone told you, \"He drawed the pattern with the pencil.\" From the image I offered to you, Can you infer which pattern does he draw?",
+        "answer": "Pencil",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"which pattern does he draw?\". Based on the image, the answer to the disambiguation is \"Pencil\"."
+    },
+    {
+        "idx": 6,
+        "image": "Untitled 6.png",
+        "en": "The student met the professor with the book.",
+        "question": "Someone told you, \"The student met the professor with the book.\" From the image I offered to you, Can you infer who does take the book?",
+        "answer": "The professor",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who does take the book?\". Based on the image, the answer to the disambiguation is \"The professor\"."
+    },
+    {
+        "idx": 7,
+        "image": "Untitled 7.png",
+        "en": "The student met the professor with the book.",
+        "question": "Someone told you, \"The student met the professor with the book.\" From the image I offered to you, Can you infer who does take the book?",
+        "answer": "The student",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who does take the book?\". Based on the image, the answer to the disambiguation is \"The student\"."
+    },
+    {
+        "idx": 8,
+        "image": "Untitled 8.png",
+        "en": "He greeted the woman with a handshake.",
+        "question": "Someone told you, \"He greeted the woman with a handshake.\" From the image I offered to you, Can you infer how does he greet to the women?",
+        "answer": "Handshake",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"how does he greet to the women?\". Based on the image, the answer to the disambiguation is \"Handshake\"."
+    },
+    {
+        "idx": 9,
+        "image": "Untitled 9.png",
+        "en": "He greeted the woman with a handshake.",
+        "question": "Someone told you, \"He greeted the woman with a handshake.\" From the image I offered to you, Can you infer how does he greet to the women?",
+        "answer": "Wave",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"how does he greet to the women?\". Based on the image, the answer to the disambiguation is \"Wave\"."
+    },
+    {
+        "idx": 10,
+        "image": "Untitled 10.png",
+        "en": "He filled the glass with water.",
+        "question": "Someone told you, \"He filled the glass with water.\" From the image I offered to you, Can you infer what does he use to the fill the glass?",
+        "answer": "Water",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"what does he use to the fill the glass?\". Based on the image, the answer to the disambiguation is \"Water\"."
+    },
+    {
+        "idx": 11,
+        "image": "Untitled 11.png",
+        "en": "He filled the glass with water.",
+        "question": "Someone told you, \"He filled the glass with water.\" From the image I offered to you, Can you infer what does he use to the fill the glass?",
+        "answer": "Sand",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"what does he use to the fill the glass?\". Based on the image, the answer to the disambiguation is \"Sand\"."
+    },
+    {
+        "idx": 12,
+        "image": "Untitled 12.png",
+        "en": "She saw the cat under the tree.",
+        "question": "Someone told you, \"She saw the cat under the tree.\" From the image I offered to you, Can you infer who is under the tree?",
+        "answer": "She",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who is under the tree?\". Based on the image, the answer to the disambiguation is \"She\"."
+    },
+    {
+        "idx": 13,
+        "image": "Untitled 13.png",
+        "en": "She saw the cat under the tree.",
+        "question": "Someone told you, \"She saw the cat under the tree.\" From the image I offered to you, Can you infer who is under the tree?",
+        "answer": "Cat",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who is under the tree?\". Based on the image, the answer to the disambiguation is \"Cat\"."
+    },
+    {
+        "idx": 14,
+        "image": "Untitled 14.png",
+        "en": "He repaired the clock on the wall.",
+        "question": "Someone told you, \"He repaired the clock on the wall.\" From the image I offered to you, Can you infer where is he?",
+        "answer": "On the wall",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"where is he?\". Based on the image, the answer to the disambiguation is \"On the wall\"."
+    },
+    {
+        "idx": 15,
+        "image": "Untitled 15.png",
+        "en": "He repaired the clock on the wall.",
+        "question": "Someone told you, \"He repaired the clock on the wall.\" From the image I offered to you, Can you infer where is he?",
+        "answer": "Not specific",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"where is he?\". Based on the image, the answer to the disambiguation is \"Not specific\"."
+    },
+    {
+        "idx": 16,
+        "image": "Untitled 16.png",
+        "en": "She entered the room with the key.",
+        "question": "Someone told you, \"She entered the room with the key.\" From the image I offered to you, Can you infer where is the key?",
+        "answer": "On hand",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"where is the key?\". Based on the image, the answer to the disambiguation is \"On hand\"."
+    },
+    {
+        "idx": 17,
+        "image": "Untitled 17.png",
+        "en": "She entered the room with the key.",
+        "question": "Someone told you, \"She entered the room with the key.\" From the image I offered to you, Can you infer where is the key?",
+        "answer": "In the room",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"where is the key?\". Based on the image, the answer to the disambiguation is \"In the room\"."
+    },
+    {
+        "idx": 18,
+        "image": "Untitled 18.png",
+        "en": "They illuminated the room with the lamp.",
+        "question": "Someone told you, \"They illuminated the room with the lamp.\" From the image I offered to you, Can you infer what does illuminate the room?",
+        "answer": "The lamp",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"what does illuminate the room?\". Based on the image, the answer to the disambiguation is \"The lamp\"."
+    },
+    {
+        "idx": 19,
+        "image": "Untitled 19.png",
+        "en": "They illuminated the room with the lamp.",
+        "question": "Someone told you, \"They illuminated the room with the lamp.\" From the image I offered to you, Can you infer what does illuminate the room?",
+        "answer": "The sun",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"what does illuminate the room?\". Based on the image, the answer to the disambiguation is \"The sun\"."
+    },
+    {
+        "idx": 20,
+        "image": "Untitled 20.png",
+        "en": "She saw the man with the telescope.",
+        "question": "Someone told you, \"She saw the man with the telescope.\" From the image I offered to you, Can you infer who does hold the telescope?",
+        "answer": "She",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who does hold the telescope?\". Based on the image, the answer to the disambiguation is \"She\"."
+    },
+    {
+        "idx": 21,
+        "image": "Untitled 21.png",
+        "en": "She saw the man with the telescope.",
+        "question": "Someone told you, \"She saw the man with the telescope.\" From the image I offered to you, Can you infer who does hold the telescope?",
+        "answer": "He",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"who does hold the telescope?\". Based on the image, the answer to the disambiguation is \"He\"."
+    },
+    {
+        "idx": 22,
+        "image": "Untitled 22.png",
+        "en": "He found the keys with the flashlight.",
+        "question": "Someone told you, \"He found the keys with the flashlight.\" From the image I offered to you, Can you infer what does he find?",
+        "answer": "Only key",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"what does he find?\". Based on the image, the answer to the disambiguation is \"Only key\"."
+    },
+    {
+        "idx": 23,
+        "image": "Untitled 23.png",
+        "en": "He found the keys with the flashlight.",
+        "question": "Someone told you, \"He found the keys with the flashlight.\" From the image I offered to you, Can you infer what does he find?",
+        "answer": "Key and flashlight",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"what does he find?\". Based on the image, the answer to the disambiguation is \"Key and flashlight\"."
+    },
+    {
+        "idx": 24,
+        "image": "Untitled 24.png",
+        "en": "The silver cars and motorcycles raced down the track.",
+        "question": "Someone told you, \"The silver cars and motorcycles raced down the track.\" From the image I offered to you, Can you infer what color is the motorcycles?",
+        "answer": "Silver",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"what color is the motorcycles?\". Based on the image, the answer to the disambiguation is \"Silver\"."
+    },
+    {
+        "idx": 25,
+        "image": "Untitled 25.png",
+        "en": "The silver cars and motorcycles raced down the track.",
+        "question": "Someone told you, \"The silver cars and motorcycles raced down the track.\" From the image I offered to you, Can you infer what color is the motorcycles?",
+        "answer": "Yellow",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"what color is the motorcycles?\". Based on the image, the answer to the disambiguation is \"Yellow\"."
+    },
+    {
+        "idx": 26,
+        "image": "Untitled 26.png",
+        "en": "The lit lamp and chandelier",
+        "question": "Someone told you, \"Look at the lit lamp and chandelier.\" From the image I offered to you, Can you infer which state is the chandelier?",
+        "answer": "Lit",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"which state is the chandelier?\". Based on the image, the answer to the disambiguation is \"Lit\"."
+    },
+    {
+        "idx": 27,
+        "image": "Untitled 27.png",
+        "en": "The lit lamp and chandelier",
+        "question": "Someone told you, \"Look at the lit lamp and chandelier.\" From the image I offered to you, Can you infer which state is the chandelier?",
+        "answer": "Not lit",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"which state is the chandelier?\". Based on the image, the answer to the disambiguation is \"Not lit\"."
+    },
+    {
+        "idx": 28,
+        "image": "Untitled 28.png",
+        "en": "The smiling boy and girl",
+        "question": "Someone told you, \"Look at the smile boy and girl.\" From the image I offered to you, Can you infer which state is the girl?",
+        "answer": "Smile",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"which state is the girl?\". Based on the image, the answer to the disambiguation is \"Smile\"."
+    },
+    {
+        "idx": 29,
+        "image": "Untitled 29.png",
+        "en": "The smiling boy and girl",
+        "question": "Someone told you, \"Look at the smile boy and girl.\" From the image I offered to you, Can you infer which state is the girl?",
+        "answer": "Cry",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"which state is the girl?\". Based on the image, the answer to the disambiguation is \"Cry\"."
+    },
+    {
+        "idx": 30,
+        "image": "Untitled 30.png",
+        "en": "The large bear and panda",
+        "question": "Someone told you, \"Look at the large bear and panda.\" From the image I offered to you, Can you infer the size of the bear and the panda.?",
+        "answer": "The bear is large, the panda is large",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the size of the bear and the panda.?\". Based on the image, the answer to the disambiguation is \"The bear is large, the panda is large\"."
+    },
+    {
+        "idx": 31,
+        "image": "Untitled 31.png",
+        "en": "The large bear and panda",
+        "question": "Someone told you, \"Look at the large bear and panda.\" From the image I offered to you, Can you infer the size of the bear and the panda.?",
+        "answer": "The bear is large, the panda is small",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the size of the bear and the panda.?\". Based on the image, the answer to the disambiguation is \"The bear is large, the panda is small\"."
+    },
+    {
+        "idx": 32,
+        "image": "Untitled 32.png",
+        "en": "The ripe apples and mangos",
+        "question": "Someone told you, \"Look at the ripe apples and mangos.\" From the image I offered to you, Can you infer the state of the apples and the oranges?",
+        "answer": "The apples are ripe and the mangos are ripe",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the state of the apples and the oranges?\". Based on the image, the answer to the disambiguation is \"The apples are ripe and the mangos are ripe\"."
+    },
+    {
+        "idx": 33,
+        "image": "Untitled 33.png",
+        "en": "The ripe apples and mangos",
+        "question": "Someone told you, \"Look at the ripe apples and mangos.\" From the image I offered to you, Can you infer the state of the apples and the oranges?",
+        "answer": "The apples are ripe and the mangos are not ripe",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the state of the apples and the oranges?\". Based on the image, the answer to the disambiguation is \"The apples are ripe and the mangos are not ripe\"."
+    },
+    {
+        "idx": 34,
+        "image": "Untitled 34.png",
+        "en": "The fat actors and actresses",
+        "question": "Someone told you, \"Look at the fat actor and actress.\" From the image I offered to you, Can you infer the state of the actor and the actoress?",
+        "answer": "The actor is fat and the actress is fat",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the state of the actor and the actoress?\". Based on the image, the answer to the disambiguation is \"The actor is fat and the actress is fat\"."
+    },
+    {
+        "idx": 35,
+        "image": "Untitled 35.png",
+        "en": "The fat actors and actresses",
+        "question": "Someone told you, \"Look at the fat actor and actress.\" From the image I offered to you, Can you infer the state of the actor and the actoress?",
+        "answer": "The actor is fat and the actress is thin",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the state of the actor and the actoress?\". Based on the image, the answer to the disambiguation is \"The actor is fat and the actress is thin\"."
+    },
+    {
+        "idx": 36,
+        "image": "Untitled 36.png",
+        "en": "The brand new pen and note",
+        "question": "Someone told you, \"Look at the brand new pen and note.\" From the image I offered to you, Can you infer the state of the pen and the note?",
+        "answer": "The note is brand new and the pen is brand new",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the state of the pen and the note?\". Based on the image, the answer to the disambiguation is \"The note is brand new and the pen is brand new\"."
+    },
+    {
+        "idx": 37,
+        "image": "Untitled 37.png",
+        "en": "The brand new pen and note",
+        "question": "Someone told you, \"Look at the brand new pen and note.\" From the image I offered to you, Can you infer the state of the pen and the note?",
+        "answer": "The note is used and the pen is brand new",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the state of the pen and the note?\". Based on the image, the answer to the disambiguation is \"The note is used and the pen is brand new\"."
+    },
+    {
+        "idx": 38,
+        "image": "Untitled 38.png",
+        "en": "The expensive watches and jewelry",
+        "question": "Someone told you, \"Look at the expensive watch and jewelry.\" From the image I offered to you, Can you infer the price of the watch and the the jewelry?",
+        "answer": "The watch is expensive and the jewelry is expensive",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the price of the watch and the the jewelry?\". Based on the image, the answer to the disambiguation is \"The watch is expensive and the jewelry is expensive\"."
+    },
+    {
+        "idx": 39,
+        "image": "Untitled 39.png",
+        "en": "The expensive watches and jewelry",
+        "question": "Someone told you, \"Look at the expensive watch and jewelry.\" From the image I offered to you, Can you infer the price of the watch and the the jewelry?",
+        "answer": "The watch is cheap and the jewelry is expensive",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the price of the watch and the the jewelry?\". Based on the image, the answer to the disambiguation is \"The watch is cheap and the jewelry is expensive\"."
+    },
+    {
+        "idx": 40,
+        "image": "Untitled 40.png",
+        "en": "The long essays and reports were assigned by the teacher.",
+        "question": "Someone told you, \"Look at the long essay and report were assigned by the teacher.\" From the image I offered to you, Can you infer the length requirement of the report and the essay? (Short means less than 2 pages.)",
+        "answer": "The report is long  and the essay is long",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the length requirement of the report and the essay? (Short means less than 2 pages.)\". Based on the image, the answer to the disambiguation is \"The report is long  and the essay is long\"."
+    },
+    {
+        "idx": 41,
+        "image": "Untitled 41.png",
+        "en": "The long essays and reports were assigned by the teacher.",
+        "question": "Someone told you, \"Look at the long essay and report were assigned by the teacher.\" From the image I offered to you, Can you infer the length requirement of the report and the essay? (Short means less than 2 pages.)",
+        "answer": "The report is short and the essay is long",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the length requirement of the report and the essay? (Short means less than 2 pages.)\". Based on the image, the answer to the disambiguation is \"The report is short and the essay is long\"."
+    },
+    {
+        "idx": 42,
+        "image": "Untitled 42.png",
+        "en": "The tall tower and building",
+        "question": "Someone told you, \"Look at the tall tower and building.\" From the image I offered to you, Can you infer the height of the tower and the building? (tall means higher than 10m)",
+        "answer": "The tower is tall and the building is tall",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the height of the tower and the building? (tall means higher than 10m)\". Based on the image, the answer to the disambiguation is \"The tower is tall and the building is tall\"."
+    },
+    {
+        "idx": 43,
+        "image": "Untitled 43.png",
+        "en": "The tall tower and building",
+        "question": "Someone told you, \"Look at the tall tower and building.\" From the image I offered to you, Can you infer the height of the tower and the building? (tall means higher than 10m)",
+        "answer": "The tower is tall and the building is short",
+        "class": "Coordination Ambiguity",
+        "hint": "The ambiguity of the sentence is: \"the height of the tower and the building? (tall means higher than 10m)\". Based on the image, the answer to the disambiguation is \"The tower is tall and the building is short\"."
+    },
+    {
+        "idx": 44,
+        "image": "Untitled 44.png",
+        "en": "Alice and Bob are married",
+        "question": "Someone told you, \"Alice and Bob are married.\" From the image I offered to you, What can you infer about Alice and Bob?",
+        "answer": "Alice is married wth Bob",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Alice is married wth Bob\"."
+    },
+    {
+        "idx": 45,
+        "image": "Untitled 45.png",
+        "en": "Alice and Bob are married",
+        "question": "Someone told you, \"Alice and Bob are married.\" From the image I offered to you, What can you infer about Alice and Bob?",
+        "answer": "Alice and Bob each married someone else",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Alice and Bob each married someone else\"."
+    },
+    {
+        "idx": 46,
+        "image": "Untitled 46.png",
+        "en": "Max and Lucy are dancing",
+        "question": "Someone told you, \"Max and Lucy are dancing.\" From the image I offered to you, What can you infer about Max and Lucy?",
+        "answer": "Max and Lucy are dancing with each other respectively",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Max and Lucy are dancing with each other respectively\"."
+    },
+    {
+        "idx": 47,
+        "image": "Untitled 47.png",
+        "en": "Max and Lucy are dancing",
+        "question": "Someone told you, \"Max and Lucy are dancing.\" From the image I offered to you, What can you infer about Max and Lucy?",
+        "answer": "Max is dancing wth another and Lucy is dancing with the other guy",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Max is dancing wth another and Lucy is dancing with the other guy\"."
+    },
+    {
+        "idx": 48,
+        "image": "Untitled 48.png",
+        "en": "The children are building a sandcastle",
+        "question": "Someone told you, \"The children are building a sandcastle.\" From the image I offered to you, What can you infer about the children?",
+        "answer": "These children are building the same sandcastle",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"These children are building the same sandcastle\"."
+    },
+    {
+        "idx": 49,
+        "image": "Untitled 49.png",
+        "en": "The children are building a sandcastle",
+        "question": "Someone told you, \"The children are building a sandcastle.\" From the image I offered to you, What can you infer about the children?",
+        "answer": "These children are building the different sandcastle respectively",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"These children are building the different sandcastle respectively\"."
+    },
+    {
+        "idx": 50,
+        "image": "Untitled 50.png",
+        "en": "Carlos and Atiyah are fighting",
+        "question": "Someone told you, \"Carlos and Atiyah are fighting.\" From the image I offered to you, What can you infer about Carlos and Atiyah?",
+        "answer": "Carlos and Atiyah are fighting with each other",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Carlos and Atiyah are fighting with each other\"."
+    },
+    {
+        "idx": 51,
+        "image": "Untitled 51.png",
+        "en": "Carlos and Atiyah are fighting",
+        "question": "Someone told you, \"Carlos and Atiyah are fighting.\" From the image I offered to you, What can you infer about Carlos and Atiyah?",
+        "answer": "Carlos and Atiyah are fighting with other guys respectively",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Carlos and Atiyah are fighting with other guys respectively\"."
+    },
+    {
+        "idx": 52,
+        "image": "Untitled 52.png",
+        "en": "Roses and James are arguing.",
+        "question": "Someone told you, \"Roses and James are arguing.\" From the image I offered to you, What can you infer about Roses and James?",
+        "answer": "Roses and James are arguing with others respectively",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Roses and James are arguing with others respectively\"."
+    },
+    {
+        "idx": 53,
+        "image": "Untitled 53.png",
+        "en": "Roses and James are arguing.",
+        "question": "Someone told you, \"Roses and James are arguing.\" From the image I offered to you, What can you infer about Roses and James?",
+        "answer": "Roses and James are arguing with each other",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Roses and James are arguing with each other\"."
+    },
+    {
+        "idx": 54,
+        "image": "Untitled 54.png",
+        "en": "Chris and Pat are playing chess",
+        "question": "Someone told you, \"Chris and Pat are playing chess.\" From the image I offered to you, What can you infer about Chris and Pat?",
+        "answer": "Chris and Pat are playing chess with each other",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Chris and Pat are playing chess with each other\"."
+    },
+    {
+        "idx": 55,
+        "image": "Untitled 55.png",
+        "en": "Chris and Pat are playing chess",
+        "question": "Someone told you, \"Chris and Pat are playing chess.\" From the image I offered to you, What can you infer about Chris and Pat?",
+        "answer": "Chris and Pat are playing chess with others respectively",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Chris and Pat are playing chess with others respectively\"."
+    },
+    {
+        "idx": 56,
+        "image": "Untitled 56.png",
+        "en": "The cat and dog are sleeping on the couch.",
+        "question": "Someone told you, \"The cat and dog are sleeping on the couch.\" From the image I offered to you, What can you infer about the cat and the dog?",
+        "answer": "The cat and the dog are sleeping on the same couch.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"The cat and the dog are sleeping on the same couch.\"."
+    },
+    {
+        "idx": 57,
+        "image": "Untitled 57.png",
+        "en": "The cat and dog are sleeping on the couch.",
+        "question": "Someone told you, \"The cat and dog are sleeping on the couch.\" From the image I offered to you, What can you infer about the cat and the dog?",
+        "answer": "The cat and the dog are sleeping on the different couchs.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"The cat and the dog are sleeping on the different couchs.\"."
+    },
+    {
+        "idx": 58,
+        "image": "Untitled 58.png",
+        "en": "The red and blue cars are parked in the garage.",
+        "question": "Someone told you, \"The red and blue cars are parked in the garage.\" From the image I offered to you, What can you infer about the cars?",
+        "answer": "There are two cars, each painted both red and blue, parked in the garage.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"There are two cars, each painted both red and blue, parked in the garage.\"."
+    },
+    {
+        "idx": 59,
+        "image": "Untitled 59.png",
+        "en": "The red and blue cars are parked in the garage.",
+        "question": "Someone told you, \"The red and blue cars are parked in the garage.\" From the image I offered to you, What can you infer about the cars?",
+        "answer": "There are two cars parked in the garage: one is painted red and the other is painted blue.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"There are two cars parked in the garage: one is painted red and the other is painted blue.\"."
+    },
+    {
+        "idx": 60,
+        "image": "Untitled 60.png",
+        "en": "The laptop and phone are charging on the desk.",
+        "question": "Someone told you, \"The laptop and phone are charging on the desk.\" From the image I offered to you, What can you infer about the laptop and the phone?",
+        "answer": "The laptop and phone are charging next to each other on the same desk.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"The laptop and phone are charging next to each other on the same desk.\"."
+    },
+    {
+        "idx": 61,
+        "image": "Untitled 61.png",
+        "en": "The laptop and phone are charging on the desk.",
+        "question": "Someone told you, \"The laptop and phone are charging on the desk.\" From the image I offered to you, What can you infer about the laptop and the phone?",
+        "answer": "The laptop is charging on one desk while the phone is charging on a different desk.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"The laptop is charging on one desk while the phone is charging on a different desk.\"."
+    },
+    {
+        "idx": 62,
+        "image": "Untitled 62.png",
+        "en": "The sun and moon are visible in the sky.",
+        "question": "Someone told you, \"The sun and moon are visible in the sky.\" From the image I offered to you, What can you infer about the sun and the moon?",
+        "answer": "The sun and moon are both visible in the sky at the same time.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"The sun and moon are both visible in the sky at the same time.\"."
+    },
+    {
+        "idx": 63,
+        "image": "Untitled 63.png",
+        "en": "The sun and moon are visible in the sky.",
+        "question": "Someone told you, \"The sun and moon are visible in the sky.\" From the image I offered to you, What can you infer about the sun and the moon?",
+        "answer": "The sun is visible in the sky during the day, while the moon is visible in the sky at night.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"The sun is visible in the sky during the day, while the moon is visible in the sky at night.\"."
+    },
+    {
+        "idx": 64,
+        "image": "Untitled 64.png",
+        "en": "The printer and scanner are located in the office.",
+        "question": "Someone told you, \"The printer and scanner are located in the office.\" From the image I offered to you, What can you infer about the laptop and the phone?",
+        "answer": "There is one device that functions as both a printer and a scanner located in the offic",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"There is one device that functions as both a printer and a scanner located in the offic\"."
+    },
+    {
+        "idx": 65,
+        "image": "Untitled 65.png",
+        "en": "The printer and scanner are located in the office.",
+        "question": "Someone told you, \"The printer and scanner are located in the office.\" From the image I offered to you, What can you infer about the laptop and the phone?",
+        "answer": "There is a printer and a separate scanner both located in the office.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"There is a printer and a separate scanner both located in the office.\"."
+    },
+    {
+        "idx": 66,
+        "image": "Untitled 66.png",
+        "en": "Messi and Ronaldo are playing football.",
+        "question": "Someone told you, \"Messi and Ronaldo are playing football.\" From the image I offered to you, What can you infer about Messi and Ronaldo?",
+        "answer": "They are on the same football team, playing together.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"They are on the same football team, playing together.\"."
+    },
+    {
+        "idx": 67,
+        "image": "Untitled 67.png",
+        "en": "Messi and Ronaldo are playing football.",
+        "question": "Someone told you, \"Messi and Ronaldo are playing football.\" From the image I offered to you, What can you infer about Messi and Ronaldo?",
+        "answer": "They are on different football teams, playing against each other.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"They are on different football teams, playing against each other.\"."
+    },
+    {
+        "idx": 68,
+        "image": "Untitled 68.png",
+        "en": "James and Paul are playing basketball.",
+        "question": "Someone told you, \"James and Paul are playing basketball.\" From the image I offered to you, What can you infer about James and Paul?",
+        "answer": "They are on the same basketball team, playing together.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"They are on the same basketball team, playing together.\"."
+    },
+    {
+        "idx": 69,
+        "image": "Untitled 69.png",
+        "en": "James and Paul are playing basketball.",
+        "question": "Someone told you, \"James and Paul are playing basketball.\" From the image I offered to you, What can you infer about James and Paul?",
+        "answer": "They are on different basketball teams, playing against each other.",
+        "class": "Attachment Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"They are on different basketball teams, playing against each other.\"."
+    },
+    {
+        "idx": 70,
+        "image": "Untitled 70.png",
+        "en": "She's got a green thumb",
+        "question": "Someone told you, \"She's got a green thumb.\" From the image provided by image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: her thumb is in green color",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: her thumb is in green color\"."
+    },
+    {
+        "idx": 71,
+        "image": "Untitled 71.png",
+        "en": "She's got a green thumb",
+        "question": "Someone told you, \"She's got a green thumb.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: She is skilled at gardening and has a natural ability to make plants grow well.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: She is skilled at gardening and has a natural ability to make plants grow well.\"."
+    },
+    {
+        "idx": 72,
+        "image": "Untitled 72.png",
+        "en": "He's putting all his eggs in one basket",
+        "question": "Someone told you, \"He's putting all his eggs in one basket.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: He is placing all his eggs into a single basket",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: He is placing all his eggs into a single basket\"."
+    },
+    {
+        "idx": 73,
+        "image": "Untitled 73.png",
+        "en": "He's putting all his eggs in one basket",
+        "question": "Someone told you, \"He's putting all his eggs in one basket.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: He is risking everything on a single venture or opportunity.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: He is risking everything on a single venture or opportunity.\"."
+    },
+    {
+        "idx": 74,
+        "image": "Untitled 74.png",
+        "en": "He's burning the midnight oil",
+        "question": "Someone told you, \"He's burning the midnight oil.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: She is setting fire to oil at midnight.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: She is setting fire to oil at midnight.\"."
+    },
+    {
+        "idx": 75,
+        "image": "Untitled 75.png",
+        "en": "He's burning the midnight oil",
+        "question": "Someone told you, \"He's burning the midnight oil.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: She is working late into the night.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: She is working late into the night.\"."
+    },
+    {
+        "idx": 76,
+        "image": "Untitled 76.png",
+        "en": "The contract is set in stone",
+        "question": "Someone told you, \"The contract is set in stone.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: The contract is physically carved into a stone.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: The contract is physically carved into a stone.\"."
+    },
+    {
+        "idx": 77,
+        "image": "Untitled 77.png",
+        "en": "The contract is set in stone",
+        "question": "Someone told you, \"The contract is set in stone.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: The contract is fixed, definite, and unchangeable.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: The contract is fixed, definite, and unchangeable.\"."
+    },
+    {
+        "idx": 78,
+        "image": "Untitled 78.png",
+        "en": "The person's hitting the books",
+        "question": "Someone told you, \"The person's hitting the books.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: The person is physically striking books with force.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: The person is physically striking books with force.\"."
+    },
+    {
+        "idx": 79,
+        "image": "Untitled 79.png",
+        "en": "The person's hitting the books",
+        "question": "Someone told you, \"The person's hitting the books.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: The person is studying or learning intensively.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: The person is studying or learning intensively.\"."
+    },
+    {
+        "idx": 80,
+        "image": "Untitled 80.png",
+        "en": "He's in the driver's seat",
+        "question": "Someone told you, \"He's in the driver's seat.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: He is sitting in the seat designated for the driver of a vehicle.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: He is sitting in the seat designated for the driver of a vehicle.\"."
+    },
+    {
+        "idx": 81,
+        "image": "Untitled 81.png",
+        "en": "He's in the driver's seat",
+        "question": "Someone told you, \"He's in the driver's seat.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: He is in control or leading a situation.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: He is in control or leading a situation.\"."
+    },
+    {
+        "idx": 82,
+        "image": "Untitled 82.png",
+        "en": "The event is right around the corner",
+        "question": "Someone told you, \"The event is right around the corner.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: The event is located just beyond a nearby corner.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: The event is located just beyond a nearby corner.\"."
+    },
+    {
+        "idx": 83,
+        "image": "Untitled 83.png",
+        "en": "The event is right around the corner",
+        "question": "Someone told you, \"The event is right around the corner.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: The event is happening very soon or in the near future.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: The event is happening very soon or in the near future.\"."
+    },
+    {
+        "idx": 84,
+        "image": "Untitled 84.png",
+        "en": "She's got a green light to proceed",
+        "question": "Someone told you, \"She's got a green light to proceed.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: She is facing a traffic light displaying a green signal.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: She is facing a traffic light displaying a green signal.\"."
+    },
+    {
+        "idx": 85,
+        "image": "Untitled 85.png",
+        "en": "She's got a green light to proceed",
+        "question": "Someone told you, \"She's got a green light to proceed.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: She has permission or approval to move forward with a plan or action.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: She has permission or approval to move forward with a plan or action.\"."
+    },
+    {
+        "idx": 86,
+        "image": "Untitled 86.png",
+        "en": "She's in hot water",
+        "question": "Someone told you, \"She's in hot water.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: She is immersed in water with a high temperature.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: She is immersed in water with a high temperature.\"."
+    },
+    {
+        "idx": 87,
+        "image": "Untitled 87.png",
+        "en": "She's in hot water",
+        "question": "Someone told you, \"She's in hot water.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: She is in trouble or facing difficulties.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: She is in trouble or facing difficulties.\"."
+    },
+    {
+        "idx": 88,
+        "image": "Untitled 88.png",
+        "en": "He's hitting the nail on the head",
+        "question": "Someone told you, \"He's hitting the nail on the head.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: He is striking a nail with a hammer on its head.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: He is striking a nail with a hammer on its head.\"."
+    },
+    {
+        "idx": 89,
+        "image": "Untitled 89.png",
+        "en": "He's hitting the nail on the head",
+        "question": "Someone told you, \"He's hitting the nail on the head.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: He is making a precise and accurate statement or observation.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: He is making a precise and accurate statement or observation.\"."
+    },
+    {
+        "idx": 90,
+        "image": "Untitled 90.png",
+        "en": "She's on a slippery slope",
+        "question": "Someone told you, \"She's on a slippery slope.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Literal meaning: She is standing on a sloped surface with low traction.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literal meaning: She is standing on a sloped surface with low traction.\"."
+    },
+    {
+        "idx": 91,
+        "image": "Untitled 91.png",
+        "en": "She's on a slippery slope",
+        "question": "Someone told you, \"She's on a slippery slope.\" From the image I offered to you, How do you undertand the sentence?",
+        "answer": "Extended meaning: She is in a situation that is likely to lead to further problems or decline.",
+        "class": "Idiom Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Extended meaning: She is in a situation that is likely to lead to further problems or decline.\"."
+    },
+    {
+        "idx": 92,
+        "image": "Untitled 92.png",
+        "en": "It is hard",
+        "question": "Someone told you, \"It is hard.\" From the image I offered to you, Can you explain the meaning \"hard\" here?",
+        "answer": "Solid, firm, and rigid; not easily broken, bent, or pierced.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"hard\".\". Based on the image, the answer to the disambiguation is \"Solid, firm, and rigid; not easily broken, bent, or pierced.\"."
+    },
+    {
+        "idx": 93,
+        "image": "Untitled 93.png",
+        "en": "It is hard",
+        "question": "Someone told you, \"It is hard.\" From the image I offered to you, Can you explain the meaning \"hard\" here?",
+        "answer": "Requiring a great deal of endurance or effort.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"hard\".\". Based on the image, the answer to the disambiguation is \"Requiring a great deal of endurance or effort.\"."
+    },
+    {
+        "idx": 94,
+        "image": "Untitled 94.png",
+        "en": "It is sharp",
+        "question": "Someone told you, \"It is sharp.\" From the image I offered to you, Can you explain the meaning \"sharp\" here?",
+        "answer": "Having an edge or point that is able to cut or pierce something.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"sharp\".\". Based on the image, the answer to the disambiguation is \"Having an edge or point that is able to cut or pierce something.\"."
+    },
+    {
+        "idx": 95,
+        "image": "Untitled 95.png",
+        "en": "It is sharp",
+        "question": "Someone told you, \"It is sharp.\" From the image I offered to you, Can you explain the meaning \"sharp\" here?",
+        "answer": "Sudden and marked.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"sharp\".\". Based on the image, the answer to the disambiguation is \"Sudden and marked.\"."
+    },
+    {
+        "idx": 96,
+        "image": "Untitled 96.png",
+        "en": "It is fine",
+        "question": "Someone told you, \"It is fine.\" From the image I offered to you, Can you explain the meaning \"fine\" here?",
+        "answer": "Of very high quality; Very good of its kind.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"fine\".\". Based on the image, the answer to the disambiguation is \"Of very high quality; Very good of its kind.\"."
+    },
+    {
+        "idx": 97,
+        "image": "Untitled 97.png",
+        "en": "It is fine",
+        "question": "Someone told you, \"It is fine.\" From the image I offered to you, Can you explain the meaning \"fine\" here?",
+        "answer": "(Of a point) Sharp.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"fine\".\". Based on the image, the answer to the disambiguation is \"(Of a point) Sharp.\"."
+    },
+    {
+        "idx": 98,
+        "image": "Untitled 98.png",
+        "en": "It is close",
+        "question": "Someone told you, \"It is close.\" From the image I offered to you, Can you explain the meaning \"close\" here?",
+        "answer": "Only a short distance away or apart in space or time.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"close\".\". Based on the image, the answer to the disambiguation is \"Only a short distance away or apart in space or time.\"."
+    },
+    {
+        "idx": 99,
+        "image": "Untitled 99.png",
+        "en": "It is close",
+        "question": "Someone told you, \"It is close.\" From the image I offered to you, Can you explain the meaning \"close\" here?",
+        "answer": "On very affectionate or intimate terms.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"close\".\". Based on the image, the answer to the disambiguation is \"On very affectionate or intimate terms.\"."
+    },
+    {
+        "idx": 100,
+        "image": "Untitled 100.png",
+        "en": "It is dull",
+        "question": "Someone told you, \"It is dull.\" From the image I offered to you, Can you explain the meaning \"dull\" here?",
+        "answer": "(Of an edge or blade) Blunt.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"dull\".\". Based on the image, the answer to the disambiguation is \"(Of an edge or blade) Blunt.\"."
+    },
+    {
+        "idx": 101,
+        "image": "Untitled 101.png",
+        "en": "It is dull",
+        "question": "Someone told you, \"It is dull.\" From the image I offered to you, Can you explain the meaning \"dull\" here?",
+        "answer": "Lacking brightness, vividness, or sheen.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"dull\".\". Based on the image, the answer to the disambiguation is \"Lacking brightness, vividness, or sheen.\"."
+    },
+    {
+        "idx": 102,
+        "image": "Untitled 102.png",
+        "en": "It is fresh",
+        "question": "Someone told you, \"It is fresh.\" From the image I offered to you, Can you explain the meaning \"fresh\" here?",
+        "answer": "Recently made or obtained; not tinned, frozen, or otherwise preserved.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"fresh\".\". Based on the image, the answer to the disambiguation is \"Recently made or obtained; not tinned, frozen, or otherwise preserved.\"."
+    },
+    {
+        "idx": 103,
+        "image": "Untitled 103.png",
+        "en": "It is fresh",
+        "question": "Someone told you, \"It is fresh.\" From the image I offered to you, Can you explain the meaning \"fresh\" here?",
+        "answer": "Pleasantly clean and cool.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"fresh\".\". Based on the image, the answer to the disambiguation is \"Pleasantly clean and cool.\"."
+    },
+    {
+        "idx": 104,
+        "image": "Untitled 104.png",
+        "en": "It is high",
+        "question": "Someone told you, \"It is high.\" From the image I offered to you, Can you explain the meaning \"high\" here?",
+        "answer": "Of great vertical extent.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"high\".\". Based on the image, the answer to the disambiguation is \"Of great vertical extent.\"."
+    },
+    {
+        "idx": 105,
+        "image": "Untitled 105.png",
+        "en": "It is high",
+        "question": "Someone told you, \"It is high.\" From the image I offered to you, Can you explain the meaning \"high\" here?",
+        "answer": "Of large numerical or monetary value.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"high\".\". Based on the image, the answer to the disambiguation is \"Of large numerical or monetary value.\"."
+    },
+    {
+        "idx": 106,
+        "image": "Untitled 106.png",
+        "en": "It is deep",
+        "question": "Someone told you, \"It is deep.\" From the image I offered to you, Can you explain the meaning \"deep\" here?",
+        "answer": "Extending far down from the top or surface.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"deep\".\". Based on the image, the answer to the disambiguation is \"Extending far down from the top or surface.\"."
+    },
+    {
+        "idx": 107,
+        "image": "Untitled 107.png",
+        "en": "It is deep",
+        "question": "Someone told you, \"It is deep.\" From the image I offered to you, Can you explain the meaning \"deep\" here?",
+        "answer": "Very intense or extreme.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"deep\".\". Based on the image, the answer to the disambiguation is \"Very intense or extreme.\"."
+    },
+    {
+        "idx": 108,
+        "image": "Untitled 108.png",
+        "en": "It is light",
+        "question": "Someone told you, \"It is light.\" From the image I offered to you, Can you explain the meaning \"light\" here?",
+        "answer": "Of little weight; not heavy.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"light\".\". Based on the image, the answer to the disambiguation is \"Of little weight; not heavy.\"."
+    },
+    {
+        "idx": 109,
+        "image": "Untitled 109.png",
+        "en": "It is light",
+        "question": "Someone told you, \"It is light.\" From the image I offered to you, Can you explain the meaning \"light\" here?",
+        "answer": "Having a considerable or sufficient amount of natural light; not dark.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"light\".\". Based on the image, the answer to the disambiguation is \"Having a considerable or sufficient amount of natural light; not dark.\"."
+    },
+    {
+        "idx": 110,
+        "image": "Untitled 110.png",
+        "en": "It is rough",
+        "question": "Someone told you, \"It is rough.\" From the image I offered to you, Can you explain the meaning \"rough\" here?",
+        "answer": "Having an uneven or irregular surface; not smooth or level.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"rough\".\". Based on the image, the answer to the disambiguation is \"Having an uneven or irregular surface; not smooth or level.\"."
+    },
+    {
+        "idx": 111,
+        "image": "Untitled 111.png",
+        "en": "It is rough",
+        "question": "Someone told you, \"It is rough.\" From the image I offered to you, Can you explain the meaning \"rough\" here?",
+        "answer": "Not gentle; violent or boisterous.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"rough\".\". Based on the image, the answer to the disambiguation is \"Not gentle; violent or boisterous.\"."
+    },
+    {
+        "idx": 112,
+        "image": "Untitled 112.png",
+        "en": "It is flat",
+        "question": "Someone told you, \"It is flat.\" From the image I offered to you, Can you explain the meaning \"flat\" here?",
+        "answer": "Having a level surface; without raised areas or indentations.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"flat\".\". Based on the image, the answer to the disambiguation is \"Having a level surface; without raised areas or indentations.\"."
+    },
+    {
+        "idx": 113,
+        "image": "Untitled 113.png",
+        "en": "It is flat",
+        "question": "Someone told you, \"It is flat.\" From the image I offered to you, Can you explain the meaning \"flat\" here?",
+        "answer": "Lack of variation.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"flat\".\". Based on the image, the answer to the disambiguation is \"Lack of variation.\"."
+    },
+    {
+        "idx": 114,
+        "image": "Untitled 114.png",
+        "en": "It is heavy",
+        "question": "Someone told you, \"It is heavy.\" From the image I offered to you, Can you explain the meaning \"heavy\" here?",
+        "answer": "Of great weight; difficult to lift or move.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"heavy\".\". Based on the image, the answer to the disambiguation is \"Of great weight; difficult to lift or move.\"."
+    },
+    {
+        "idx": 115,
+        "image": "Untitled 115.png",
+        "en": "It is heavy",
+        "question": "Someone told you, \"It is heavy.\" From the image I offered to you, Can you explain the meaning \"heavy\" here?",
+        "answer": "Of more than the usual size, amount, or intensity.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"heavy\".\". Based on the image, the answer to the disambiguation is \"Of more than the usual size, amount, or intensity.\"."
+    },
+    {
+        "idx": 116,
+        "image": "Untitled 116.png",
+        "en": "It is tight",
+        "question": "Someone told you, \"It is tight.\" From the image I offered to you, Can you explain the meaning \"tight\" here?",
+        "answer": "Close-fitting, especially uncomfortably so.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"tight\".\". Based on the image, the answer to the disambiguation is \"Close-fitting, especially uncomfortably so.\"."
+    },
+    {
+        "idx": 117,
+        "image": "Untitled 117.png",
+        "en": "It is tight",
+        "question": "Someone told you, \"It is tight.\" From the image I offered to you, Can you explain the meaning \"tight\" here?",
+        "answer": "Closely or densely packed together.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"tight\".\". Based on the image, the answer to the disambiguation is \"Closely or densely packed together.\"."
+    },
+    {
+        "idx": 118,
+        "image": "Untitled 118.png",
+        "en": "It is loose",
+        "question": "Someone told you, \"It is loose.\" From the image I offered to you, Can you explain the meaning \"loose\" here?",
+        "answer": "The size is not fitting tightly or closely.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"loose\".\". Based on the image, the answer to the disambiguation is \"The size is not fitting tightly or closely.\"."
+    },
+    {
+        "idx": 119,
+        "image": "Untitled 119.png",
+        "en": "It is loose",
+        "question": "Someone told you, \"It is loose.\" From the image I offered to you, Can you explain the meaning \"loose\" here?",
+        "answer": "Not held or tied together or contained within something.",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"loose\".\". Based on the image, the answer to the disambiguation is \"Not held or tied together or contained within something.\"."
+    },
+    {
+        "idx": 120,
+        "image": "Untitled 150.png",
+        "en": "The chicken is ready to eat.",
+        "question": "Someone told you, \"The chicken is ready to eat.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Passive, chicken is ready to be eaten. ",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Passive, chicken is ready to be eaten. \"."
+    },
+    {
+        "idx": 121,
+        "image": "Untitled 151.png",
+        "en": "The chicken is ready to eat.",
+        "question": "Someone told you, \"The chicken is ready to eat.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Active, chicken is ready to eat food. ",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Active, chicken is ready to eat food. \"."
+    },
+    {
+        "idx": 122,
+        "image": "Untitled 152.png",
+        "en": "The computer is ready to update.",
+        "question": "Someone told you, \"The computer is ready to update.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Active, the computer is prepared to update automatiocally.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Active, the computer is prepared to update automatiocally.\"."
+    },
+    {
+        "idx": 123,
+        "image": "Untitled 153.png",
+        "en": "The computer is ready to update.",
+        "question": "Someone told you, \"The computer is ready to update.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Passive, the computer is prepared to update by someone.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Passive, the computer is prepared to update by someone.\"."
+    },
+    {
+        "idx": 124,
+        "image": "Untitled 154.png",
+        "en": "The baby is ready to feed.",
+        "question": "Someone told you, \"The baby is ready to feed.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Active, the baby is prepared to feed itself.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Active, the baby is prepared to feed itself.\"."
+    },
+    {
+        "idx": 125,
+        "image": "Untitled 155.png",
+        "en": "The baby is ready to feed.",
+        "question": "Someone told you, \"The baby is ready to feed.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Passive, the baby is ready to be fed by someone else.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Passive, the baby is ready to be fed by someone else.\"."
+    },
+    {
+        "idx": 126,
+        "image": "Untitled 156.png",
+        "en": "The dog is ready to walk.",
+        "question": "Someone told you, \"The dog is ready to walk.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Passive, the dog has been leashed and prepared for someone to take it on a walk. ",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Passive, the dog has been leashed and prepared for someone to take it on a walk. \"."
+    },
+    {
+        "idx": 127,
+        "image": "Untitled 157.png",
+        "en": "The dog is ready to walk.",
+        "question": "Someone told you, \"The dog is ready to walk.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Active, the dog is about to start \"walking\" on its own.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Active, the dog is about to start \"walking\" on its own.\"."
+    },
+    {
+        "idx": 128,
+        "image": "Untitled 158.png",
+        "en": "The horse is ready to ride.",
+        "question": "Someone told you, \"The horse is ready to ride.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Passive, the horse has been saddled and prepared for someone to ride it.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Passive, the horse has been saddled and prepared for someone to ride it.\"."
+    },
+    {
+        "idx": 129,
+        "image": "Untitled 159.png",
+        "en": "The horse is ready to ride.",
+        "question": "Someone told you, \"The horse is ready to ride.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Active, the horse is about to start running on its own.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Active, the horse is about to start running on its own.\"."
+    },
+    {
+        "idx": 130,
+        "image": "Untitled 160.png",
+        "en": "The bird is ready to fly.",
+        "question": "Someone told you, \"The bird is ready to fly.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Passive, the bird has been prepared for someone to release it.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Passive, the bird has been prepared for someone to release it.\"."
+    },
+    {
+        "idx": 131,
+        "image": "Untitled 161.png",
+        "en": "The bird is ready to fly.",
+        "question": "Someone told you, \"The bird is ready to fly.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Active, the bird is about to take off and start flying on its own.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Active, the bird is about to take off and start flying on its own.\"."
+    },
+    {
+        "idx": 132,
+        "image": "Untitled 162.png",
+        "en": "The car is ready to drive.",
+        "question": "Someone told you, \"The car is ready to drive.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Passive, woman drives the car.",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Passive, woman drives the car.\"."
+    },
+    {
+        "idx": 133,
+        "image": "Untitled 163.png",
+        "en": "The car is ready to drive.",
+        "question": "Someone told you, \"The car is ready to drive.\" From the image I offered to you, how do you undertand the sentence?",
+        "answer": "Active, the car is self-driving. ",
+        "class": "Structural Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Active, the car is self-driving. \"."
+    },
+    {
+        "idx": 134,
+        "image": "Untitled 188.png",
+        "en": "The room was filled with silence.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the room was filled with silence.\" here?",
+        "answer": "Evokes a sense of peace, tranquility, and inner reflection.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Evokes a sense of peace, tranquility, and inner reflection.\"."
+    },
+    {
+        "idx": 135,
+        "image": "Untitled 189.png",
+        "en": "The room was filled with silence.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the room was filled with silence.\" here?",
+        "answer": "Suggests a heavy atmosphere of grief, loss, and emotional numbness.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Suggests a heavy atmosphere of grief, loss, and emotional numbness.\"."
+    },
+    {
+        "idx": 136,
+        "image": "Untitled 190.png",
+        "en": "Time stood still.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"time stood still.\" here?",
+        "answer": "Evokes a sense of being fully present and lost in the beauty of a shared experience with a loved one.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Evokes a sense of being fully present and lost in the beauty of a shared experience with a loved one.\"."
+    },
+    {
+        "idx": 137,
+        "image": "Untitled 191.png",
+        "en": "Time stood still.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"time stood still.\" here?",
+        "answer": "Suggests a heightened state of awareness, where every second feels like an eternity, and one's life hangs in the balance.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Suggests a heightened state of awareness, where every second feels like an eternity, and one's life hangs in the balance.\"."
+    },
+    {
+        "idx": 138,
+        "image": "Untitled 192.png",
+        "en": "The apple doesn't fall far from the tree.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the apple doesn't fall far from the tree.\" here?",
+        "answer": "Implies that the child has inherited or learned admirable qualities from their parent.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Implies that the child has inherited or learned admirable qualities from their parent.\"."
+    },
+    {
+        "idx": 139,
+        "image": "Untitled 193.png",
+        "en": "The apple doesn't fall far from the tree.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the apple doesn't fall far from the tree.\" here?",
+        "answer": "Literally, the apple doesn't fall far from the tree.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literally, the apple doesn't fall far from the tree.\"."
+    },
+    {
+        "idx": 140,
+        "image": "Untitled 194.png",
+        "en": "The knife cut through the silence.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the knife cut through the silence.\" here?",
+        "answer": "First cut on the brand new cake.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"First cut on the brand new cake.\"."
+    },
+    {
+        "idx": 141,
+        "image": "Untitled 195.png",
+        "en": "The knife cut through the silence.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the knife cut through the silence.\" here?",
+        "answer": "Silence \"cut through\" by applause at the end, with her final pose acting as the figurative \"knife\" that breaks the silence and prompts the crowd reaction.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Silence \"cut through\" by applause at the end, with her final pose acting as the figurative \"knife\" that breaks the silence and prompts the crowd reaction.\"."
+    },
+    {
+        "idx": 142,
+        "image": "Untitled 196.png",
+        "en": "The city never sleeps?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the city never sleeps?\" here?",
+        "answer": "Indicates activity, implying the city is \"awake.\"",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Indicates activity, implying the city is \"awake.\"\"."
+    },
+    {
+        "idx": 143,
+        "image": "Untitled 197.png",
+        "en": "The city never sleeps?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the city never sleeps?\" here?",
+        "answer": "Cannot sleep successfully.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Cannot sleep successfully.\"."
+    },
+    {
+        "idx": 144,
+        "image": "Untitled 198.png",
+        "en": "Is this the light at the end of the tunnel?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"is this the light at the end of the tunnel?\" here?",
+        "answer": "It implies achievement or overcoming challenges, where graduation symbolizes the \"light\" or success after hard work.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"It implies achievement or overcoming challenges, where graduation symbolizes the \"light\" or success after hard work.\"."
+    },
+    {
+        "idx": 145,
+        "image": "Untitled 199.png",
+        "en": "Is this the light at the end of the tunnel?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"is this the light at the end of the tunnel?\" here?",
+        "answer": "Literally, there is a sunrise at the end of a tunnel.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literally, there is a sunrise at the end of a tunnel.\"."
+    },
+    {
+        "idx": 146,
+        "image": "Untitled 200.png",
+        "en": "How is this person like a lion?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"how is this person like a lion?\" here?",
+        "answer": "The question suggests comparing the person's leadership qualities, strength, or assertiveness to a lion.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"The question suggests comparing the person's leadership qualities, strength, or assertiveness to a lion.\"."
+    },
+    {
+        "idx": 147,
+        "image": "Untitled 201.png",
+        "en": "How is this person like a lion?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"how is this person like a lion?\" here?",
+        "answer": "The question might humorously suggest the comparison is based on the person's yawning appearance to a lion's roar.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"The question might humorously suggest the comparison is based on the person's yawning appearance to a lion's roar.\"."
+    },
+    {
+        "idx": 148,
+        "image": "Untitled 202.png",
+        "en": "Is this situation as delicate as a glass?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"is this situation as delicate as a glass?\" here?",
+        "answer": "Suggest they may be discussing sensitive diplomatic matters that require careful handling, much like how delicate glassware needs to be treated with great care to avoid breaking it",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Suggest they may be discussing sensitive diplomatic matters that require careful handling, much like how delicate glassware needs to be treated with great care to avoid breaking it\"."
+    },
+    {
+        "idx": 149,
+        "image": "Untitled 203.png",
+        "en": "Is this situation as delicate as a glass?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"is this situation as delicate as a glass?\" here?",
+        "answer": "The man is holding a stack of glasses, which are delicate and can break easily. ",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"The man is holding a stack of glasses, which are delicate and can break easily. \"."
+    },
+    {
+        "idx": 150,
+        "image": "Untitled 204.png",
+        "en": "Is this a bittersweet victory?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"is this a bittersweet victory?\" here?",
+        "answer": "Suggests a victory that came with great personal cost or sacrifice.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Suggests a victory that came with great personal cost or sacrifice.\"."
+    },
+    {
+        "idx": 151,
+        "image": "Untitled 205.png",
+        "en": "Is this a bittersweet victory?",
+        "question": "From the image I offered to you, How do you undertand the sentence \"is this a bittersweet victory?\" here?",
+        "answer": "Combines joy with the sadness of farewell.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Combines joy with the sadness of farewell.\"."
+    },
+    {
+        "idx": 152,
+        "image": "Untitled 206.png",
+        "en": "The apple of one's eye.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the apple of one's eye.\" here?",
+        "answer": "Suggests that the child is the center of the parent's affection and attention, cherished above all else.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Suggests that the child is the center of the parent's affection and attention, cherished above all else.\"."
+    },
+    {
+        "idx": 153,
+        "image": "Untitled 207.png",
+        "en": "The apple of one's eye.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"the apple of one's eye.\" here?",
+        "answer": "Literally, there is an apple.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literally, there is an apple.\"."
+    },
+    {
+        "idx": 154,
+        "image": "Untitled 208.png",
+        "en": "You made it",
+        "question": "From the image I offered to you, How do you undertand the sentence \"you made it\" here?",
+        "answer": "Positive, praise your stablish.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Positive, praise your stablish.\"."
+    },
+    {
+        "idx": 155,
+        "image": "Untitled 209.png",
+        "en": "You made it",
+        "question": "From the image I offered to you, How do you undertand the sentence \"you made it\" here?",
+        "answer": "Negaive, complain your mistakes.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Negaive, complain your mistakes.\"."
+    },
+    {
+        "idx": 156,
+        "image": "Untitled 210.png",
+        "en": "he's on fire.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"he's on fire.\" here?",
+        "answer": "Earn a lot of score in a short time.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Earn a lot of score in a short time.\"."
+    },
+    {
+        "idx": 157,
+        "image": "Untitled 211.png",
+        "en": "he's on fire.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"he's on fire.\" here?",
+        "answer": "On fire literally.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"On fire literally.\"."
+    },
+    {
+        "idx": 158,
+        "image": "Untitled 212.png",
+        "en": "Break the leg",
+        "question": "From the image I offered to you, How do you undertand the sentence \"break the leg.\" here?",
+        "answer": "Wish the actress good luck before a performance.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Wish the actress good luck before a performance.\"."
+    },
+    {
+        "idx": 159,
+        "image": "Untitled 213.png",
+        "en": "Break the leg",
+        "question": "From the image I offered to you, How do you undertand the sentence \"break the leg.\" here?",
+        "answer": "Literally, the person's leg is broken.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Literally, the person's leg is broken.\"."
+    },
+    {
+        "idx": 160,
+        "image": "Untitled 226.png",
+        "en": "Torching head",
+        "question": "From the image I offered to you, why does the person torch another's head?",
+        "answer": "Love",
+        "class": "Verb Ambiguity",
+        "hint": "The disambiguation answer to the question \"why does the person torch another's head?\" is, \"Love\"."
+    },
+    {
+        "idx": 161,
+        "image": "Untitled 227.png",
+        "en": "Torching head",
+        "question": "From the image I offered to you, why does the person torch another's head?",
+        "answer": "Consolation",
+        "class": "Verb Ambiguity",
+        "hint": "The disambiguation answer to the question \"why does the person torch another's head?\" is, \"Consolation\"."
+    },
+    {
+        "idx": 162,
+        "image": "Untitled 228.png",
+        "en": "Torching head",
+        "question": "From the image I offered to you, why does the person torch another's head?",
+        "answer": "Pride or Approval",
+        "class": "Verb Ambiguity",
+        "hint": "The disambiguation answer to the question \"why does the person torch another's head?\" is, \"Pride or Approval\"."
+    },
+    {
+        "idx": 163,
+        "image": "Untitled 229.png",
+        "en": "Torching head",
+        "question": "From the image I offered to you, why does the person torch another's head?",
+        "answer": "Dominance or Control",
+        "class": "Verb Ambiguity",
+        "hint": "The disambiguation answer to the question \"why does the person torch another's head?\" is, \"Dominance or Control\"."
+    },
+    {
+        "idx": 164,
+        "image": "Noun_0.png",
+        "en": "What is distinctive about Apple?",
+        "question": " From the scene I offered to you,answer the question below.What is distinctive about Apple?",
+        "answer": "Sweetness",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is distinctive about Apple?\" is, \"Sweetness\"."
+    },
+    {
+        "idx": 165,
+        "image": "Noun_1.png",
+        "en": "What is distinctive about Apple?",
+        "question": " From the scene I offered to you,answer the question below.What is distinctive about Apple?",
+        "answer": "Iphone",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is distinctive about Apple?\" is, \"Iphone\"."
+    },
+    {
+        "idx": 166,
+        "image": "Noun_2.png",
+        "en": "Where can you most likely find a bat?",
+        "question": " From the scene I offered to you,answer the question below.Where can you most likely find a bat?",
+        "answer": "Cave",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"Where can you most likely find a bat?\" is, \"Cave\"."
+    },
+    {
+        "idx": 167,
+        "image": "Noun_3.png",
+        "en": "Where can you most likely find a bat?",
+        "question": " From the scene I offered to you,answer the question below.Where can you most likely find a bat?",
+        "answer": "Baseball field",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"Where can you most likely find a bat?\" is, \"Baseball field\"."
+    },
+    {
+        "idx": 168,
+        "image": "Noun_4.png",
+        "en": "Where can you commonly see a crane?",
+        "question": " From the scene I offered to you,answer the question below.Where can you commonly see a crane?",
+        "answer": "Wetland",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"Where can you commonly see a crane?\" is, \"Wetland\"."
+    },
+    {
+        "idx": 169,
+        "image": "Noun_5.png",
+        "en": "Where can you commonly see a crane?",
+        "question": " From the scene I offered to you,answer the question below.Where can you commonly see a crane?",
+        "answer": "Construction site",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"Where can you commonly see a crane?\" is, \"Construction site\"."
+    },
+    {
+        "idx": 170,
+        "image": "Noun_6.png",
+        "en": "What makes a date sweet?",
+        "question": " From the scene I offered to you,answer the question below.What makes a date sweet?",
+        "answer": "Sugar",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What makes a date sweet?\" is, \"Sugar\"."
+    },
+    {
+        "idx": 171,
+        "image": "Noun_7.png",
+        "en": "What is sweet about a date?",
+        "question": " From the scene I offered to you,answer the question below.What is sweet about a date?",
+        "answer": "Romance",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is sweet about a date?\" is, \"Romance\"."
+    },
+    {
+        "idx": 172,
+        "image": "Noun_8.png",
+        "en": "What can a match ignite?",
+        "question": " From the scene I offered to you,answer the question below.What can a match ignite?",
+        "answer": "Fire",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can a match ignite?\" is, \"Fire\"."
+    },
+    {
+        "idx": 173,
+        "image": "Noun_9.png",
+        "en": "What can a match ignite?",
+        "question": " From the scene I offered to you,answer the question below.What can a match ignite?",
+        "answer": "Excitement",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can a match ignite?\" is, \"Excitement\"."
+    },
+    {
+        "idx": 174,
+        "image": "Noun_10.png",
+        "en": "What information can bark provide?",
+        "question": " From the scene I offered to you,answer the question below.What information can bark provide?",
+        "answer": "Tree health",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What information can bark provide?\" is, \"Tree health\"."
+    },
+    {
+        "idx": 175,
+        "image": "Noun_11.png",
+        "en": "What information can bark provide?",
+        "question": " From the scene I offered to you,answer the question below.What information can bark provide?",
+        "answer": "Dog's mood",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What information can bark provide?\" is, \"Dog's mood\"."
+    },
+    {
+        "idx": 176,
+        "image": "Noun_12.png",
+        "en": "What do people go to the bank for?",
+        "question": " From the scene I offered to you,answer the question below.What do people go to the bank for?",
+        "answer": "Transactions",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What do people go to the bank for?\" is, \"Transactions\"."
+    },
+    {
+        "idx": 177,
+        "image": "Noun_13.png",
+        "en": "What do people go to the bank for?",
+        "question": " From the scene I offered to you,answer the question below.What do people go to the bank for?",
+        "answer": "Fish",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What do people go to the bank for?\" is, \"Fish\"."
+    },
+    {
+        "idx": 178,
+        "image": "Noun_14.png",
+        "en": "How can we deal with this mouse?",
+        "question": " From the scene I offered to you,answer the question below.How can we deal with this mouse?",
+        "answer": "Catch",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we deal with this mouse?\" is, \"Catch\"."
+    },
+    {
+        "idx": 179,
+        "image": "Noun_15.png",
+        "en": "How can we deal with this mouse?",
+        "question": " From the scene I offered to you,answer the question below.How can we deal with this mouse?",
+        "answer": "Repaire",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we deal with this mouse?\" is, \"Repaire\"."
+    },
+    {
+        "idx": 180,
+        "image": "Noun_16.png",
+        "en": "What might spring bring?",
+        "question": " From the scene I offered to you,answer the question below.What might spring bring?",
+        "answer": "Flowers",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What might spring bring?\" is, \"Flowers\"."
+    },
+    {
+        "idx": 181,
+        "image": "Noun_18.png",
+        "en": "What might spring bring?",
+        "question": " From the scene I offered to you,answer the question below.What might spring bring?",
+        "answer": "Water",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What might spring bring?\" is, \"Water\"."
+    },
+    {
+        "idx": 182,
+        "image": "Noun_19.png",
+        "en": "What can the glasses be used for?",
+        "question": " From the scene I offered to you,answer the question below.What can the glasses be used for?",
+        "answer": "Seeing clearly",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can the glasses be used for?\" is, \"Seeing clearly\"."
+    },
+    {
+        "idx": 183,
+        "image": "Noun_20.png",
+        "en": "What can the glasses be used for?",
+        "question": " From the scene I offered to you,answer the question below.What can the glasses be used for?",
+        "answer": "Decoration",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can the glasses be used for?\" is, \"Decoration\"."
+    },
+    {
+        "idx": 184,
+        "image": "Noun_21.png",
+        "en": "What makes a pilot successful?",
+        "question": " From the scene I offered to you,answer the question below.What makes a pilot successful?",
+        "answer": "Skills",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What makes a pilot successful?\" is, \"Skills\"."
+    },
+    {
+        "idx": 185,
+        "image": "Noun_22.png",
+        "en": "What makes a pilot successful?",
+        "question": " From the scene I offered to you,answer the question below.What makes a pilot successful?",
+        "answer": "Viewer engagement",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What makes a pilot successful?\" is, \"Viewer engagement\"."
+    },
+    {
+        "idx": 186,
+        "image": "Noun_23.png",
+        "en": "What makes the star shine?",
+        "question": " From the scene I offered to you,answer the question below.What makes the star shine?",
+        "answer": "Nuclear fusion",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What makes the star shine?\" is, \"Nuclear fusion\"."
+    },
+    {
+        "idx": 187,
+        "image": "Noun_24.png",
+        "en": "What makes the star shine?",
+        "question": " From the scene I offered to you,answer the question below.What makes the star shine?",
+        "answer": "Fame",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What makes the star shine?\" is, \"Fame\"."
+    },
+    {
+        "idx": 188,
+        "image": "Noun_25.png",
+        "en": "What makes the rock stand out?",
+        "question": " From the scene I offered to you,answer the question below.What makes the rock stand out?",
+        "answer": "Shape",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What makes the rock stand out?\" is, \"Shape\"."
+    },
+    {
+        "idx": 189,
+        "image": "Noun_26.png",
+        "en": "What makes the rock stand out?",
+        "question": " From the scene I offered to you,answer the question below.What makes the rock stand out?",
+        "answer": "Rhythm ",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What makes the rock stand out?\" is, \"Rhythm \"."
+    },
+    {
+        "idx": 190,
+        "image": "Noun_27.png",
+        "en": "How do you capture the essence of this bass?",
+        "question": " From the scene I offered to you,answer the question below.How do you capture the essence of this bass?",
+        "answer": "Cooking",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How do you capture the essence of this bass?\" is, \"Cooking\"."
+    },
+    {
+        "idx": 191,
+        "image": "Noun_28.png",
+        "en": "How do you capture the essence of this bass?",
+        "question": " From the scene I offered to you,answer the question below.How do you capture the essence of this bass?",
+        "answer": "Playing",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How do you capture the essence of this bass?\" is, \"Playing\"."
+    },
+    {
+        "idx": 192,
+        "image": "Noun_29.png",
+        "en": "What can a ring signify?",
+        "question": " From the scene I offered to you,answer the question below.What can a ring signify?",
+        "answer": "Commitment",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can a ring signify?\" is, \"Commitment\"."
+    },
+    {
+        "idx": 193,
+        "image": "Noun_30.png",
+        "en": "What can a ring signify?",
+        "question": " From the scene I offered to you,answer the question below.What can a ring signify?",
+        "answer": "Time",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can a ring signify?\" is, \"Time\"."
+    },
+    {
+        "idx": 194,
+        "image": "Noun_31.png",
+        "en": "How can we protect the seal?",
+        "question": " From the scene I offered to you,answer the question below.How can we protect the seal?",
+        "answer": "Conservation efforts",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we protect the seal?\" is, \"Conservation efforts\"."
+    },
+    {
+        "idx": 195,
+        "image": "Noun_32.png",
+        "en": "How can we protect the seal?",
+        "question": " From the scene I offered to you,answer the question below.How can we protect the seal?",
+        "answer": "Wax sealant",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we protect the seal?\" is, \"Wax sealant\"."
+    },
+    {
+        "idx": 196,
+        "image": "Noun_33.png",
+        "en": "What message does that wave carry?",
+        "question": " From the scene I offered to you,answer the question below.What message does that wave carry?",
+        "answer": "Danger",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What message does that wave carry?\" is, \"Danger\"."
+    },
+    {
+        "idx": 197,
+        "image": "Noun_34.png",
+        "en": "What message does that wave carry?",
+        "question": " From the scene I offered to you,answer the question below.What message does that wave carry?",
+        "answer": "Support",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What message does that wave carry?\" is, \"Support\"."
+    },
+    {
+        "idx": 198,
+        "image": "Noun_36.png",
+        "en": "What is the bow used for?",
+        "question": " From the scene I offered to you,answer the question below.What is the bow used for?",
+        "answer": "Decoration",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the bow used for?\" is, \"Decoration\"."
+    },
+    {
+        "idx": 199,
+        "image": "Noun_37.png",
+        "en": "What is the bow used for?",
+        "question": " From the scene I offered to you,answer the question below.What is the bow used for?",
+        "answer": "Archery",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the bow used for?\" is, \"Archery\"."
+    },
+    {
+        "idx": 200,
+        "image": "Noun_38.png",
+        "en": "What is a scale used for?",
+        "question": " From the scene I offered to you,answer the question below.What is a scale used for?",
+        "answer": "Measuring weight",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is a scale used for?\" is, \"Measuring weight\"."
+    },
+    {
+        "idx": 201,
+        "image": "Noun_39.png",
+        "en": "What is a scale used for?",
+        "question": " From the scene I offered to you,answer the question below.What is a scale used for?",
+        "answer": "Creating harmony",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is a scale used for?\" is, \"Creating harmony\"."
+    },
+    {
+        "idx": 202,
+        "image": "Noun_40.png",
+        "en": "What properties make lead so critical?",
+        "question": " From the scene I offered to you,answer the question below.What properties make lead so critical?",
+        "answer": "High density",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What properties make lead so critical?\" is, \"High density\"."
+    },
+    {
+        "idx": 203,
+        "image": "Noun_41.png",
+        "en": "What properties make lead so critical?",
+        "question": " From the scene I offered to you,answer the question below.What properties make lead so critical?",
+        "answer": "Strong influence",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What properties make lead so critical?\" is, \"Strong influence\"."
+    },
+    {
+        "idx": 204,
+        "image": "Noun_42.png",
+        "en": "What can be the purpose of a draft?",
+        "question": " From the scene I offered to you,answer the question below.What can be the purpose of a draft?",
+        "answer": "Legislative review",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can be the purpose of a draft?\" is, \"Legislative review\"."
+    },
+    {
+        "idx": 205,
+        "image": "Noun_43.png",
+        "en": "What can be the purpose of a draft?",
+        "question": " From the scene I offered to you,answer the question below.What can be the purpose of a draft?",
+        "answer": "Military service",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can be the purpose of a draft?\" is, \"Military service\"."
+    },
+    {
+        "idx": 206,
+        "image": "Noun_48.png",
+        "en": "What role does the pole play?",
+        "question": " From the scene I offered to you,answer the question below.What role does the pole play?",
+        "answer": "Geographic landmark",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What role does the pole play?\" is, \"Geographic landmark\"."
+    },
+    {
+        "idx": 207,
+        "image": "Noun_49.png",
+        "en": "What role does the pole play?",
+        "question": " From the scene I offered to you,answer the question below.What role does the pole play?",
+        "answer": "Structural support",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What role does the pole play?\" is, \"Structural support\"."
+    },
+    {
+        "idx": 208,
+        "image": "Noun_50.png",
+        "en": "What details are critical to this watch?",
+        "question": " From the scene I offered to you,answer the question below.What details are critical to this watch?",
+        "answer": "Precision timing",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What details are critical to this watch?\" is, \"Precision timing\"."
+    },
+    {
+        "idx": 209,
+        "image": "Noun_51.png",
+        "en": "What details are critical to this watch?",
+        "question": " From the scene I offered to you,answer the question below.What details are critical to this watch?",
+        "answer": "Compelling storyline",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What details are critical to this watch?\" is, \"Compelling storyline\"."
+    },
+    {
+        "idx": 210,
+        "image": "Noun_54.png",
+        "en": "How can we build the block?",
+        "question": " From the scene I offered to you,answer the question below.How can we build the block?",
+        "answer": "City planning",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we build the block?\" is, \"City planning\"."
+    },
+    {
+        "idx": 211,
+        "image": "Noun_55.png",
+        "en": "How can we build the block?",
+        "question": " From the scene I offered to you,answer the question below.How can we build the block?",
+        "answer": "Interlocking",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we build the block?\" is, \"Interlocking\"."
+    },
+    {
+        "idx": 212,
+        "image": "Noun_56.png",
+        "en": "What can the bar be used for?",
+        "question": " From the scene I offered to you,answer the question below.What elements make this bar appealing?",
+        "answer": "serving food or drink",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can the bar be used for?\" is, \"serving food or drink\"."
+    },
+    {
+        "idx": 213,
+        "image": "Noun_57.png",
+        "en": "What can the bar be used for?",
+        "question": " From the scene I offered to you,answer the question below.What elements make this bar appealing?",
+        "answer": "Building Materials",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can the bar be used for?\" is, \"Building Materials\"."
+    },
+    {
+        "idx": 214,
+        "image": "Noun_58.png",
+        "en": "How can we use these files?",
+        "question": " From the scene I offered to you,answer the question below.How can we use these files?",
+        "answer": "Craftsmanship",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we use these files?\" is, \"Craftsmanship\"."
+    },
+    {
+        "idx": 215,
+        "image": "Noun_59.png",
+        "en": "How can we use these files?",
+        "question": " From the scene I offered to you,answer the question below.How can we use these files?",
+        "answer": "Organizing documents",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we use these files?\" is, \"Organizing documents\"."
+    },
+    {
+        "idx": 216,
+        "image": "Noun_60.png",
+        "en": "What can the hammer be used for?",
+        "question": " From the scene I offered to you,answer the question below.What can the hammer be used for?",
+        "answer": "Driving nails",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can the hammer be used for?\" is, \"Driving nails\"."
+    },
+    {
+        "idx": 217,
+        "image": "Noun_61.png",
+        "en": "What can the hammer be used for?",
+        "question": " From the scene I offered to you,answer the question below.What can the hammer be used for?",
+        "answer": "Creating music",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can the hammer be used for?\" is, \"Creating music\"."
+    },
+    {
+        "idx": 218,
+        "image": "Noun_62.png",
+        "en": "What can the bill be used for?",
+        "question": " From the scene I offered to you,answer the question below.What can the bill be used for?",
+        "answer": "Making payments",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can the bill be used for?\" is, \"Making payments\"."
+    },
+    {
+        "idx": 219,
+        "image": "Noun_63.png",
+        "en": "What can the bill be used for?",
+        "question": " From the scene I offered to you,answer the question below.What can the bill be used for?",
+        "answer": "Grasping food",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can the bill be used for?\" is, \"Grasping food\"."
+    },
+    {
+        "idx": 220,
+        "image": "Noun_64.png",
+        "en": "What value does this pound represent?",
+        "question": " From the scene I offered to you,answer the question below.What value does this pound represent?",
+        "answer": "Physical weight",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What value does this pound represent?\" is, \"Physical weight\"."
+    },
+    {
+        "idx": 221,
+        "image": "Noun_65.png",
+        "en": "What value does this pound represent?",
+        "question": " From the scene I offered to you,answer the question below.What value does this pound represent?",
+        "answer": "Monetary value",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What value does this pound represent?\" is, \"Monetary value\"."
+    },
+    {
+        "idx": 222,
+        "image": "Noun_66.png",
+        "en": "What function does a cap serve?",
+        "question": " From the scene I offered to you,answer the question below.What function does a cap serve?",
+        "answer": "Protecting the head",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What function does a cap serve?\" is, \"Protecting the head\"."
+    },
+    {
+        "idx": 223,
+        "image": "Noun_67.png",
+        "en": "What function does a cap serve?",
+        "question": " From the scene I offered to you,answer the question below.What function does a cap serve?",
+        "answer": "Controlling expenses",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What function does a cap serve?\" is, \"Controlling expenses\"."
+    },
+    {
+        "idx": 224,
+        "image": "Noun_68.png",
+        "en": "What are the challenges in maintaining this park?",
+        "question": " From the scene I offered to you,answer the question below.What are the challenges in maintaining this park?",
+        "answer": "Public safety",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What are the challenges in maintaining this park?\" is, \"Public safety\"."
+    },
+    {
+        "idx": 225,
+        "image": "Noun_69.png",
+        "en": "What are the challenges in maintaining this park?",
+        "question": " From the scene I offered to you,answer the question below.What are the challenges in maintaining this park?",
+        "answer": "Precision driving",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What are the challenges in maintaining this park?\" is, \"Precision driving\"."
+    },
+    {
+        "idx": 226,
+        "image": "Noun_70.png",
+        "en": "How can you use the arms to protect yourself?",
+        "question": " From the scene I offered to you,answer the question below.How can you use the arms to protect yourself?",
+        "answer": "By practicing martial arts",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can you use the arms to protect yourself?\" is, \"By practicing martial arts\"."
+    },
+    {
+        "idx": 227,
+        "image": "Noun_71.png",
+        "en": "How can you use the arms to protect yourself?",
+        "question": " From the scene I offered to you,answer the question below.How can you use the arms to protect yourself?",
+        "answer": "By loading them",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can you use the arms to protect yourself?\" is, \"By loading them\"."
+    },
+    {
+        "idx": 228,
+        "image": "Noun_72.png",
+        "en": "How can we best utilize the space on this table?",
+        "question": " From the scene I offered to you,answer the question below.How can we best utilize the space on this table?",
+        "answer": "By organizing a buffet",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we best utilize the space on this table?\" is, \"By organizing a buffet\"."
+    },
+    {
+        "idx": 229,
+        "image": "Noun_73.png",
+        "en": "How can we best utilize the space on this table?",
+        "question": " From the scene I offered to you,answer the question below.How can we best utilize the space on this table?",
+        "answer": "By improving its design with CSS",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we best utilize the space on this table?\" is, \"By improving its design with CSS\"."
+    },
+    {
+        "idx": 230,
+        "image": "Noun_74.png",
+        "en": "What effects will the fall bring?",
+        "question": " From the scene I offered to you,answer the question below.What effects will the fall bring?",
+        "answer": "Changing leaf colors",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What effects will the fall bring?\" is, \"Changing leaf colors\"."
+    },
+    {
+        "idx": 231,
+        "image": "Noun_75.png",
+        "en": "What effects will the fall bring?",
+        "question": " From the scene I offered to you,answer the question below.What effects will the fall bring?",
+        "answer": "Decreased market prices",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What effects will the fall bring?\" is, \"Decreased market prices\"."
+    },
+    {
+        "idx": 232,
+        "image": "Noun_76.png",
+        "en": "What is the significance of a letter in this context?",
+        "question": " From the scene I offered to you,answer the question below.What is the significance of a letter in this context?",
+        "answer": "Teaching a foreign language",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the significance of a letter in this context?\" is, \"Teaching a foreign language\"."
+    },
+    {
+        "idx": 233,
+        "image": "Noun_77.png",
+        "en": "What is the significance of a letter in this context?",
+        "question": " From the scene I offered to you,answer the question below.What is the significance of a letter in this context?",
+        "answer": "Expressing personal sentiments",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the significance of a letter in this context?\" is, \"Expressing personal sentiments\"."
+    },
+    {
+        "idx": 234,
+        "image": "Noun_78.png",
+        "en": "What is the antonym of right?",
+        "question": " From the scene I offered to you,answer the question below.What is the antonym of right? Can you explain the meaning \"right\" here?",
+        "answer": "Right, as in correct",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"right\".\". Based on the image, the answer to the disambiguation is \"Right, as in correct\"."
+    },
+    {
+        "idx": 235,
+        "image": "Noun_79.png",
+        "en": "What is the antonym of right?",
+        "question": " From the scene I offered to you,answer the question below.What is the antonym of right? Can you explain the meaning \"right\" here?",
+        "answer": "Right, as in direction",
+        "class": "Adjective Ambiguity",
+        "hint": "The ambiguity of the sentence is \"the meaning \"right\".\". Based on the image, the answer to the disambiguation is \"Right, as in direction\"."
+    },
+    {
+        "idx": 236,
+        "image": "Noun_82.png",
+        "en": "What adjustments can improve this pitch?",
+        "question": " From the scene I offered to you,answer the question below.What adjustments can improve this pitch?",
+        "answer": "Increasing the speed",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What adjustments can improve this pitch?\" is, \"Increasing the speed\"."
+    },
+    {
+        "idx": 237,
+        "image": "Noun_83.png",
+        "en": "What adjustments can improve this pitch?",
+        "question": " From the scene I offered to you,answer the question below.What adjustments can improve this pitch?",
+        "answer": "Changing the key",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What adjustments can improve this pitch?\" is, \"Changing the key\"."
+    },
+    {
+        "idx": 238,
+        "image": "Noun_84.png",
+        "en": "What aspects define the power of this jaguar?",
+        "question": " From the scene I offered to you,answer the question below.What aspects define the power of this jaguar?",
+        "answer": "Its hunting skills",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What aspects define the power of this jaguar?\" is, \"Its hunting skills\"."
+    },
+    {
+        "idx": 239,
+        "image": "Noun_85.png",
+        "en": "What aspects define the power of this jaguar?",
+        "question": " From the scene I offered to you,answer the question below.What aspects define the power of this jaguar?",
+        "answer": "Its horsepower and acceleration",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What aspects define the power of this jaguar?\" is, \"Its horsepower and acceleration\"."
+    },
+    {
+        "idx": 240,
+        "image": "Noun_86.png",
+        "en": "What are the key features of this turkey?",
+        "question": " From the scene I offered to you,answer the question below.What are the key features of this turkey?",
+        "answer": "Its rich historical sites",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What are the key features of this turkey?\" is, \"Its rich historical sites\"."
+    },
+    {
+        "idx": 241,
+        "image": "Noun_87.png",
+        "en": "What are the key features of this turkey?",
+        "question": " From the scene I offered to you,answer the question below.What are the key features of this turkey?",
+        "answer": "Its colorful feathers",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What are the key features of this turkey?\" is, \"Its colorful feathers\"."
+    },
+    {
+        "idx": 242,
+        "image": "Noun_88.png",
+        "en": "How can we best use a clip in this project?",
+        "question": " From the scene I offered to you,answer the question below.How can we best use a clip in this project?",
+        "answer": "To keep the papers organized",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we best use a clip in this project?\" is, \"To keep the papers organized\"."
+    },
+    {
+        "idx": 243,
+        "image": "Noun_89.png",
+        "en": "How can we best use a clip in this project?",
+        "question": " From the scene I offered to you,answer the question below.How can we best use a clip in this project?",
+        "answer": "To enhance our movie's storyline",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we best use a clip in this project?\" is, \"To enhance our movie's storyline\"."
+    },
+    {
+        "idx": 244,
+        "image": "Noun_92.png",
+        "en": "How can we use the paste effectively?",
+        "question": " From the scene I offered to you,answer the question below.How can we use the paste effectively?",
+        "answer": "By brushing it onto paper as adhesive",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we use the paste effectively?\" is, \"By brushing it onto paper as adhesive\"."
+    },
+    {
+        "idx": 245,
+        "image": "Noun_93.png",
+        "en": "How can we use the paste effectively?",
+        "question": " From the scene I offered to you,answer the question below.How can we use the paste effectively?",
+        "answer": "To thicken a sauce",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we use the paste effectively?\" is, \"To thicken a sauce\"."
+    },
+    {
+        "idx": 246,
+        "image": "Noun_94.png",
+        "en": "What is the role of a server?",
+        "question": " From the scene I offered to you,answer the question below.What is the role of a server?",
+        "answer": "To facilitate data storage",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the role of a server?\" is, \"To facilitate data storage\"."
+    },
+    {
+        "idx": 247,
+        "image": "Noun_95.png",
+        "en": "What is the role of a server?",
+        "question": " From the scene I offered to you,answer the question below.What is the role of a server?",
+        "answer": "To ensure a pleasant dining experience",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the role of a server?\" is, \"To ensure a pleasant dining experience\"."
+    },
+    {
+        "idx": 248,
+        "image": "Noun_96.png",
+        "en": "How does the web play a crucial role?",
+        "question": " From the scene I offered to you,answer the question below.How does the web play a crucial role?",
+        "answer": "By catching prey for spiders",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How does the web play a crucial role?\" is, \"By catching prey for spiders\"."
+    },
+    {
+        "idx": 249,
+        "image": "Noun_97.png",
+        "en": "How does the web play a crucial role?",
+        "question": " From the scene I offered to you,answer the question below.How does the web play a crucial role?",
+        "answer": "By connecting billions of devices worldwide",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How does the web play a crucial role?\" is, \"By connecting billions of devices worldwide\"."
+    },
+    {
+        "idx": 250,
+        "image": "Noun_98.png",
+        "en": "What is the significance of the transformer?",
+        "question": " From the scene I offered to you,answer the question below.What is the significance of the transformer?",
+        "answer": "Reducing power supply to protect appliances",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the significance of the transformer?\" is, \"Reducing power supply to protect appliances\"."
+    },
+    {
+        "idx": 251,
+        "image": "Noun_100.png",
+        "en": "What is the significance of the transformer?",
+        "question": " From the scene I offered to you,answer the question below.What is the significance of the transformer?",
+        "answer": "Improving natural language processing tasks",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the significance of the transformer?\" is, \"Improving natural language processing tasks\"."
+    },
+    {
+        "idx": 252,
+        "image": "Noun_103.png",
+        "en": "What is this plot primarily used for?",
+        "question": " From the scene I offered to you,answer the question below.What is this plot primarily used for?",
+        "answer": "Developing characters",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is this plot primarily used for?\" is, \"Developing characters\"."
+    },
+    {
+        "idx": 253,
+        "image": "Noun_104.png",
+        "en": "What is this plot primarily used for?",
+        "question": " From the scene I offered to you,answer the question below.What is this plot primarily used for?",
+        "answer": "Gardening",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is this plot primarily used for?\" is, \"Gardening\"."
+    },
+    {
+        "idx": 254,
+        "image": "Noun_105.png",
+        "en": "What is this port used for?",
+        "question": " From the scene I offered to you,answer the question below.What is this port used for?",
+        "answer": "Shipping goods",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is this port used for?\" is, \"Shipping goods\"."
+    },
+    {
+        "idx": 255,
+        "image": "Noun_106.png",
+        "en": "What is this port used for?",
+        "question": " From the scene I offered to you,answer the question below.What is this port used for?",
+        "answer": "Connecting devices",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is this port used for?\" is, \"Connecting devices\"."
+    },
+    {
+        "idx": 256,
+        "image": "Noun_107.png",
+        "en": "What is the square used for?",
+        "question": " From the scene I offered to you,answer the question below.What is the square used for?",
+        "answer": "Measuring area",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the square used for?\" is, \"Measuring area\"."
+    },
+    {
+        "idx": 257,
+        "image": "Noun_108.png",
+        "en": "What is a square used for?",
+        "question": " From the scene I offered to you,answer the question below.What is a square used for?",
+        "answer": "Gathering people",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is a square used for?\" is, \"Gathering people\"."
+    },
+    {
+        "idx": 258,
+        "image": "Noun_109.png",
+        "en": "What is the purpose of a stalk?",
+        "question": " From the scene I offered to you,answer the question below.What is the purpose of a stalk?",
+        "answer": "Providing support",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the purpose of a stalk?\" is, \"Providing support\"."
+    },
+    {
+        "idx": 259,
+        "image": "Noun_110.png",
+        "en": "What is the purpose of a stalk?",
+        "question": " From the scene I offered to you,answer the question below.What is the purpose of a stalk?",
+        "answer": "Observing secretly",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the purpose of a stalk?\" is, \"Observing secretly\"."
+    },
+    {
+        "idx": 260,
+        "image": "Noun_113.png",
+        "en": "What does a trip involve?",
+        "question": " From the scene I offered to you,answer the question below.What does a trip involve?",
+        "answer": "Falling down",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does a trip involve?\" is, \"Falling down\"."
+    },
+    {
+        "idx": 261,
+        "image": "Noun_114.png",
+        "en": "What does a trip involve?",
+        "question": " From the scene I offered to you,answer the question below.What does a trip involve?",
+        "answer": "Exploring new places",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does a trip involve?\" is, \"Exploring new places\"."
+    },
+    {
+        "idx": 262,
+        "image": "Noun_115.png",
+        "en": "How can we create a good vault?",
+        "question": " From the scene I offered to you,answer the question below.How can we create a good vault?",
+        "answer": "use durable materials",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we create a good vault?\" is, \"use durable materials\"."
+    },
+    {
+        "idx": 263,
+        "image": "Noun_116.png",
+        "en": "How can we create a good vault?",
+        "question": " From the scene I offered to you,answer the question below.How can we create a good vault?",
+        "answer": "Improving technique",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How can we create a good vault?\" is, \"Improving technique\"."
+    },
+    {
+        "idx": 264,
+        "image": "Noun_117.png",
+        "en": "How to deal with the virus?",
+        "question": " From the scene I offered to you,answer the question below.How to deal with the virus?",
+        "answer": "Vaccination",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How to deal with the virus?\" is, \"Vaccination\"."
+    },
+    {
+        "idx": 265,
+        "image": "Noun_118.png",
+        "en": "How to deal with the virus?",
+        "question": " From the scene I offered to you,answer the question below.How to deal with the virus?",
+        "answer": "Antivirus software",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"How to deal with the virus?\" is, \"Antivirus software\"."
+    },
+    {
+        "idx": 266,
+        "image": "Noun_123.png",
+        "en": "What is a beam used for?",
+        "question": " From the scene I offered to you,answer the question below.What is a beam used for?",
+        "answer": "Illuminating spaces",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is a beam used for?\" is, \"Illuminating spaces\"."
+    },
+    {
+        "idx": 267,
+        "image": "Noun_124.png",
+        "en": "What is a beam used for?",
+        "question": " From the scene I offered to you,answer the question below.What is a beam used for?",
+        "answer": "Supporting structures",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is a beam used for?\" is, \"Supporting structures\"."
+    },
+    {
+        "idx": 268,
+        "image": "Noun_125.png",
+        "en": "What is the purpose of a branch?",
+        "question": " From the scene I offered to you,answer the question below.What is the purpose of a branch?",
+        "answer": "Conducting nutrients",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the purpose of a branch?\" is, \"Conducting nutrients\"."
+    },
+    {
+        "idx": 269,
+        "image": "Noun_126.png",
+        "en": "What is the purpose of a branch?",
+        "question": " From the scene I offered to you,answer the question below.What is the purpose of a branch?",
+        "answer": "Distributing resources",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What is the purpose of a branch?\" is, \"Distributing resources\"."
+    },
+    {
+        "idx": 270,
+        "image": "Noun_127.png",
+        "en": "What does a charge involve?",
+        "question": " From the scene I offered to you,answer the question below.What does a charge involve?",
+        "answer": "Paying fees",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does a charge involve?\" is, \"Paying fees\"."
+    },
+    {
+        "idx": 271,
+        "image": "Noun_128.png",
+        "en": "What does a charge involve?",
+        "question": " From the scene I offered to you,answer the question below.What does a charge involve?",
+        "answer": "Storing energy",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does a charge involve?\" is, \"Storing energy\"."
+    },
+    {
+        "idx": 272,
+        "image": "Noun_129.png",
+        "en": "What does a check involve?",
+        "question": " From the scene I offered to you,answer the question below.What does a check involve?",
+        "answer": "Confirming details",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does a check involve?\" is, \"Confirming details\"."
+    },
+    {
+        "idx": 273,
+        "image": "Noun_130.png",
+        "en": "What does a check involve?",
+        "question": " From the scene I offered to you,answer the question below.What does a check involve?",
+        "answer": "Making a payment",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does a check involve?\" is, \"Making a payment\"."
+    },
+    {
+        "idx": 274,
+        "image": "Noun_131.png",
+        "en": "What does a fan do?",
+        "question": " From the scene I offered to you,answer the question below.What does a fan do?",
+        "answer": "Cool rooms",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does a fan do?\" is, \"Cool rooms\"."
+    },
+    {
+        "idx": 275,
+        "image": "Noun_132.png",
+        "en": "What does a fan do?",
+        "question": " From the scene I offered to you,answer the question below.What does a fan do?",
+        "answer": "Support publicly",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does a fan do?\" is, \"Support publicly\"."
+    },
+    {
+        "idx": 276,
+        "image": "Noun_133.png",
+        "en": "What are the key components of a jam?",
+        "question": " From the scene I offered to you,answer the question below.What are the key components of a jam?",
+        "answer": "Fresh fruit",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What are the key components of a jam?\" is, \"Fresh fruit\"."
+    },
+    {
+        "idx": 277,
+        "image": "Noun_134.png",
+        "en": "What are the key components of a jam?",
+        "question": " From the scene I offered to you,answer the question below.What are the key components of a jam?",
+        "answer": "Musical harmony",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What are the key components of a jam?\" is, \"Musical harmony\"."
+    },
+    {
+        "idx": 278,
+        "image": "Noun_139.png",
+        "en": "What can a line be used for?",
+        "question": " From the scene I offered to you,answer the question below.What can a line be used for?",
+        "answer": "Holding items together",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can a line be used for?\" is, \"Holding items together\"."
+    },
+    {
+        "idx": 279,
+        "image": "Noun_140.png",
+        "en": "What can a line be used for?",
+        "question": " From the scene I offered to you,answer the question below.What can a line be used for?",
+        "answer": "Organizing people",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What can a line be used for?\" is, \"Organizing people\"."
+    },
+    {
+        "idx": 280,
+        "image": "Noun_141.png",
+        "en": "What does mint involve?",
+        "question": " From the scene I offered to you,answer the question below.What does mint involve?",
+        "answer": "Flavoring food",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does mint involve?\" is, \"Flavoring food\"."
+    },
+    {
+        "idx": 281,
+        "image": "Noun_142.png",
+        "en": "What does mint involve?",
+        "question": " From the scene I offered to you,answer the question below.What does mint involve?",
+        "answer": "Producing currency",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does mint involve?\" is, \"Producing currency\"."
+    },
+    {
+        "idx": 282,
+        "image": "Noun_147.png",
+        "en": "What does race involve?",
+        "question": " From the scene I offered to you,answer the question below.What does race involve?",
+        "answer": "Running",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does race involve?\" is, \"Running\"."
+    },
+    {
+        "idx": 283,
+        "image": "Noun_148.png",
+        "en": "What does race involve?",
+        "question": " From the scene I offered to you,answer the question below.What does race involve?",
+        "answer": "Cultural identity",
+        "class": "Noun Ambiguity",
+        "hint": "The disambiguation answer to the question \"What does race involve?\" is, \"Cultural identity\"."
+    },
+    {
+        "idx": 284,
+        "image": "Sentence_0.png",
+        "en": "He's going to break the record.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"He's going to break the record.\" here?",
+        "answer": "He will achieve a new sports record.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He will achieve a new sports record.\"."
+    },
+    {
+        "idx": 285,
+        "image": "Sentence_1.png",
+        "en": "He's going to break the record.",
+        "question": "From the image I offered to you, How do you undertand the sentence \"He's going to break the record.\" here?",
+        "answer": "He will damage a music record.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He will damage a music record.\"."
+    },
+    {
+        "idx": 286,
+        "image": "Sentence_2.png",
+        "en": "She caught a cold turkey.",
+        "question": "From the image I offered to you, how do you understand the sentence \"She caught a cold turkey.\" here?",
+        "answer": "She suddenly stopped an addictive behavior.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"She suddenly stopped an addictive behavior.\"."
+    },
+    {
+        "idx": 287,
+        "image": "Sentence_59.png",
+        "en": "She caught a cold turkey.",
+        "question": "From the image I offered to you, how do you understand the sentence \"She caught a cold turkey.\" here?",
+        "answer": "She literally caught a cold turkey.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"She literally caught a cold turkey.\"."
+    },
+    {
+        "idx": 288,
+        "image": "Sentence_3.png",
+        "en": "He's looking into it.",
+        "question": "From the image I offered to you, how do you understand the sentence \"He's looking into it.\" here?",
+        "answer": "He is investigating something.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He is investigating something.\"."
+    },
+    {
+        "idx": 289,
+        "image": "Sentence_4.png",
+        "en": "He's looking into it.",
+        "question": "From the image I offered to you, how do you understand the sentence \"He's looking into it.\" here?",
+        "answer": "He is looking through a window at items in a store.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He is looking through a window at items in a store.\"."
+    },
+    {
+        "idx": 290,
+        "image": "Sentence_5.png",
+        "en": "Let's wrap this up.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Let's wrap this up.\" here?",
+        "answer": "Let's conclude this discussion.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Let's conclude this discussion.\"."
+    },
+    {
+        "idx": 291,
+        "image": "Sentence_6.png",
+        "en": "Let's wrap this up.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Let's wrap this up.\" here?",
+        "answer": "Let's finish wrapping the gift.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Let's finish wrapping the gift.\"."
+    },
+    {
+        "idx": 292,
+        "image": "Sentence_7.png",
+        "en": "Drop the ball.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Drop the ball.\" here?",
+        "answer": "It's time for the New Year's Eve ball drop.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"It's time for the New Year's Eve ball drop.\"."
+    },
+    {
+        "idx": 293,
+        "image": "Sentence_8.png",
+        "en": "Drop the ball.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Drop the ball.\" here?",
+        "answer": "Make a mistake.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Make a mistake.\"."
+    },
+    {
+        "idx": 294,
+        "image": "Sentence_9.png",
+        "en": "He's really moving up.",
+        "question": "From the image I offered to you, how do you understand the sentence \"He's really moving up.\" here?",
+        "answer": "He's getting promotions at work.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He's getting promotions at work.\"."
+    },
+    {
+        "idx": 295,
+        "image": "Sentence_10.png",
+        "en": "He's really moving up.",
+        "question": "From the image I offered to you, how do you understand the sentence \"He's really moving up.\" here?",
+        "answer": "He's physically climbing a mountain.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He's physically climbing a mountain.\"."
+    },
+    {
+        "idx": 296,
+        "image": "Sentence_13.png",
+        "en": "It's really cool.",
+        "question": "From the image I offered to you, how do you understand the sentence \"It's really cool.\" here?",
+        "answer": "It's very cold outside.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"It's very cold outside.\"."
+    },
+    {
+        "idx": 297,
+        "image": "Sentence_14.png",
+        "en": "It's really cool.",
+        "question": "From the image I offered to you, how do you understand the sentence \"It's really cool.\" here?",
+        "answer": "It's impressive.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"It's impressive.\"."
+    },
+    {
+        "idx": 298,
+        "image": "Sentence_15.png",
+        "en": "This is nuts!",
+        "question": "From the image I offered to you, how do you understand the sentence \"This is nuts!\" here?",
+        "answer": "This is a plate of nuts.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"This is a plate of nuts.\"."
+    },
+    {
+        "idx": 299,
+        "image": "Sentence_16.png",
+        "en": "This is nuts!",
+        "question": "From the image I offered to you, how do you understand the sentence \"This is nuts!\" here?",
+        "answer": "This is completely crazy.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"This is completely crazy.\"."
+    },
+    {
+        "idx": 300,
+        "image": "Sentence_19.png",
+        "en": "She's totally spaced out.",
+        "question": "From the image I offered to you, how do you understand the sentence \"She's totally spaced out.\" here?",
+        "answer": "She is daydreaming and not paying attention.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"She is daydreaming and not paying attention.\"."
+    },
+    {
+        "idx": 301,
+        "image": "Sentence_20.png",
+        "en": "She's totally spaced out.",
+        "question": "From the image I offered to you, how do you understand the sentence \"She's totally spaced out.\" here?",
+        "answer": "She is floating in space on a mission.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"She is floating in space on a mission.\"."
+    },
+    {
+        "idx": 302,
+        "image": "Sentence_21.png",
+        "en": "Break the ice.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Break the ice.\" here?",
+        "answer": "To start a conversation and reduce tension.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"To start a conversation and reduce tension.\"."
+    },
+    {
+        "idx": 303,
+        "image": "Sentence_22.png",
+        "en": "Break the ice.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Break the ice.\" here?",
+        "answer": "To start a conversation and reduce tension.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"To start a conversation and reduce tension.\"."
+    },
+    {
+        "idx": 304,
+        "image": "Sentence_23.png",
+        "en": "It's all hands on deck.",
+        "question": "From the image I offered to you, how do you understand the sentence \"It's all hands on deck.\" here?",
+        "answer": "Everyone needs to participate in the task.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Everyone needs to participate in the task.\"."
+    },
+    {
+        "idx": 305,
+        "image": "Sentence_24.png",
+        "en": "It's all hands on deck.",
+        "question": "From the image I offered to you, how do you understand the sentence \"It's all hands on deck.\" here?",
+        "answer": "Everyone needs to come to the deck of the ship.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Everyone needs to come to the deck of the ship.\"."
+    },
+    {
+        "idx": 306,
+        "image": "Sentence_25.png",
+        "en": "You're in the driver's seat now.",
+        "question": "From the image I offered to you, how do you understand the sentence \"You're in the driver's seat now.\" here?",
+        "answer": "You are now in control and making decisions.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"You are now in control and making decisions.\"."
+    },
+    {
+        "idx": 307,
+        "image": "Sentence_26.png",
+        "en": "You're in the driver's seat now.",
+        "question": "From the image I offered to you, how do you understand the sentence \"You're in the driver's seat now.\" here?",
+        "answer": "You are literally sitting in the driver's seat.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"You are literally sitting in the driver's seat.\"."
+    },
+    {
+        "idx": 308,
+        "image": "Sentence_27.png",
+        "en": "She's really spinning her wheels.",
+        "question": "From the image I offered to you, how do you understand the sentence \"She's really spinning her wheels.\" here?",
+        "answer": "She is working hard but not making progress.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"She is working hard but not making progress.\"."
+    },
+    {
+        "idx": 309,
+        "image": "Sentence_28.png",
+        "en": "She's really spinning her wheels.",
+        "question": "From the image I offered to you, how do you understand the sentence \"She's really spinning her wheels.\" here?",
+        "answer": "She is literally spinning the wheels of a car stuck in mud.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"She is literally spinning the wheels of a car stuck in mud.\"."
+    },
+    {
+        "idx": 310,
+        "image": "Sentence_29.png",
+        "en": "Drop me a line.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Drop me a line.\" here?",
+        "answer": "Request someone to send a message or email.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Request someone to send a message or email.\"."
+    },
+    {
+        "idx": 311,
+        "image": "Sentence_30.png",
+        "en": "Drop me a line.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Drop me a line.\" here?",
+        "answer": "Drop a fishing line into the water.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Drop a fishing line into the water.\"."
+    },
+    {
+        "idx": 312,
+        "image": "Sentence_31.png",
+        "en": "Let's iron out the details.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Let's iron out the details.\" here?",
+        "answer": "Discuss and resolve small issues in a plan.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Discuss and resolve small issues in a plan.\"."
+    },
+    {
+        "idx": 313,
+        "image": "Sentence_32.png",
+        "en": "Let's iron out the details.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Let's iron out the details.\" here?",
+        "answer": "Ensure clothes are wrinkle-free.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Ensure clothes are wrinkle-free.\"."
+    },
+    {
+        "idx": 314,
+        "image": "Sentence_33.png",
+        "en": "Time to face the music.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Time to face the music.\" here?",
+        "answer": "Time to face the criticism.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Time to face the criticism.\"."
+    },
+    {
+        "idx": 315,
+        "image": "Sentence_34.png",
+        "en": "Time to face the music.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Time to face the music.\" here?",
+        "answer": "Get ready to play an instrument.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Get ready to play an instrument.\"."
+    },
+    {
+        "idx": 316,
+        "image": "Sentence_35.png",
+        "en": "I'm drawing a blank.",
+        "question": "From the image I offered to you, how do you understand the sentence \"I'm drawing a blank.\" here?",
+        "answer": "I am trying to remember something but cannot.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"I am trying to remember something but cannot.\"."
+    },
+    {
+        "idx": 317,
+        "image": "Sentence_36.png",
+        "en": "I'm drawing a blank.",
+        "question": "From the image I offered to you, how do you understand the sentence \"I'm drawing a blank.\" here?",
+        "answer": "I am starting a new drawing on a blank canvas.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"I am starting a new drawing on a blank canvas.\"."
+    },
+    {
+        "idx": 318,
+        "image": "Sentence_37.png",
+        "en": "Hold your horses.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Hold your horses.\" here?",
+        "answer": "Ask someone to be patient.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Ask someone to be patient.\"."
+    },
+    {
+        "idx": 319,
+        "image": "Sentence_38.png",
+        "en": "Hold your horses.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Hold your horses.\" here?",
+        "answer": "Control the horses in an equestrian setting.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Control the horses in an equestrian setting.\"."
+    },
+    {
+        "idx": 320,
+        "image": "Sentence_39.png",
+        "en": "Throwing some shade.",
+        "question": "From the image I offered to you, how do you understand the sentence \"throwing some shade.\" here?",
+        "answer": "Making an indirect insult.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Making an indirect insult.\"."
+    },
+    {
+        "idx": 321,
+        "image": "Sentence_40.png",
+        "en": "Throwing some shade.",
+        "question": "From the image I offered to you, how do you understand the sentence \"throwing some shade.\" here?",
+        "answer": "Providing shade by planting trees.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Providing shade by planting trees.\"."
+    },
+    {
+        "idx": 322,
+        "image": "Sentence_41.png",
+        "en": "We're under fire.",
+        "question": "From the image I offered to you, how do you understand the sentence \"We're under fire.\" here?",
+        "answer": "We are being attacked with gunfire or artillery.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"We are being attacked with gunfire or artillery.\"."
+    },
+    {
+        "idx": 323,
+        "image": "Sentence_42.png",
+        "en": "We're under fire.",
+        "question": "From the image I offered to you, how do you understand the sentence \"We're under fire.\" here?",
+        "answer": "We are facing harsh criticism or pressure.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"We are facing harsh criticism or pressure.\"."
+    },
+    {
+        "idx": 324,
+        "image": "Sentence_43.png",
+        "en": "Put a pin in that.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Put a pin in that.\" here?",
+        "answer": "Temporarily set aside a topic for later discussion.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Temporarily set aside a topic for later discussion.\"."
+    },
+    {
+        "idx": 325,
+        "image": "Sentence_44.png",
+        "en": "Put a pin in that.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Put a pin in that.\" here?",
+        "answer": "Put a decorative pin on clothing.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Put a decorative pin on clothing.\"."
+    },
+    {
+        "idx": 326,
+        "image": "Sentence_45.png",
+        "en": "Don't spill the beans.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Don't spill the beans.\" here?",
+        "answer": "Avoid revealing a secret.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Avoid revealing a secret.\"."
+    },
+    {
+        "idx": 327,
+        "image": "Sentence_46.png",
+        "en": "Don't spill the beans.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Don't spill the beans.\" here?",
+        "answer": "Ensure beans do not fall out while cooking.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Ensure beans do not fall out while cooking.\"."
+    },
+    {
+        "idx": 328,
+        "image": "Sentence_47.png",
+        "en": "He's in hot water.",
+        "question": "From the image I offered to you, how do you understand the sentence \"He's in hot water.\" here?",
+        "answer": "He is in trouble because of his actions.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He is in trouble because of his actions.\"."
+    },
+    {
+        "idx": 329,
+        "image": "Sentence_48.png",
+        "en": "He's in hot water.",
+        "question": "From the image I offered to you, how do you understand the sentence \"He's in hot water.\" here?",
+        "answer": "He is taking a hot bath.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He is taking a hot bath.\"."
+    },
+    {
+        "idx": 330,
+        "image": "Sentence_49.png",
+        "en": "Time to wind down.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Time to wind down.\" here?",
+        "answer": "End the workday and start to relax.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"End the workday and start to relax.\"."
+    },
+    {
+        "idx": 331,
+        "image": "Sentence_50.png",
+        "en": "Time to wind down.",
+        "question": "From the image I offered to you, how do you understand the sentence \"Time to wind down.\" here?",
+        "answer": "Release the tension of mechanical springs.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"Release the tension of mechanical springs.\"."
+    },
+    {
+        "idx": 332,
+        "image": "Sentence_55.png",
+        "en": "He's running on empty.",
+        "question": "From the image I offered to you, how do you understand the sentence \"He's running on empty.\" here?",
+        "answer": "He is feeling extremely tired and exhausted.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He is feeling extremely tired and exhausted.\"."
+    },
+    {
+        "idx": 333,
+        "image": "Sentence_56.png",
+        "en": "He's running on empty.",
+        "question": "From the image I offered to you, how do you understand the sentence \"He's running on empty.\" here?",
+        "answer": "He is driving with an almost empty gas tank.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"He is driving with an almost empty gas tank.\"."
+    },
+    {
+        "idx": 334,
+        "image": "Sentence_57.png",
+        "en": "This is ground-breaking.",
+        "question": "From the image I offered to you, how do you understand the sentence \"This is ground-breaking.\" here?",
+        "answer": "This is a new and innovative achievement.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"This is a new and innovative achievement.\"."
+    },
+    {
+        "idx": 335,
+        "image": "Sentence_58.png",
+        "en": "This is ground-breaking.",
+        "question": "From the image I offered to you, how do you understand the sentence \"This is ground-breaking.\" here?",
+        "answer": "This is the start of a construction project.",
+        "class": "Pragmatic Ambiguity",
+        "hint": "With the visual evidence, the correct disambiguation meaning of this sentence should be: \"This is the start of a construction project.\"."
+    }
+]

@@ -55,10 +55,11 @@ Input:
   1. A single English caption (text).
   2. One images that show the scene the caption describes.
   3. Ambiguity type of the caption
+  4. Disambiguate hints
 
 Your task:
   - Look at BOTH the text and the image(s). 
-  - Disambiguate the caption and produce the most accurate, fluent Chinese translation. 
+  - Use the visual evidence and disambiguate hints to accurately disambiguate and translate the caption into Chinese.
   - Briefly state which ambiguity was resolved by the visual evidence.
 
 Output JSON (Chinese UTF‑8):
@@ -77,6 +78,7 @@ Rules:
 user_prompt = """
 Caption: "{english_caption}"
 Ambiguity type: {ambiguity_type}
+Disambiguate hints: {disambiguate_hints}
 """
 
 def find_ambi(ref):
@@ -85,7 +87,8 @@ def find_ambi(ref):
   result = []
 
   for item in tqdm.tqdm(data):
-    text = user_prompt.format(english_caption=item["en"], ambiguity_type=item["class"])
+    hint = item["hint"]
+    text = user_prompt.format(english_caption=item["en"], ambiguity_type=item["class"], disambiguate_hints=hint)
     idx = item["idx"]
     image = image_folder + item["image"]
 
@@ -136,10 +139,10 @@ if __name__ == "__main__":
 
   today=datetime.date.today()
 
-  root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/mma翻译-{today}/"
+  root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/mma翻译_v2-{today}/"
   Path(root).mkdir(parents=True, exist_ok=True)
-  image_folder = "/mnt/workspace/xintong/pjh/dataset/MMA/"
+  image_folder = "/mnt/workspace/xintong/pjh/dataset/MMA/MMA/"
   
-  file = "../data/mma.json"
+  file = "../data/mma_hint.json"
   print("file ", file)
   find_ambi(file)

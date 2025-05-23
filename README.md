@@ -5,6 +5,9 @@
 2. API 存放api代码以及结果
 
 ## 日志
+### 2025年5月23日
+- cd到API目录下，运行`python api_gpt4o_mma_zh.py`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/mma翻译_v2-{today}/`
+
 ### 2025年5月21日
 - cd到API目录下，找具体翻译词。运行代码是`python api_qwenvl_specific_words.py`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qwenvl_找具体词-{today}/`
 - cd到API目录下，找二级歧义词。运行代码是`python api_qwen_two_level.py`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qwen_max判断二级歧义-{today}/`
