@@ -141,7 +141,7 @@ if __name__ == "__main__":
 
   root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/mma翻译_v2-{today}/"
   Path(root).mkdir(parents=True, exist_ok=True)
-  image_folder = "/mnt/workspace/xintong/pjh/dataset/MMA/MMA/"
+  image_folder = "/mnt/workspace/xintong/pjh/dataset/MMA/"
   
   file = "../data/mma_hint.json"
   print("file ", file)
