@@ -5,6 +5,9 @@
 2. API 存放api代码以及结果
 
 ## 日志
+### 2025年5月24日
+- MMA找歧义词标签。cd到API目录下，运行`python api_ambi_sense.py`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/gpt4o找mma歧义-{today}/`
+
 ### 2025年5月23日
 - cd到API目录下，运行`python api_gpt4o_mma_zh.py`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/mma翻译_v2-{today}/`
 
