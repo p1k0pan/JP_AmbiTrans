@@ -279,8 +279,8 @@ if __name__ == "__main__":
     image_folder = "/mnt/workspace/xintong/ambi_plus/3am_images/"
 
     files = [
-        "../data/图文匹配/test_plus_图文匹配.json",
-        "../data/图文匹配/val_plus_图文匹配.json",
+        "../data/图文匹配/test_result_true_noov.json",
+        "../data/图文匹配/val_result_true_noov.json",
     ]
     if terminal == 1:
         for file in files:
@@ -290,24 +290,22 @@ if __name__ == "__main__":
     elif terminal == 2:
         i = 1
         print("train part 1")
-        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")
+        find_ambi(f"../data/图文匹配/train_result_true_noov_part_{i}.json")
     
     elif terminal == 3:
         i = 2
         print("train part 2")
-        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")
+        find_ambi(f"../data/图文匹配/train_result_true_noov_part_{i}.json")
     
     elif terminal == 4:
         i = 3
         print("train part 3")
-        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")
-    
+        find_ambi(f"../data/图文匹配/train_result_true_noov_part_{i}.json")
     elif terminal == 5:
         i = 4
         print("train part 4")
-        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")
-    
+        find_ambi(f"../data/图文匹配/train_result_true_noov_part_{i}.json")
     elif terminal == 6:
         i = 5
         print("train part 5")
-        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")
+        find_ambi(f"../data/图文匹配/train_result_true_noov_part_{i}.json")
