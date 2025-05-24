@@ -5,6 +5,9 @@
 2. API 存放api代码以及结果
 
 ## 日志
+### 2025年5月25日
+- 两段歧义。cd到API目录下，开6个terminal，分别运行`python api_qwen_two_level.py --terminal 1-6`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qwen_max判断二级歧义_v2-{today}/`
+
 ### 2025年5月24日
 - MMA找歧义词标签。cd到API目录下，运行`python api_ambi_sense.py`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/gpt4o找mma歧义-{today}/`
 

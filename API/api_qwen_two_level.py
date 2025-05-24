@@ -65,7 +65,7 @@ Return a JSON object like this:
         "<Chinese meaning 1>": ["...", "..."],
         "<Chinese meaning 2>": ["...", "..."]
       },
-      "explain": "<brief English explanation of how the meanings differ and how they could be specified with image context>"
+      "explain": "<brief Chinese explanation of how the meanings differ and how they could be specified with image context>"
     }
   ]
 }
@@ -132,6 +132,88 @@ Expected output:
 
 Now analyze the following sentence and return only the JSON result.
 '''
+
+text_prompt2 = '''
+You are given an English sentence that describes an image (a caption). Your task is to identify whether it contains any **second-level ambiguous nouns** that could cause semantic ambiguity when translating into Chinese.
+
+A **second-level ambiguous noun** is defined as:
+
+1. A word that has **two or more completely unrelated meanings** in English;
+2. Each meaning corresponds to a **different Chinese translation**;
+3. Each Chinese translation could be **further specified** if image context were available;
+4. The ambiguity exists in the sentence itself — not caused by visual information;
+5. The purpose is to detect words where translation **accuracy** depends on image context.
+
+Do **NOT** include:
+- Verbs, adjectives, or other non-nouns.
+- Nouns with only one core meaning (e.g., "flag" → "旗帜");
+- Nouns that are vague but not ambiguous (e.g., "object", "thing").
+
+---
+
+### Output format:
+Return a JSON object like this:
+
+{
+  "has_2nd_level_ambiguity": true or false,
+  "ambiguous_terms": [
+    {
+      "term": "<original word>",
+      "translations": ["<Chinese meaning 1>", "<Chinese meaning 2>"],
+      "possible_specific_translations": {
+        "<Chinese meaning 1>": ["...", "..."],
+        "<Chinese meaning 2>": ["...", "..."]
+      },
+      "explain": "<brief Chinese explanation of how the meanings differ and how they could be specified with image context>"
+    }
+  ]
+}
+
+If no such ambiguous words are found, return:
+
+{
+  "has_2nd_level_ambiguity": false,
+  "ambiguous_terms": []
+}
+
+---
+
+### Examples:
+
+#### Example 1:
+Sentence: "The engineer adjusted the instruments on the panel."
+
+Expected output:
+{
+  "has_2nd_level_ambiguity": true,
+  "ambiguous_terms": [
+    {
+      "term": "instruments",
+      "translations": ["仪器", "乐器"],
+      "possible_specific_translations": {
+        "仪器": ["温度计", "电压表", "传感器"],
+        "乐器": ["小提琴", "吉他", "萨克斯"]
+      },
+      "explain": "这个词'instruments'可以指科学工具（仪器）或音乐设备（乐器），每种乐器都可以在视觉上进行更具体的识别。"
+    }
+  ]
+}
+
+#### Example 2:
+Sentence: "A man waves a flag near the river."
+
+Expected output:
+{
+  "has_2nd_level_ambiguity": false,
+  "ambiguous_terms": [],
+  "explain": "这个句子中的'flag'没有二级歧义，因为它在上下文中明确指代旗帜，没有其他含义。"
+}
+
+---
+
+Now analyze the following sentence and return only the JSON result.
+'''
+
 user_input = """
 En: {en}
 """
@@ -149,7 +231,7 @@ def find_ambi(ref):
 
         for sleep_time in sleep_times:
             try:
-                outputs = call_api(text,text_prompt)
+                outputs = call_api(text,text_prompt2)
                 break  # 成功调用时跳出循环
             except Exception as e:
                 last_error = e  # 记录最后一次错误
@@ -192,15 +274,40 @@ if __name__ == "__main__":
 
     today=datetime.date.today()
 
-    root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qwen_max判断二级歧义-{today}/"
+    root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qwen_max判断二级歧义_v2-{today}/"
     Path(root).mkdir(parents=True, exist_ok=True)
     image_folder = "/mnt/workspace/xintong/ambi_plus/3am_images/"
 
     files = [
         "../data/图文匹配/test_plus_图文匹配.json",
         "../data/图文匹配/val_plus_图文匹配.json",
-        "../data/图文匹配/train_plus_图文匹配.json",
     ]
-    for file in files:
-        print("file ", file)
-        find_ambi(file)
+    if terminal == 1:
+        for file in files:
+            print("file ", file)
+            find_ambi(file)
+    
+    elif terminal == 2:
+        i = 1
+        print("train part 1")
+        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")
+    
+    elif terminal == 3:
+        i = 2
+        print("train part 2")
+        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")
+    
+    elif terminal == 4:
+        i = 3
+        print("train part 3")
+        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")
+    
+    elif terminal == 5:
+        i = 4
+        print("train part 4")
+        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")
+    
+    elif terminal == 6:
+        i = 5
+        print("train part 5")
+        find_ambi(f"../data/图文匹配/train_plus_图文匹配_part{i}.json")

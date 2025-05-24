@@ -5,8 +5,8 @@ from re import split
 data = json.load(open('/Users/piko/Desktop/JP_AmbiTrans/data/图文匹配/train_plus_图文匹配.json'))
 
 # Split data into 10 parts
-split_size = len(data) // 4
-split_data = [data[i*split_size:(i+1)*split_size] for i in range(4)]
+split_size = len(data) // 5
+split_data = [data[i*split_size:(i+1)*split_size] for i in range(5)]
 
 # Save each part into separate files
 i = 0
