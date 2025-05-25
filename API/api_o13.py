@@ -79,7 +79,7 @@ Please think and respond step-by-step using the following procedure:
 """
 user_input = "English sentence: {en}"
 
-def find_ambi(ref):
+def find_ambi(ref, image_folder):
     data = json.load(open(ref, 'r'))
     sleep_times = [5, 10, 20, 40, 60]
     result = []
@@ -138,37 +138,29 @@ if __name__ == "__main__":
 
     today=datetime.date.today()
 
-    root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/{model_name}消歧链路-{today}/"
+    root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/{model_name}训练集思维链-{today}/"
     Path(root).mkdir(parents=True, exist_ok=True)
     print("路径保存地址在", root)
-    image_folder = "/mnt/workspace/xintong/ambi_plus/3am_images/"
+    image_folder_3am = "/mnt/workspace/xintong/ambi_plus/3am_images/"
+    image_folder_mma = "/mnt/workspace/xintong/pjh/dataset/MMA/"
 
     """第一个terminal"""
     if terminal == 1:
-        file = "../data/final_clean_2000_v1.6_part1.json"
+        file = "../data/final/mma_train.json"
         print("file ", file)
-        find_ambi(file)
+        find_ambi(file, image_folder_mma)
+        file ="../data/final/sp_train.json"
+        print("file ", file)
+        find_ambi(file, image_folder_3am)
 
     """第二个terminal"""
     if terminal == 2:
-        file = "../data/final_clean_2000_v1.6_part2.json"
+        file = "../data/final/ambi_normal_train_part_1.json"
         print("file ", file)
-        find_ambi(file)
+        find_ambi(file, image_folder_3am)
 
     """第3个terminal"""
     if terminal == 3:
-        file = "../data/final_clean_2000_v1.6_part3.json"
+        file = "../data/final/ambi_normal_train_part_2.json"
         print("file ", file)
-        find_ambi(file)
-
-    """第4个terminal"""
-    if terminal == 4:
-        file = "../data/final_clean_2000_v1.6_part4.json"
-        print("file ", file)
-        find_ambi(file)
-
-    """第5个terminal"""
-    if terminal == 5: 
-        file = "../data/final_clean_2000_v1.6_part5.json"
-        print("file ", file)
-        find_ambi(file)
+        find_ambi(file, image_folder_3am)

@@ -2,17 +2,17 @@ import json
 from re import split
 
 
-data = json.load(open('/Users/piko/Desktop/JP_AmbiTrans/data/图文匹配/train_result_true_noov.json'))
+data = json.load(open('/Users/piko/Desktop/JP_AmbiTrans/data/final/ambi_normal_train.json'))
 
 # Split data into 10 parts
-split_size = len(data) // 5
-split_data = [data[i*split_size:(i+1)*split_size] for i in range(5)]
+split_size = len(data) // 2
+split_data = [data[i*split_size:(i+1)*split_size] for i in range(2)]
 
 # Save each part into separate files
 i = 0
 for part in split_data:
     print(len(part))
-    with open(f"/Users/piko/Desktop/JP_AmbiTrans/data/图文匹配/train_result_true_noov_part_{i+1}.json", 'w', encoding='utf-8') as f:
+    with open(f"/Users/piko/Desktop/JP_AmbiTrans/data/final/ambi_normal_train_part_{i+1}.json", 'w', encoding='utf-8') as f:
         json.dump(part, f, indent=4, ensure_ascii=False)
     i += 1
 
