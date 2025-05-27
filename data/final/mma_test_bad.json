@@ -12,6 +12,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "戴着手套"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "with the glove",
+                "type": "syntactic",
+                "bad_interpretation": "雕塑戴着手套（手套属于雕塑）"
+            }
         ]
     },
     {
@@ -26,6 +33,13 @@
                 "term": "with the glove",
                 "type": "syntactic",
                 "gold_interpretation": "雕塑戴着手套（手套属于雕塑）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "with the glove",
+                "type": "syntactic",
+                "bad_interpretation": "戴着手套"
             }
         ]
     },
@@ -42,6 +56,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "她在树下"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "under the tree",
+                "type": "syntactic",
+                "bad_interpretation": "猫在树下"
+            }
         ]
     },
     {
@@ -56,6 +77,13 @@
                 "term": "under the tree",
                 "type": "syntactic",
                 "gold_interpretation": "猫在树下"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "under the tree",
+                "type": "syntactic",
+                "bad_interpretation": "她在树下"
             }
         ]
     },
@@ -72,6 +100,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "她用望远镜看到了那名男子（with the telescope修饰的是she，而不是the man）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "with the telescope",
+                "type": "syntactic",
+                "bad_interpretation": "男人拿着望远镜"
+            }
         ]
     },
     {
@@ -86,6 +121,13 @@
                 "term": "with the telescope",
                 "type": "syntactic",
                 "gold_interpretation": "男人拿着望远镜"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "with the telescope",
+                "type": "syntactic",
+                "bad_interpretation": "她用望远镜看到了那名男子（with the telescope修饰的是she，而不是the man）"
             }
         ]
     },
@@ -102,6 +144,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "点亮的灯和吊灯（lit修饰灯和吊灯）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "lit lamp and chandelier",
+                "type": "syntactic",
+                "bad_interpretation": "点亮的灯和未点亮的吊灯（lit仅修饰lamp，不包括chandelier）"
+            }
         ]
     },
     {
@@ -116,6 +165,13 @@
                 "term": "lit lamp and chandelier",
                 "type": "syntactic",
                 "gold_interpretation": "点亮的灯和未点亮的吊灯（lit仅修饰lamp，不包括chandelier）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "lit lamp and chandelier",
+                "type": "syntactic",
+                "bad_interpretation": "点亮的灯和吊灯（lit修饰灯和吊灯）"
             }
         ]
     },
@@ -132,6 +188,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "微笑的男孩和女孩（smiling修饰男孩和女孩）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "smiling boy and girl",
+                "type": "syntactic",
+                "bad_interpretation": "微笑的男孩和哭泣的女孩"
+            }
         ]
     },
     {
@@ -146,6 +209,13 @@
                 "term": "smiling boy and girl",
                 "type": "syntactic",
                 "gold_interpretation": "微笑的男孩和哭泣的女孩"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "smiling boy and girl",
+                "type": "syntactic",
+                "bad_interpretation": "微笑的男孩和女孩（smiling修饰男孩和女孩）"
             }
         ]
     },
@@ -162,6 +232,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "全新的笔和笔记本（brand new修饰笔和笔记本）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "brand new pen and note",
+                "type": "syntactic",
+                "bad_interpretation": "全新的笔和用过的笔记本（brand new修饰笔，不包括笔记本）"
+            }
         ]
     },
     {
@@ -176,6 +253,13 @@
                 "term": "brand new pen and note",
                 "type": "syntactic",
                 "gold_interpretation": "全新的笔和用过的笔记本（brand new修饰笔，不包括笔记本）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "brand new pen and note",
+                "type": "syntactic",
+                "bad_interpretation": "全新的笔和笔记本（brand new修饰笔和笔记本）"
             }
         ]
     },
@@ -192,6 +276,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "篇幅较长的论文和报告"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "long essays and reports",
+                "type": "syntactic",
+                "bad_interpretation": "长篇论文和短篇报告（长篇指报告，短篇指论文）"
+            }
         ]
     },
     {
@@ -206,6 +297,13 @@
                 "term": "long essays and reports",
                 "type": "syntactic",
                 "gold_interpretation": "长篇论文和短篇报告（长篇指报告，短篇指论文）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "long essays and reports",
+                "type": "syntactic",
+                "bad_interpretation": "篇幅较长的论文和报告"
             }
         ]
     },
@@ -222,6 +320,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "高塔和高楼（tall修饰塔和楼）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "tall tower and building",
+                "type": "syntactic",
+                "bad_interpretation": "高塔和矮建筑（tall修饰塔，不包括建筑）"
+            }
         ]
     },
     {
@@ -236,6 +341,13 @@
                 "term": "tall tower and building",
                 "type": "syntactic",
                 "gold_interpretation": "高塔和矮建筑（tall修饰塔，不包括建筑）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "tall tower and building",
+                "type": "syntactic",
+                "bad_interpretation": "高塔和高楼（tall修饰塔和楼）"
             }
         ]
     },
@@ -252,6 +364,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "爱丽丝和鲍勃结婚了"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "Alice and Bob are married",
+                "type": "syntactic",
+                "bad_interpretation": "Alice和Bob各自与他人结婚了"
+            }
         ]
     },
     {
@@ -266,6 +385,13 @@
                 "term": "Alice and Bob are married",
                 "type": "syntactic",
                 "gold_interpretation": "Alice和Bob各自与他人结婚了"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "Alice and Bob are married",
+                "type": "syntactic",
+                "bad_interpretation": "爱丽丝和鲍勃结婚了"
             }
         ]
     },
@@ -282,6 +408,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "马克斯和露西在一起跳舞"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "Max and Lucy are dancing",
+                "type": "syntactic",
+                "bad_interpretation": "马克斯和露西正在和他们各自的舞伴跳舞"
+            }
         ]
     },
     {
@@ -296,6 +429,13 @@
                 "term": "Max and Lucy are dancing",
                 "type": "syntactic",
                 "gold_interpretation": "马克斯和露西正在和他们各自的舞伴跳舞"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "Max and Lucy are dancing",
+                "type": "syntactic",
+                "bad_interpretation": "马克斯和露西在一起跳舞"
             }
         ]
     },
@@ -312,6 +452,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "孩子们共同建造同一座沙堡"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "building a sandcastle",
+                "type": "syntactic",
+                "bad_interpretation": "每个孩子分别在建造各自的沙堡"
+            }
         ]
     },
     {
@@ -326,6 +473,13 @@
                 "term": "building a sandcastle",
                 "type": "syntactic",
                 "gold_interpretation": "每个孩子分别在建造各自的沙堡"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "building a sandcastle",
+                "type": "syntactic",
+                "bad_interpretation": "孩子们共同建造同一座沙堡"
             }
         ]
     },
@@ -342,6 +496,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "克里斯和帕特是在互相下棋"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "are playing chess",
+                "type": "syntactic",
+                "bad_interpretation": "Chris和Pat在分别与他人下棋"
+            }
         ]
     },
     {
@@ -356,6 +517,13 @@
                 "term": "are playing chess",
                 "type": "syntactic",
                 "gold_interpretation": "Chris和Pat在分别与他人下棋"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "are playing chess",
+                "type": "syntactic",
+                "bad_interpretation": "克里斯和帕特是在互相下棋"
             }
         ]
     },
@@ -372,6 +540,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "笔记本电脑和手机在同一张桌子上充电"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "on the desk",
+                "type": "syntactic",
+                "bad_interpretation": "笔记本电脑和手机在不同的桌子上充电"
+            }
         ]
     },
     {
@@ -386,6 +561,13 @@
                 "term": "on the desk",
                 "type": "syntactic",
                 "gold_interpretation": "笔记本电脑和手机在不同的桌子上充电"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "on the desk",
+                "type": "syntactic",
+                "bad_interpretation": "笔记本电脑和手机在同一张桌子上充电"
             }
         ]
     },
@@ -402,6 +584,13 @@
                 "type": "cultural/background",
                 "gold_interpretation": "把所有的鸡蛋都放进了同一个篮子里（字面意思）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "putting all his eggs in one basket",
+                "type": "cultural/background",
+                "bad_interpretation": "把所有的赌注都押在特斯拉股票上"
+            }
         ]
     },
     {
@@ -416,6 +605,13 @@
                 "term": "putting all his eggs in one basket",
                 "type": "cultural/background",
                 "gold_interpretation": "把所有的赌注都押在特斯拉股票上"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "putting all his eggs in one basket",
+                "type": "cultural/background",
+                "bad_interpretation": "把所有的鸡蛋都放进了同一个篮子里（字面意思）"
             }
         ]
     },
@@ -432,6 +628,13 @@
                 "type": "cultural/background",
                 "gold_interpretation": "半夜点燃油"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "burning the midnight oil",
+                "type": "cultural/background",
+                "bad_interpretation": "挑灯夜战"
+            }
         ]
     },
     {
@@ -446,6 +649,13 @@
                 "term": "burning the midnight oil",
                 "type": "cultural/background",
                 "gold_interpretation": "挑灯夜战"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "burning the midnight oil",
+                "type": "cultural/background",
+                "bad_interpretation": "半夜点燃油"
             }
         ]
     },
@@ -462,6 +672,13 @@
                 "type": "cultural/background",
                 "gold_interpretation": "用力打书"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "hitting the books",
+                "type": "cultural/background",
+                "bad_interpretation": "努力学习"
+            }
         ]
     },
     {
@@ -476,6 +693,13 @@
                 "term": "hitting the books",
                 "type": "cultural/background",
                 "gold_interpretation": "努力学习"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "hitting the books",
+                "type": "cultural/background",
+                "bad_interpretation": "用力打书"
             }
         ]
     },
@@ -492,6 +716,13 @@
                 "type": "cultural/background",
                 "gold_interpretation": "就在附近的拐角处"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "right around the corner",
+                "type": "cultural/background",
+                "bad_interpretation": "即将来临"
+            }
         ]
     },
     {
@@ -506,6 +737,13 @@
                 "term": "right around the corner",
                 "type": "cultural/background",
                 "gold_interpretation": "即将来临"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "right around the corner",
+                "type": "cultural/background",
+                "bad_interpretation": "就在附近的拐角处"
             }
         ]
     },
@@ -522,6 +760,13 @@
                 "type": "cultural/background",
                 "gold_interpretation": "在高温水中（字面含义）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "in hot water",
+                "type": "cultural/background",
+                "bad_interpretation": "陷入麻烦"
+            }
         ]
     },
     {
@@ -536,6 +781,13 @@
                 "term": "in hot water",
                 "type": "cultural/background",
                 "gold_interpretation": "陷入麻烦"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "in hot water",
+                "type": "cultural/background",
+                "bad_interpretation": "在高温水中（字面含义）"
             }
         ]
     },
@@ -552,6 +804,13 @@
                 "type": "cultural/background",
                 "gold_interpretation": "用锤子敲钉子的头部"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "hitting the nail on the head",
+                "type": "cultural/background",
+                "bad_interpretation": "精准地说中了要点"
+            }
         ]
     },
     {
@@ -566,6 +825,13 @@
                 "term": "hitting the nail on the head",
                 "type": "cultural/background",
                 "gold_interpretation": "精准地说中了要点"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "hitting the nail on the head",
+                "type": "cultural/background",
+                "bad_interpretation": "用锤子敲钉子的头部"
             }
         ]
     },
@@ -582,6 +848,13 @@
                 "type": "cultural/background",
                 "gold_interpretation": "光滑的斜坡"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "slippery slope",
+                "type": "pragmatic",
+                "bad_interpretation": "任务拖延和恶性循环的境地"
+            }
         ]
     },
     {
@@ -596,6 +869,13 @@
                 "term": "slippery slope",
                 "type": "pragmatic",
                 "gold_interpretation": "任务拖延和恶性循环的境地"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "slippery slope",
+                "type": "cultural/background",
+                "bad_interpretation": "光滑的斜坡"
             }
         ]
     },
@@ -612,6 +892,13 @@
                 "type": "lexical",
                 "gold_interpretation": "坚硬"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "hard",
+                "type": "lexical",
+                "bad_interpretation": "需要很大努力或耐力"
+            }
         ]
     },
     {
@@ -626,6 +913,13 @@
                 "term": "hard",
                 "type": "lexical",
                 "gold_interpretation": "需要很大努力或耐力"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "hard",
+                "type": "lexical",
+                "bad_interpretation": "坚硬"
             }
         ]
     },
@@ -642,6 +936,13 @@
                 "type": "lexical",
                 "gold_interpretation": "锋利"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "sharp",
+                "type": "lexical",
+                "bad_interpretation": "陡峭、急剧"
+            }
         ]
     },
     {
@@ -656,6 +957,13 @@
                 "term": "sharp",
                 "type": "lexical",
                 "gold_interpretation": "陡峭、急剧"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "sharp",
+                "type": "lexical",
+                "bad_interpretation": "锋利"
             }
         ]
     },
@@ -672,6 +980,13 @@
                 "type": "lexical",
                 "gold_interpretation": "垂直高度很大"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "high",
+                "type": "lexical",
+                "bad_interpretation": "价格高"
+            }
         ]
     },
     {
@@ -686,6 +1001,13 @@
                 "term": "high",
                 "type": "lexical",
                 "gold_interpretation": "价格高"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "high",
+                "type": "lexical",
+                "bad_interpretation": "垂直高度很大"
             }
         ]
     },
@@ -702,6 +1024,13 @@
                 "type": "lexical",
                 "gold_interpretation": "深邃"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "deep",
+                "type": "lexical",
+                "bad_interpretation": "深沉（形容情感或氛围）"
+            }
         ]
     },
     {
@@ -716,6 +1045,13 @@
                 "term": "deep",
                 "type": "lexical",
                 "gold_interpretation": "深沉（形容情感或氛围）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "deep",
+                "type": "lexical",
+                "bad_interpretation": "深邃"
             }
         ]
     },
@@ -732,6 +1068,13 @@
                 "type": "lexical",
                 "gold_interpretation": "重量大，难以移动"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "heavy",
+                "type": "lexical",
+                "bad_interpretation": "强度很大"
+            }
         ]
     },
     {
@@ -746,6 +1089,13 @@
                 "term": "heavy",
                 "type": "lexical",
                 "gold_interpretation": "强度很大"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "heavy",
+                "type": "lexical",
+                "bad_interpretation": "重量大，难以移动"
             }
         ]
     },
@@ -762,6 +1112,13 @@
                 "type": "lexical",
                 "gold_interpretation": "宽松的（指衣服尺寸不紧身）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "loose",
+                "type": "lexical",
+                "bad_interpretation": "未被固定或绑紧"
+            }
         ]
     },
     {
@@ -776,6 +1133,13 @@
                 "term": "loose",
                 "type": "lexical",
                 "gold_interpretation": "未被固定或绑紧"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "loose",
+                "type": "lexical",
+                "bad_interpretation": "宽松的（指衣服尺寸不紧身）"
             }
         ]
     },
@@ -792,6 +1156,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "鸡肉已经准备好可以被食用了"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "ready to eat",
+                "type": "syntactic",
+                "bad_interpretation": "鸡准备好吃饭了"
+            }
         ]
     },
     {
@@ -806,6 +1177,13 @@
                 "term": "ready to eat",
                 "type": "syntactic",
                 "gold_interpretation": "鸡准备好吃饭了"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "ready to eat",
+                "type": "syntactic",
+                "bad_interpretation": "鸡肉已经准备好可以被食用了"
             }
         ]
     },
@@ -822,6 +1200,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "宝宝准备自己进食"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "ready to feed",
+                "type": "syntactic",
+                "bad_interpretation": "婴儿准备好被喂食了"
+            }
         ]
     },
     {
@@ -836,6 +1221,13 @@
                 "term": "ready to feed",
                 "type": "syntactic",
                 "gold_interpretation": "婴儿准备好被喂食了"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "ready to feed",
+                "type": "syntactic",
+                "bad_interpretation": "宝宝准备自己进食"
             }
         ]
     },
@@ -852,6 +1244,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "准备被牵出去散步"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "walk",
+                "type": "syntactic",
+                "bad_interpretation": "狗主动开始走动"
+            }
         ]
     },
     {
@@ -866,6 +1265,13 @@
                 "term": "walk",
                 "type": "syntactic",
                 "gold_interpretation": "狗主动开始走动"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "ready to walk",
+                "type": "syntactic",
+                "bad_interpretation": "准备被牵出去散步"
             }
         ]
     },
@@ -882,6 +1288,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "马已经备好鞍，准备让人骑了"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "ready to ride",
+                "type": "syntactic",
+                "bad_interpretation": "马准备自己奔跑"
+            }
         ]
     },
     {
@@ -896,6 +1309,13 @@
                 "term": "ready to ride",
                 "type": "syntactic",
                 "gold_interpretation": "马准备自己奔跑"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "ready to ride",
+                "type": "syntactic",
+                "bad_interpretation": "马已经备好鞍，准备让人骑了"
             }
         ]
     },
@@ -912,6 +1332,13 @@
                 "type": "syntactic",
                 "gold_interpretation": "汽车被人（女性）准备好驾驶了"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "ready to drive",
+                "type": "syntactic",
+                "bad_interpretation": "准备好进行自动驾驶"
+            }
         ]
     },
     {
@@ -926,6 +1353,13 @@
                 "term": "ready to drive",
                 "type": "syntactic",
                 "gold_interpretation": "准备好进行自动驾驶"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "ready to drive",
+                "type": "syntactic",
+                "bad_interpretation": "汽车被人（女性）准备好驾驶了"
             }
         ]
     },
@@ -942,6 +1376,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "宁静与祥和"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "filled with silence",
+                "type": "pragmatic",
+                "bad_interpretation": "充满了沉寂（暗示悲伤与失落的情绪氛围）"
+            }
         ]
     },
     {
@@ -956,6 +1397,13 @@
                 "term": "filled with silence",
                 "type": "pragmatic",
                 "gold_interpretation": "充满了沉寂（暗示悲伤与失落的情绪氛围）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "filled with silence",
+                "type": "pragmatic",
+                "bad_interpretation": "宁静与祥和"
             }
         ]
     },
@@ -972,6 +1420,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "孩子继承了或学习了父母值得赞扬的品质"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "The apple doesn't fall far from the tree",
+                "type": "pragmatic",
+                "bad_interpretation": "这颗苹果确实没有落得离树远（字面意思）"
+            }
         ]
     },
     {
@@ -986,6 +1441,13 @@
                 "term": "The apple doesn't fall far from the tree",
                 "type": "pragmatic",
                 "gold_interpretation": "这颗苹果确实没有落得离树远（字面意思）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "The apple doesn't fall far from the tree",
+                "type": "pragmatic",
+                "bad_interpretation": "孩子继承了或学习了父母值得赞扬的品质"
             }
         ]
     },
@@ -1002,6 +1464,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "城市在夜间仍然非常活跃"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "never sleeps",
+                "type": "pragmatic",
+                "bad_interpretation": "无法成功入睡"
+            }
         ]
     },
     {
@@ -1016,6 +1485,13 @@
                 "term": "never sleeps",
                 "type": "pragmatic",
                 "gold_interpretation": "无法成功入睡"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "never sleeps",
+                "type": "pragmatic",
+                "bad_interpretation": "城市在夜间仍然非常活跃"
             }
         ]
     },
@@ -1032,6 +1508,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "苦尽甘来的曙光"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "light at the end of the tunnel",
+                "type": "pragmatic",
+                "bad_interpretation": "隧道尽头的光"
+            }
         ]
     },
     {
@@ -1046,6 +1529,13 @@
                 "term": "light at the end of the tunnel",
                 "type": "pragmatic",
                 "gold_interpretation": "隧道尽头的光"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "light at the end of the tunnel",
+                "type": "pragmatic",
+                "bad_interpretation": "苦尽甘来的曙光"
             }
         ]
     },
@@ -1062,6 +1552,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "比喻为狮子的领导能力、力量或自信"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "like a lion",
+                "type": "pragmatic",
+                "bad_interpretation": "这个人打哈欠的样子像狮子张口咆哮"
+            }
         ]
     },
     {
@@ -1076,6 +1573,13 @@
                 "term": "like a lion",
                 "type": "pragmatic",
                 "gold_interpretation": "这个人打哈欠的样子像狮子张口咆哮"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "like a lion",
+                "type": "pragmatic",
+                "bad_interpretation": "比喻为狮子的领导能力、力量或自信"
             }
         ]
     },
@@ -1092,6 +1596,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "比喻复杂的外交局势需要小心应对"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "delicate as a glass",
+                "type": "pragmatic",
+                "bad_interpretation": "容易破碎的玻璃杯"
+            }
         ]
     },
     {
@@ -1106,6 +1617,13 @@
                 "term": "delicate as a glass",
                 "type": "pragmatic",
                 "gold_interpretation": "容易破碎的玻璃杯"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "delicate as a glass",
+                "type": "pragmatic",
+                "bad_interpretation": "比喻复杂的外交局势需要小心应对"
             }
         ]
     },
@@ -1122,6 +1640,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "祝演员演出顺利"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "Break the leg",
+                "type": "pragmatic",
+                "bad_interpretation": "腿骨折了"
+            }
         ]
     },
     {
@@ -1136,6 +1661,13 @@
                 "term": "Break the leg",
                 "type": "pragmatic",
                 "gold_interpretation": "腿骨折了"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "Break the leg",
+                "type": "pragmatic",
+                "bad_interpretation": "祝演员演出顺利"
             }
         ]
     },
@@ -1152,6 +1684,13 @@
                 "type": "lexical",
                 "gold_interpretation": "深情地靠近"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "torching",
+                "type": "lexical",
+                "bad_interpretation": "安慰性的轻抚"
+            }
         ]
     },
     {
@@ -1166,6 +1705,13 @@
                 "term": "torching",
                 "type": "lexical",
                 "gold_interpretation": "安慰性的轻抚"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "Torching",
+                "type": "lexical",
+                "bad_interpretation": "深情地靠近"
             }
         ]
     },
@@ -1182,6 +1728,13 @@
                 "type": "lexical",
                 "gold_interpretation": "轻拍头以示认可"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "torching",
+                "type": "lexical",
+                "bad_interpretation": "压制"
+            }
         ]
     },
     {
@@ -1196,6 +1749,13 @@
                 "term": "torching",
                 "type": "lexical",
                 "gold_interpretation": "压制"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "torching head",
+                "type": "lexical",
+                "bad_interpretation": "轻拍头以示认可"
             }
         ]
     },
@@ -1212,6 +1772,13 @@
                 "type": "lexical",
                 "gold_interpretation": "蝙蝠"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "bat",
+                "type": "lexical",
+                "bad_interpretation": "棒球棒"
+            }
         ]
     },
     {
@@ -1226,6 +1793,13 @@
                 "term": "bat",
                 "type": "lexical",
                 "gold_interpretation": "棒球棒"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "bat",
+                "type": "lexical",
+                "bad_interpretation": "蝙蝠"
             }
         ]
     },
@@ -1242,6 +1816,13 @@
                 "type": "lexical",
                 "gold_interpretation": "鹤"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "crane",
+                "type": "lexical",
+                "bad_interpretation": "起重机"
+            }
         ]
     },
     {
@@ -1256,6 +1837,13 @@
                 "term": "crane",
                 "type": "lexical",
                 "gold_interpretation": "起重机"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "crane",
+                "type": "lexical",
+                "bad_interpretation": "鹤"
             }
         ]
     },
@@ -1272,6 +1860,13 @@
                 "type": "lexical",
                 "gold_interpretation": "枣子"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "date",
+                "type": "lexical",
+                "bad_interpretation": "浪漫约会"
+            }
         ]
     },
     {
@@ -1286,6 +1881,13 @@
                 "term": "date",
                 "type": "lexical",
                 "gold_interpretation": "浪漫约会"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "date",
+                "type": "lexical",
+                "bad_interpretation": "枣子"
             }
         ]
     },
@@ -1302,6 +1904,13 @@
                 "type": "lexical",
                 "gold_interpretation": "金融机构"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "bank",
+                "type": "lexical",
+                "bad_interpretation": "河岸"
+            }
         ]
     },
     {
@@ -1316,6 +1925,13 @@
                 "term": "bank",
                 "type": "lexical",
                 "gold_interpretation": "河岸"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "bank",
+                "type": "lexical",
+                "bad_interpretation": "金融机构"
             }
         ]
     },
@@ -1332,6 +1948,13 @@
                 "type": "lexical",
                 "gold_interpretation": "眼镜"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "glasses",
+                "type": "lexical",
+                "bad_interpretation": "玻璃装饰品"
+            }
         ]
     },
     {
@@ -1346,6 +1969,13 @@
                 "term": "glasses",
                 "type": "lexical",
                 "gold_interpretation": "玻璃装饰品"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "glasses",
+                "type": "lexical",
+                "bad_interpretation": "眼镜"
             }
         ]
     },
@@ -1362,6 +1992,13 @@
                 "type": "lexical",
                 "gold_interpretation": "鲈鱼"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "bass",
+                "type": "lexical",
+                "bad_interpretation": "贝斯乐器"
+            }
         ]
     },
     {
@@ -1376,6 +2013,13 @@
                 "term": "bass",
                 "type": "lexical",
                 "gold_interpretation": "贝斯乐器"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "bass",
+                "type": "lexical",
+                "bad_interpretation": "鲈鱼"
             }
         ]
     },
@@ -1392,6 +2036,13 @@
                 "type": "lexical",
                 "gold_interpretation": "戒指（象征承诺）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "ring",
+                "type": "lexical",
+                "bad_interpretation": "钟声"
+            }
         ]
     },
     {
@@ -1406,6 +2057,13 @@
                 "term": "ring",
                 "type": "lexical",
                 "gold_interpretation": "钟声"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "ring",
+                "type": "lexical",
+                "bad_interpretation": "戒指（象征承诺）"
             }
         ]
     },
@@ -1422,6 +2080,13 @@
                 "type": "lexical",
                 "gold_interpretation": "海豹"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "seal",
+                "type": "lexical",
+                "bad_interpretation": "蜡封"
+            }
         ]
     },
     {
@@ -1436,6 +2101,13 @@
                 "term": "seal",
                 "type": "lexical",
                 "gold_interpretation": "蜡封"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "seal",
+                "type": "lexical",
+                "bad_interpretation": "海豹"
             }
         ]
     },
@@ -1452,6 +2124,13 @@
                 "type": "lexical",
                 "gold_interpretation": "海浪"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "wave",
+                "type": "lexical",
+                "bad_interpretation": "挥手"
+            }
         ]
     },
     {
@@ -1466,6 +2145,13 @@
                 "term": "wave",
                 "type": "lexical",
                 "gold_interpretation": "挥手"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "wave",
+                "type": "lexical",
+                "bad_interpretation": "海浪"
             }
         ]
     },
@@ -1482,6 +2168,13 @@
                 "type": "lexical",
                 "gold_interpretation": "蝴蝶结（用于装饰的发饰）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "bow",
+                "type": "lexical",
+                "bad_interpretation": "弓"
+            }
         ]
     },
     {
@@ -1496,6 +2189,13 @@
                 "term": "bow",
                 "type": "lexical",
                 "gold_interpretation": "弓"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "bow",
+                "type": "lexical",
+                "bad_interpretation": "蝴蝶结（用于装饰的发饰）"
             }
         ]
     },
@@ -1512,6 +2212,13 @@
                 "type": "lexical",
                 "gold_interpretation": "铅金属"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "lead",
+                "type": "lexical",
+                "bad_interpretation": "领导力"
+            }
         ]
     },
     {
@@ -1526,6 +2233,13 @@
                 "term": "lead",
                 "type": "lexical",
                 "gold_interpretation": "领导力"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "lead",
+                "type": "lexical",
+                "bad_interpretation": "铅金属"
             }
         ]
     },
@@ -1542,6 +2256,13 @@
                 "type": "lexical",
                 "gold_interpretation": "草稿"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "draft",
+                "type": "lexical",
+                "bad_interpretation": "征召（服兵役）"
+            }
         ]
     },
     {
@@ -1556,6 +2277,13 @@
                 "term": "draft",
                 "type": "lexical",
                 "gold_interpretation": "征召（服兵役）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "draft",
+                "type": "lexical",
+                "bad_interpretation": "草稿"
             }
         ]
     },
@@ -1572,6 +2300,13 @@
                 "type": "lexical",
                 "gold_interpretation": "地轴"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "pole",
+                "type": "lexical",
+                "bad_interpretation": "路灯杆"
+            }
         ]
     },
     {
@@ -1586,6 +2321,13 @@
                 "term": "pole",
                 "type": "lexical",
                 "gold_interpretation": "路灯杆"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "pole",
+                "type": "lexical",
+                "bad_interpretation": "地轴"
             }
         ]
     },
@@ -1602,6 +2344,13 @@
                 "type": "lexical",
                 "gold_interpretation": "这款手表"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "watch",
+                "type": "lexical",
+                "bad_interpretation": "观看表演"
+            }
         ]
     },
     {
@@ -1616,6 +2365,13 @@
                 "term": "watch",
                 "type": "lexical",
                 "gold_interpretation": "观看表演"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "this watch",
+                "type": "lexical",
+                "bad_interpretation": "这款手表"
             }
         ]
     },
@@ -1632,6 +2388,13 @@
                 "type": "lexical",
                 "gold_interpretation": "街区"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "block",
+                "type": "lexical",
+                "bad_interpretation": "积木"
+            }
         ]
     },
     {
@@ -1646,6 +2409,13 @@
                 "term": "block",
                 "type": "lexical",
                 "gold_interpretation": "积木"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "block",
+                "type": "lexical",
+                "bad_interpretation": "街区"
             }
         ]
     },
@@ -1662,6 +2432,13 @@
                 "type": "lexical",
                 "gold_interpretation": "酒吧"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "bar",
+                "type": "lexical",
+                "bad_interpretation": "木条"
+            }
         ]
     },
     {
@@ -1676,6 +2453,13 @@
                 "term": "bar",
                 "type": "lexical",
                 "gold_interpretation": "木条"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "bar",
+                "type": "lexical",
+                "bad_interpretation": "酒吧"
             }
         ]
     },
@@ -1692,6 +2476,13 @@
                 "type": "lexical",
                 "gold_interpretation": "锉刀"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "files",
+                "type": "lexical",
+                "bad_interpretation": "文件夹"
+            }
         ]
     },
     {
@@ -1706,6 +2497,13 @@
                 "term": "files",
                 "type": "lexical",
                 "gold_interpretation": "文件夹"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "files",
+                "type": "lexical",
+                "bad_interpretation": "锉刀"
             }
         ]
     },
@@ -1722,6 +2520,13 @@
                 "type": "lexical",
                 "gold_interpretation": "锤子（用于钉钉子）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "hammer",
+                "type": "lexical",
+                "bad_interpretation": "琴槌"
+            }
         ]
     },
     {
@@ -1736,6 +2541,13 @@
                 "term": "hammer",
                 "type": "lexical",
                 "gold_interpretation": "琴槌"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "hammer",
+                "type": "lexical",
+                "bad_interpretation": "锤子（用于钉钉子）"
             }
         ]
     },
@@ -1752,6 +2564,13 @@
                 "type": "lexical",
                 "gold_interpretation": "磅"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "pound",
+                "type": "lexical",
+                "bad_interpretation": "英镑（货币）"
+            }
         ]
     },
     {
@@ -1766,6 +2585,13 @@
                 "term": "pound",
                 "type": "lexical",
                 "gold_interpretation": "英镑（货币）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "pound",
+                "type": "lexical",
+                "bad_interpretation": "磅"
             }
         ]
     },
@@ -1782,6 +2608,13 @@
                 "type": "lexical",
                 "gold_interpretation": "帽子"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "cap",
+                "type": "lexical",
+                "bad_interpretation": "上限"
+            }
         ]
     },
     {
@@ -1796,6 +2629,13 @@
                 "term": "cap",
                 "type": "lexical",
                 "gold_interpretation": "上限"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "cap",
+                "type": "lexical",
+                "bad_interpretation": "帽子"
             }
         ]
     },
@@ -1812,6 +2652,13 @@
                 "type": "lexical",
                 "gold_interpretation": "桌子"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "table",
+                "type": "lexical",
+                "bad_interpretation": "表格"
+            }
         ]
     },
     {
@@ -1826,6 +2673,13 @@
                 "term": "table",
                 "type": "lexical",
                 "gold_interpretation": "表格"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "table",
+                "type": "lexical",
+                "bad_interpretation": "桌子"
             }
         ]
     },
@@ -1842,6 +2696,13 @@
                 "type": "lexical",
                 "gold_interpretation": "秋天"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "fall",
+                "type": "lexical",
+                "bad_interpretation": "价格下跌"
+            }
         ]
     },
     {
@@ -1856,6 +2717,13 @@
                 "term": "fall",
                 "type": "lexical",
                 "gold_interpretation": "价格下跌"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "fall",
+                "type": "lexical",
+                "bad_interpretation": "秋天"
             }
         ]
     },
@@ -1872,6 +2740,13 @@
                 "type": "lexical",
                 "gold_interpretation": "正确"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "right",
+                "type": "lexical",
+                "bad_interpretation": "右"
+            }
         ]
     },
     {
@@ -1886,6 +2761,13 @@
                 "term": "right",
                 "type": "lexical",
                 "gold_interpretation": "右"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "right",
+                "type": "lexical",
+                "bad_interpretation": "正确"
             }
         ]
     },
@@ -1902,6 +2784,13 @@
                 "type": "lexical",
                 "gold_interpretation": "土耳其（国家）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "turkey",
+                "type": "lexical",
+                "bad_interpretation": "火鸡"
+            }
         ]
     },
     {
@@ -1916,6 +2805,13 @@
                 "term": "turkey",
                 "type": "lexical",
                 "gold_interpretation": "火鸡"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "turkey",
+                "type": "lexical",
+                "bad_interpretation": "土耳其（国家）"
             }
         ]
     },
@@ -1932,6 +2828,13 @@
                 "type": "lexical",
                 "gold_interpretation": "长尾夹"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "clip",
+                "type": "lexical",
+                "bad_interpretation": "剪辑（影片片段）"
+            }
         ]
     },
     {
@@ -1946,6 +2849,13 @@
                 "term": "clip",
                 "type": "lexical",
                 "gold_interpretation": "剪辑（影片片段）"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "clip",
+                "type": "lexical",
+                "bad_interpretation": "长尾夹"
             }
         ]
     },
@@ -1962,6 +2872,13 @@
                 "type": "lexical",
                 "gold_interpretation": "计算机服务器"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "server",
+                "type": "lexical",
+                "bad_interpretation": "服务员"
+            }
         ]
     },
     {
@@ -1976,6 +2893,13 @@
                 "term": "server",
                 "type": "lexical",
                 "gold_interpretation": "服务员"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "server",
+                "type": "lexical",
+                "bad_interpretation": "计算机服务器"
             }
         ]
     },
@@ -1992,6 +2916,13 @@
                 "type": "lexical",
                 "gold_interpretation": "蜘蛛网"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "web",
+                "type": "lexical",
+                "bad_interpretation": "互联网"
+            }
         ]
     },
     {
@@ -2006,6 +2937,13 @@
                 "term": "web",
                 "type": "lexical",
                 "gold_interpretation": "互联网"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "web",
+                "type": "lexical",
+                "bad_interpretation": "蜘蛛网"
             }
         ]
     },
@@ -2022,6 +2960,13 @@
                 "type": "lexical",
                 "gold_interpretation": "变压器"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "transformer",
+                "type": "lexical",
+                "bad_interpretation": "自然语言处理中的模型架构"
+            }
         ]
     },
     {
@@ -2036,6 +2981,13 @@
                 "term": "transformer",
                 "type": "lexical",
                 "gold_interpretation": "自然语言处理中的模型架构"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "transformer",
+                "type": "lexical",
+                "bad_interpretation": "变压器"
             }
         ]
     },
@@ -2052,6 +3004,13 @@
                 "type": "lexical",
                 "gold_interpretation": "几何图形的正方形（用于面积测量）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "square",
+                "type": "lexical",
+                "bad_interpretation": "城市广场"
+            }
         ]
     },
     {
@@ -2066,6 +3025,13 @@
                 "term": "square",
                 "type": "lexical",
                 "gold_interpretation": "城市广场"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "square",
+                "type": "lexical",
+                "bad_interpretation": "几何图形的正方形（用于面积测量）"
             }
         ]
     },
@@ -2082,6 +3048,13 @@
                 "type": "lexical",
                 "gold_interpretation": "拱顶"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "vault",
+                "type": "lexical",
+                "bad_interpretation": "金库"
+            }
         ]
     },
     {
@@ -2096,6 +3069,13 @@
                 "term": "vault",
                 "type": "lexical",
                 "gold_interpretation": "金库"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "vault",
+                "type": "lexical",
+                "bad_interpretation": "拱顶"
             }
         ]
     },
@@ -2112,6 +3092,13 @@
                 "type": "lexical",
                 "gold_interpretation": "病毒"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "virus",
+                "type": "lexical",
+                "bad_interpretation": "计算机病毒"
+            }
         ]
     },
     {
@@ -2126,6 +3113,13 @@
                 "term": "virus",
                 "type": "lexical",
                 "gold_interpretation": "计算机病毒"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "virus",
+                "type": "lexical",
+                "bad_interpretation": "病毒"
             }
         ]
     },
@@ -2142,6 +3136,13 @@
                 "type": "lexical",
                 "gold_interpretation": "光束"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "beam",
+                "type": "lexical",
+                "bad_interpretation": "建筑中的梁"
+            }
         ]
     },
     {
@@ -2156,6 +3157,13 @@
                 "term": "beam",
                 "type": "lexical",
                 "gold_interpretation": "建筑中的梁"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "beam",
+                "type": "lexical",
+                "bad_interpretation": "光束"
             }
         ]
     },
@@ -2172,6 +3180,13 @@
                 "type": "lexical",
                 "gold_interpretation": "树枝"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "branch",
+                "type": "lexical",
+                "bad_interpretation": "银行网点"
+            }
         ]
     },
     {
@@ -2186,6 +3201,13 @@
                 "term": "branch",
                 "type": "lexical",
                 "gold_interpretation": "银行网点"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "branch",
+                "type": "lexical",
+                "bad_interpretation": "树枝"
             }
         ]
     },
@@ -2202,6 +3224,13 @@
                 "type": "lexical",
                 "gold_interpretation": "收费"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "charge",
+                "type": "lexical",
+                "bad_interpretation": "电荷"
+            }
         ]
     },
     {
@@ -2216,6 +3245,13 @@
                 "term": "charge",
                 "type": "lexical",
                 "gold_interpretation": "电荷"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "charge",
+                "type": "lexical",
+                "bad_interpretation": "收费"
             }
         ]
     },
@@ -2232,6 +3268,13 @@
                 "type": "lexical",
                 "gold_interpretation": "检查"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "check",
+                "type": "lexical",
+                "bad_interpretation": "支票"
+            }
         ]
     },
     {
@@ -2246,6 +3289,13 @@
                 "term": "check",
                 "type": "lexical",
                 "gold_interpretation": "支票"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "check",
+                "type": "lexical",
+                "bad_interpretation": "检查"
             }
         ]
     },
@@ -2262,6 +3312,13 @@
                 "type": "lexical",
                 "gold_interpretation": "果酱"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "jam",
+                "type": "lexical",
+                "bad_interpretation": "即兴合奏"
+            }
         ]
     },
     {
@@ -2276,6 +3333,13 @@
                 "term": "jam",
                 "type": "lexical",
                 "gold_interpretation": "即兴合奏"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "jam",
+                "type": "lexical",
+                "bad_interpretation": "果酱"
             }
         ]
     },
@@ -2292,6 +3356,13 @@
                 "type": "lexical",
                 "gold_interpretation": "薄荷（草本植物及调味料）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "mint",
+                "type": "lexical",
+                "bad_interpretation": "生产货币的过程"
+            }
         ]
     },
     {
@@ -2306,6 +3377,13 @@
                 "term": "mint",
                 "type": "lexical",
                 "gold_interpretation": "生产货币的过程"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "mint",
+                "type": "lexical",
+                "bad_interpretation": "薄荷（草本植物及调味料）"
             }
         ]
     },
@@ -2322,6 +3400,13 @@
                 "type": "lexical",
                 "gold_interpretation": "比赛（特别是跑步比赛）"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "race",
+                "type": "lexical",
+                "bad_interpretation": "文化身份"
+            }
         ]
     },
     {
@@ -2336,6 +3421,13 @@
                 "term": "race",
                 "type": "lexical",
                 "gold_interpretation": "文化身份"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "race",
+                "type": "lexical",
+                "bad_interpretation": "比赛（特别是跑步比赛）"
             }
         ]
     },
@@ -2352,6 +3444,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "打破纪录"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "break the record",
+                "type": "pragmatic",
+                "bad_interpretation": "打碎唱片"
+            }
         ]
     },
     {
@@ -2366,6 +3465,13 @@
                 "term": "break the record",
                 "type": "pragmatic",
                 "gold_interpretation": "打碎唱片"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "break the record",
+                "type": "pragmatic",
+                "bad_interpretation": "打破纪录"
             }
         ]
     },
@@ -2382,6 +3488,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "结束讨论"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "wrap this up",
+                "type": "pragmatic",
+                "bad_interpretation": "包裹礼物"
+            }
         ]
     },
     {
@@ -2396,6 +3509,13 @@
                 "term": "wrap this up",
                 "type": "pragmatic",
                 "gold_interpretation": "包裹礼物"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "wrap this up",
+                "type": "pragmatic",
+                "bad_interpretation": "结束讨论"
             }
         ]
     },
@@ -2412,6 +3532,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "让新年倒计时的水晶球降下吧"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "Drop the ball",
+                "type": "pragmatic",
+                "bad_interpretation": "犯了一个错误"
+            }
         ]
     },
     {
@@ -2426,6 +3553,13 @@
                 "term": "Drop the ball",
                 "type": "pragmatic",
                 "gold_interpretation": "犯了一个错误"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "Drop the ball",
+                "type": "pragmatic",
+                "bad_interpretation": "让新年倒计时的水晶球降下吧"
             }
         ]
     },
@@ -2442,6 +3576,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "冷"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "cool",
+                "type": "pragmatic",
+                "bad_interpretation": "酷"
+            }
         ]
     },
     {
@@ -2456,6 +3597,13 @@
                 "term": "cool",
                 "type": "pragmatic",
                 "gold_interpretation": "酷"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "cool",
+                "type": "pragmatic",
+                "bad_interpretation": "冷"
             }
         ]
     },
@@ -2472,6 +3620,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "发呆"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "spaced out",
+                "type": "pragmatic",
+                "bad_interpretation": "漂浮在太空中"
+            }
         ]
     },
     {
@@ -2486,6 +3641,13 @@
                 "term": "spaced out",
                 "type": "pragmatic",
                 "gold_interpretation": "漂浮在太空中"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "spaced out",
+                "type": "pragmatic",
+                "bad_interpretation": "发呆"
             }
         ]
     },
@@ -2502,6 +3664,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "所有人都在参与任务"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "all hands on deck",
+                "type": "pragmatic",
+                "bad_interpretation": "所有人都需要在甲板上工作"
+            }
         ]
     },
     {
@@ -2516,6 +3685,13 @@
                 "term": "all hands on deck",
                 "type": "pragmatic",
                 "gold_interpretation": "所有人都需要在甲板上工作"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "all hands on deck",
+                "type": "pragmatic",
+                "bad_interpretation": "所有人都在参与任务"
             }
         ]
     },
@@ -2532,6 +3708,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "掌控全局"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "in the driver's seat",
+                "type": "pragmatic",
+                "bad_interpretation": "字面意思，即实际坐在驾驶座上"
+            }
         ]
     },
     {
@@ -2546,6 +3729,13 @@
                 "term": "in the driver's seat",
                 "type": "pragmatic",
                 "gold_interpretation": "字面意思，即实际坐在驾驶座上"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "in the driver's seat",
+                "type": "pragmatic",
+                "bad_interpretation": "掌控全局"
             }
         ]
     },
@@ -2562,6 +3752,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "给我发个消息"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "Drop me a line",
+                "type": "pragmatic",
+                "bad_interpretation": "放一根鱼线到水里"
+            }
         ]
     },
     {
@@ -2576,6 +3773,13 @@
                 "term": "Drop me a line",
                 "type": "pragmatic",
                 "gold_interpretation": "放一根鱼线到水里"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "Drop me a line",
+                "type": "pragmatic",
+                "bad_interpretation": "给我发个消息"
             }
         ]
     },
@@ -2592,6 +3796,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "解决（计划中的）小问题"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "iron out the details",
+                "type": "pragmatic",
+                "bad_interpretation": "把衣服熨平"
+            }
         ]
     },
     {
@@ -2606,6 +3817,13 @@
                 "term": "iron out the details",
                 "type": "pragmatic",
                 "gold_interpretation": "把衣服熨平"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "iron out the details",
+                "type": "pragmatic",
+                "bad_interpretation": "解决（计划中的）小问题"
             }
         ]
     },
@@ -2622,6 +3840,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "面对批评"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "face the music",
+                "type": "pragmatic",
+                "bad_interpretation": "做好演奏乐器的准备"
+            }
         ]
     },
     {
@@ -2636,6 +3861,13 @@
                 "term": "face the music",
                 "type": "pragmatic",
                 "gold_interpretation": "做好演奏乐器的准备"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "face the music",
+                "type": "pragmatic",
+                "bad_interpretation": "面对批评"
             }
         ]
     },
@@ -2652,6 +3884,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "我试图记住某事但想不起来"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "drawing a blank",
+                "type": "pragmatic",
+                "bad_interpretation": "在空白画布上开始一幅新画"
+            }
         ]
     },
     {
@@ -2666,6 +3905,13 @@
                 "term": "drawing a blank",
                 "type": "pragmatic",
                 "gold_interpretation": "在空白画布上开始一幅新画"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "drawing a blank",
+                "type": "pragmatic",
+                "bad_interpretation": "我试图记住某事但想不起来"
             }
         ]
     },
@@ -2682,6 +3928,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "别着急"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "Hold your horses",
+                "type": "pragmatic",
+                "bad_interpretation": "控制住马匹"
+            }
         ]
     },
     {
@@ -2696,6 +3949,13 @@
                 "term": "Hold your horses",
                 "type": "pragmatic",
                 "gold_interpretation": "控制住马匹"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "Hold your horses",
+                "type": "pragmatic",
+                "bad_interpretation": "别着急"
             }
         ]
     },
@@ -2712,6 +3972,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "遭到炮火攻击"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "under fire",
+                "type": "pragmatic",
+                "bad_interpretation": "面临批评"
+            }
         ]
     },
     {
@@ -2726,6 +3993,13 @@
                 "term": "under fire",
                 "type": "pragmatic",
                 "gold_interpretation": "面临批评"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "under fire",
+                "type": "pragmatic",
+                "bad_interpretation": "遭到炮火攻击"
             }
         ]
     },
@@ -2742,6 +4016,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "暂时搁置这个话题，稍后再讨论"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "Put a pin in that",
+                "type": "pragmatic",
+                "bad_interpretation": "往衣物上插一根装饰针"
+            }
         ]
     },
     {
@@ -2756,6 +4037,13 @@
                 "term": "Put a pin in that",
                 "type": "pragmatic",
                 "gold_interpretation": "往衣物上插一根装饰针"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "Put a pin in that",
+                "type": "pragmatic",
+                "bad_interpretation": "暂时搁置这个话题，稍后再讨论"
             }
         ]
     },
@@ -2772,6 +4060,13 @@
                 "type": "pragmatic",
                 "gold_interpretation": "突破性的创新"
             }
+        ],
+        "bad_sense": [
+            {
+                "term": "ground-breaking",
+                "type": "pragmatic",
+                "bad_interpretation": "建筑项目的开始"
+            }
         ]
     },
     {
@@ -2786,6 +4081,13 @@
                 "term": "ground-breaking",
                 "type": "pragmatic",
                 "gold_interpretation": "建筑项目的开始"
+            }
+        ],
+        "bad_sense": [
+            {
+                "term": "ground-breaking",
+                "type": "pragmatic",
+                "bad_interpretation": "突破性的创新"
             }
         ]
     }

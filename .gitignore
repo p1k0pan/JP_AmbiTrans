@@ -6,6 +6,8 @@ __pycache__/
 test/
 **/img_trans_api.py
 
+思维链/
+
 # C extensions
 *.so
 
