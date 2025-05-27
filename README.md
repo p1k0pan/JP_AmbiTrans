@@ -5,6 +5,9 @@
 2. API 存放api代码以及结果
 
 ## 日志
+### 2025年5月28日
+- 对1000条训练集使用o1获取思维链，加答案。cd到API目录下，开3个terminal，分别运行`python api_o13.py --terminal 1-3`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/{model_name}训练集思维链加答案-{today}/`
+
 ### 2025年5月26日
 - 对1000条训练集使用o1获取思维链。cd到API目录下，开3个terminal，分别运行`python api_o13.py --terminal 1-3`。生成结果在`/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/{model_name}训练集思维链-{today}/`
 
