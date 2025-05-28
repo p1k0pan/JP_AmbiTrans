@@ -11,14 +11,14 @@ import time
 import argparse
 import datetime
 
-# with open('/mnt/workspace/xintong/api_key.txt', 'r') as f:
-#     lines = f.readlines()
+with open('/mnt/workspace/xintong/api_key.txt', 'r') as f:
+    lines = f.readlines()
 
-# API_KEY = lines[0].strip()
-# BASE_URL = lines[1].strip()
+API_KEY = lines[0].strip()
+BASE_URL = lines[1].strip()
 
-# openai.api_key = API_KEY
-# openai.base_url = BASE_URL
+openai.api_key = API_KEY
+openai.base_url = BASE_URL
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
@@ -83,8 +83,7 @@ def find_ambi(ref, image_folder):
 
     for sleep_time in sleep_times:
       try:
-        # reasoning, answer = call_api(text, image)
-        reasoning, answer = "", text
+        reasoning, answer = call_api(text, image)
         break  # 成功调用时跳出循环
       except Exception as e:
         last_error = e  # 记录最后一次错误
@@ -159,8 +158,7 @@ if __name__ == "__main__":
 
   today=datetime.date.today()
 
-  # root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qvq-max训练集思维链-{today}/"
-  root = "test"
+  root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qvq-max训练集思维链-{today}/"
   Path(root).mkdir(parents=True, exist_ok=True)
   print("路径保存地址在", root)
   image_folder_3am = "/mnt/workspace/xintong/ambi_plus/3am_images/"
