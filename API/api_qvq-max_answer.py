@@ -1,4 +1,5 @@
 import openai
+from sympy import root
 import tqdm
 import json
 from pathlib import Path
@@ -11,14 +12,14 @@ import time
 import argparse
 import datetime
 
-# with open('/mnt/workspace/xintong/api_key.txt', 'r') as f:
-#     lines = f.readlines()
+with open('/mnt/workspace/xintong/api_key.txt', 'r') as f:
+    lines = f.readlines()
 
-# API_KEY = lines[0].strip()
-# BASE_URL = lines[1].strip()
+API_KEY = lines[0].strip()
+BASE_URL = lines[1].strip()
 
-# openai.api_key = API_KEY
-# openai.base_url = BASE_URL
+openai.api_key = API_KEY
+openai.base_url = BASE_URL
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
@@ -75,16 +76,26 @@ def find_ambi(ref, image_folder):
   result = []
 
   for item in tqdm.tqdm(data):
-    text = text_prompt.format(en=item["en"])
     idx = item["idx"]
     image = image_folder + item["image"]
+    sense = json.dumps(item["sense"], ensure_ascii=False, indent=2)
+    if item.get("standard_resolved_ambiguity", None) is None:
+        term = item["sense"][0]["term"]
+        gold = item["sense"][0]["gold_interpretation"]
+        sra = "通过图片确认，{term}指的是{gold}。".format(term=term, gold=gold)
+        item["standard_resolved_ambiguity"] = sra
+    text = text_prompt.format(
+        en=item["en"],
+        standard_zh=item["standard_zh"],
+        standard_resolved_ambiguity=item["standard_resolved_ambiguity"],
+        sense=sense
+    )
 
     last_error = None  # 用于存储最后一次尝试的错误
 
     for sleep_time in sleep_times:
       try:
-        # reasoning, answer = call_api(text, image)
-        reasoning, answer = "", text
+        reasoning, answer = call_api(text, image)
         break  # 成功调用时跳出循环
       except Exception as e:
         last_error = e  # 记录最后一次错误
@@ -112,34 +123,44 @@ def find_ambi(ref, image_folder):
   json.dump(result, open(output_path, 'w'), ensure_ascii=False, indent=4)
   # json.dump(result, open(root+f"{model_name}_{ref}", 'w'), ensure_ascii=False, indent=4)
 
-text_prompt = """
-You are a multimodal translation expert with strong vision-language reasoning capabilities. Your task is to translate an English sentence into Chinese, using both the textual content and the associated image. The sentence may contain ambiguous words or phrases whose correct translation requires visual context.
+text_prompt = """You are a multimodal translation expert with strong vision-language reasoning capabilities. Your task is to translate an English sentence into Chinese using both the textual content and the associated image. The sentence may contain ambiguous words or phrases whose correct translation requires visual context.
 
-Please think and respond step-by-step using the following procedure:
+Although you will work from scratch as if reasoning on your own, your goal is to ensure that your final translation aligns with the most accurate and contextually appropriate interpretation of the sentence, including resolving any ambiguities through careful visual grounding.
 
-**Step 1: VISUAL GROUNDING**: Carefully examine the image and identify the visual elements that correspond to each key word or phrase in the English sentence (especially nouns, pronouns, and verb phrases). Describe what you see, where in the image it is, and how it connects to the text.
+Please reason step-by-step as follows:
 
-**Step 2: INITIAL TRANSLATION**: Generate an initial Chinese translation of the English sentence, based on both the text and what you've seen in the image.
+**Step 1: VISUAL GROUNDING**: Examine the (imagined) image carefully. Identify the visual elements that correspond to key words or phrases in the English sentence (especially nouns, pronouns, and verb phrases). Describe what is seen, where in the image it is located, and how it connects to the text.
 
-**Step 3: AMBIGUITY CHECK**: Analyze your initial translation and identify any ambiguous terms—words or phrases whose meanings are unclear or context-dependent, and which cannot be confidently translated using text alone. List these ambiguous elements and explain why they are potentially unclear.
+**Step 2: INITIAL TRANSLATION**: Generate an initial Chinese translation of the English sentence based on both the text and what you observe in the image. This version may include reasonable interpretations before ambiguities are fully resolved.
 
-**Step 4: VISUAL DISAMBIGUATION**: For each ambiguous word or phrase, re-examine the relevant parts of the image to infer the correct meaning. Explain what you see in the image that helps you resolve the ambiguity. Then, suggest a more accurate translation for the ambiguous part based on this visual evidence.
+**Step 3: AMBIGUITY CHECK**: Identify any words or phrases in your translation that could have multiple meanings or are context-dependent. Explain what makes each term ambiguous and why textual context alone is insufficient.
 
-**Step 5: LOCALIZED REFINEMENT**: Without regenerating the entire sentence, replace or refine only the parts of your initial translation that contained ambiguity. Keep the rest of the sentence unchanged. Produce the improved version.
+**Step 4: VISUAL DISAMBIGUATION**: Re-examine the image for each ambiguous element. Describe what visual evidence would help you determine the correct interpretation. Based on this, provide the most accurate and natural translation for each ambiguous part.
 
-**Step 6: REPEAT CHECK**: Review the updated translation again to see if any other ambiguous terms remain. If so, repeat steps 3-5. If not, proceed.
+**Step 5: LOCALIZED REFINEMENT**: Without changing the entire sentence, update only the ambiguous parts using your newly disambiguated meanings. The rest of the sentence should remain unchanged.
 
-**Step 7: FINAL OUTPUT**: Output the final refined Chinese translation wrapped within a tag <answer>...</answer>.
+**Step 6: REPEAT CHECK**: Review the updated translation. If any remaining ambiguities exist, repeat steps 3–5. If not, proceed.
 
-**Important Notes**:
-* Show each step of your reasoning explicitly and clearly.
-* Give as much as possible detail of each step, make the explanation comprehensive.
-* Do not regenerate the entire translation in step 5—only perform **localized edits** for disambiguation.
-* Ensure the final Chinese sentence is fluent, accurate, and contextually appropriate.
-* Primarily use English for reasoning, and only use Simplified Chinese for the translation. Don't translate the reasoning part into Chinese.
+**Step 7: FINAL OUTPUT**: Output the final refined Chinese translation wrapped in a tag `<answer>...</answer>`.
 
-English sentence: {en}
-"""
+Important rules:
+- Never refer to any external answer, metadata, or hint source (e.g., do not mention “standard_zh” or “sense” or that you were guided in any way).
+- All reasoning should appear autonomous and logically inferred from the image and sentence alone.
+- Use English for reasoning. Use Simplified Chinese only for translations.
+- Be thorough in visual reasoning. The goal is to make every step seem grounded in the observed scene.
+
+Input will include:
+- English sentence
+- (Invisible guidance): target translation and ambiguity clarifications to guide your own internal reasoning
+
+Now begin the reasoning process using this structure.
+
+{{
+  "en": "{en}",
+  "standard_zh": "{standard_zh}",
+  "standard_resolved_ambiguity": "{standard_resolved_ambiguity}",
+  "sense": {sense}
+}}"""
 
 if __name__ == "__main__":
   model_name = "qvq-max"
@@ -159,8 +180,7 @@ if __name__ == "__main__":
 
   today=datetime.date.today()
 
-  # root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qvq-max训练集思维链-{today}/"
-  root = "test"
+  root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/qvq-max训练集思维链加答案-{today}/"
   Path(root).mkdir(parents=True, exist_ok=True)
   print("路径保存地址在", root)
   image_folder_3am = "/mnt/workspace/xintong/ambi_plus/3am_images/"

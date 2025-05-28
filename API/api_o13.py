@@ -144,19 +144,7 @@ Input will include:
 - (Invisible guidance): target translation and ambiguity clarifications to guide your own internal reasoning
 
 Now begin the reasoning process using this structure.
-
-{
-  "en": "The man is flashing the peace sign.",
-  "standard_zh": "那个男人正在向某人比划和平手势。",
-  "standard_resolved_ambiguity": "通过图片确认，该短语指的是用手做出和平手势（V字手势），而不是展示其他物理标志。",
-  "sense": [
-    {
-      "term": "flashing the peace sign",
-      "type": "lexical",
-      "gold_interpretation": "正在向某人比划和平手势"
-    }
-  ]
-}"""
+"""
 user_input2 = """{{
   "en": "{en}",
   "standard_zh": "{standard_zh}",
