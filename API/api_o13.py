@@ -10,15 +10,24 @@ import base64
 import time
 import argparse
 import datetime
+from openai import OpenAI
 
-with open('/mnt/workspace/xintong/api_key.txt', 'r') as f:
-    lines = f.readlines()
+# with open('/mnt/workspace/xintong/api_key.txt', 'r') as f:
+#     lines = f.readlines()
 
-API_KEY = lines[0].strip()
-BASE_URL = lines[1].strip()
+# API_KEY = lines[0].strip()
+# BASE_URL = lines[1].strip()
 
-openai.api_key = API_KEY
-openai.base_url = BASE_URL
+# openai.api_key = API_KEY
+# openai.base_url = BASE_URL
+client = OpenAI(
+        # 若没有配置环境变量，请用百炼API Key将下行替换为：api_key="sk-xxx",
+        # api_key="sk-0c4a3f9aafc94b528b94eaae23233d65",
+        api_key="sk-29bb235d13e94af595cca1ca01e717b0",
+        # api_key = "sk-194bde9b6ba1432d94afe8f5698f9495",
+        # api_key = "sk-a6c64d428f5d4772a5dfd7f96963f75a",
+        base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+    )
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
@@ -27,7 +36,7 @@ def encode_image(image_path):
 def call_api(text, system_prompt, image):
     
     base64_image = encode_image(image)
-    response = openai.chat.completions.create(
+    response = client.chat.completions.create(
         # model="模型",
         model = model_name, # 图文
         messages=[
@@ -204,11 +213,12 @@ def find_ambi(ref, image_folder):
         else:
             # 如果达到最大重试次数仍然失败，记录空结果, break不会进入else
             print(f"Skipping {idx}")
-            outputs
+            outputs = ""
             if last_error:  # 确保 last_error 不是 None
                 item["error"]=str(last_error)
         item["o13_output"]=outputs
         result.append(item)
+        break
 
     output_path = os.path.join(root, f"{model_name}_{os.path.basename(ref)}")
     print(f"Saving results to: {output_path}")
@@ -216,7 +226,8 @@ def find_ambi(ref, image_folder):
 
 
 if __name__ == "__main__":
-    model_name = "o1-2024-12-17"
+    # model_name = "o1-2024-12-17"
+    model_name = "qwen-vl-max"
     print(model_name)
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -233,11 +244,14 @@ if __name__ == "__main__":
 
     today=datetime.date.today()
 
-    root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/{model_name}训练集思维链加答案-{today}/"
+    # root = f"/mnt/workspace/xintong/pjh/All_result/JP_AmbiTrans/{model_name}训练集思维链加答案-{today}/"
+    root = "test"
     Path(root).mkdir(parents=True, exist_ok=True)
     print("路径保存地址在", root)
-    image_folder_3am = "/mnt/workspace/xintong/ambi_plus/3am_images/"
-    image_folder_mma = "/mnt/workspace/xintong/pjh/dataset/MMA/"
+    # image_folder_3am = "/mnt/workspace/xintong/ambi_plus/3am_images/"
+    # image_folder_mma = "/mnt/workspace/xintong/pjh/dataset/MMA/"
+    image_folder_3am = "/Users/piko/Desktop/MT/3am_plus/3am_images/"
+    image_folder_mma = "/Users/piko/Desktop/MT/图文不匹配/MMA/MMA/"
 
     """第一个terminal"""
     if terminal == 1:
